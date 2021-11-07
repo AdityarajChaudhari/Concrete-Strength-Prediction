@@ -1,0 +1,477 @@
+2021-10-30	16:25:49		Accessing the data to Split
+2021-10-30	16:25:49		Splitting the data into training and testing set
+2021-10-30	16:25:49		Data Splitted into training and testing set successfully!!
+2021-10-30	16:43:19		Accessing the data to Split
+2021-10-30	16:43:19		Splitting the data into training and testing set
+2021-10-30	16:43:19		Data Splitted into training and testing set successfully!!
+2021-10-30	16:49:25		Accessing the data to Split
+2021-10-30	16:49:25		Splitting the data into training and testing set
+2021-10-30	16:49:25		Data Splitted into training and testing set successfully!!
+2021-10-30	16:49:25		Accessing the data to Split
+2021-10-30	16:49:25		Splitting the data into training and testing set
+2021-10-30	16:49:25		Data Splitted into training and testing set successfully!!
+2021-10-30	16:50:27		Accessing the data to Split
+2021-10-30	16:50:27		Splitting the data into training and testing set
+2021-10-30	16:50:27		Data Splitted into training and testing set successfully!!
+2021-10-30	16:50:28		Accessing the data to Split
+2021-10-30	16:50:28		Splitting the data into training and testing set
+2021-10-30	16:50:28		Data Splitted into training and testing set successfully!!
+2021-10-30	16:50:41		Accessing the data to Split
+2021-10-30	16:50:41		Splitting the data into training and testing set
+2021-10-30	16:50:41		Data Splitted into training and testing set successfully!!
+2021-10-30	16:50:42		Accessing the data to Split
+2021-10-30	16:50:42		Splitting the data into training and testing set
+2021-10-30	16:50:42		Data Splitted into training and testing set successfully!!
+2021-10-30	16:50:42		Accessing the data to Split
+2021-10-30	16:50:42		Splitting the data into training and testing set
+2021-10-30	16:50:42		Data Splitted into training and testing set successfully!!
+2021-10-30	16:52:10		Accessing the data to Split
+2021-10-30	16:52:10		Splitting the data into training and testing set
+2021-10-30	16:52:10		Data Splitted into training and testing set successfully!!
+2021-10-30	16:52:11		Accessing the data to Split
+2021-10-30	16:52:11		Splitting the data into training and testing set
+2021-10-30	16:52:11		Data Splitted into training and testing set successfully!!
+2021-10-30	16:52:11		Accessing the data to Split
+2021-10-30	16:52:11		Splitting the data into training and testing set
+2021-10-30	16:52:11		Data Splitted into training and testing set successfully!!
+2021-10-30	16:52:11		Accessing the data to Split
+2021-10-30	16:52:11		Splitting the data into training and testing set
+2021-10-30	16:52:11		Data Splitted into training and testing set successfully!!
+2021-10-30	16:53:51		Accessing the data to Split
+2021-10-30	16:53:51		Splitting the data into training and testing set
+2021-10-30	16:53:51		Data Splitted into training and testing set successfully!!
+2021-10-30	16:53:52		Accessing the data to Split
+2021-10-30	16:53:52		Splitting the data into training and testing set
+2021-10-30	16:53:52		Data Splitted into training and testing set successfully!!
+2021-10-30	16:53:52		Accessing the data to Split
+2021-10-30	16:53:52		Splitting the data into training and testing set
+2021-10-30	16:53:52		Data Splitted into training and testing set successfully!!
+2021-10-30	16:53:53		Accessing the data to Split
+2021-10-30	16:53:53		Splitting the data into training and testing set
+2021-10-30	16:53:53		Data Splitted into training and testing set successfully!!
+2021-10-30	16:53:53		Accessing the data to Split
+2021-10-30	16:53:53		Splitting the data into training and testing set
+2021-10-30	16:53:53		Data Splitted into training and testing set successfully!!
+2021-10-30	17:18:58		Accessing the data to Split
+2021-10-30	17:18:58		Splitting the data into training and testing set
+2021-10-30	17:18:58		Data Splitted into training and testing set successfully!!
+2021-10-30	17:18:59		Accessing the data to Split
+2021-10-30	17:18:59		Splitting the data into training and testing set
+2021-10-30	17:18:59		Data Splitted into training and testing set successfully!!
+2021-10-30	17:19:42		Accessing the data to Split
+2021-10-30	17:19:42		Splitting the data into training and testing set
+2021-10-30	17:19:42		Data Splitted into training and testing set successfully!!
+2021-10-30	17:19:42		Accessing the data to Split
+2021-10-30	17:19:42		Splitting the data into training and testing set
+2021-10-30	17:19:42		Data Splitted into training and testing set successfully!!
+2021-10-30	17:23:52		Accessing the data to Split
+2021-10-30	17:23:52		Splitting the data into training and testing set
+2021-10-30	17:23:52		Data Splitted into training and testing set successfully!!
+2021-10-30	17:23:52		Accessing the data to Split
+2021-10-30	17:23:52		Splitting the data into training and testing set
+2021-10-30	17:23:52		Data Splitted into training and testing set successfully!!
+2021-10-30	17:23:53		Accessing the data to Split
+2021-10-30	17:23:53		Splitting the data into training and testing set
+2021-10-30	17:23:53		Data Splitted into training and testing set successfully!!
+2021-10-30	17:23:53		Accessing the data to Split
+2021-10-30	17:23:53		Splitting the data into training and testing set
+2021-10-30	17:23:53		Data Splitted into training and testing set successfully!!
+2021-10-30	17:23:53		Accessing the data to Split
+2021-10-30	17:23:53		Splitting the data into training and testing set
+2021-10-30	17:23:53		Data Splitted into training and testing set successfully!!
+2021-10-30	17:23:53		Accessing the data to Split
+2021-10-30	17:23:53		Splitting the data into training and testing set
+2021-10-30	17:23:53		Data Splitted into training and testing set successfully!!
+2021-10-30	17:23:54		Accessing the data to Split
+2021-10-30	17:23:54		Splitting the data into training and testing set
+2021-10-30	17:23:54		Data Splitted into training and testing set successfully!!
+2021-10-30	17:23:54		Accessing the data to Split
+2021-10-30	17:23:54		Splitting the data into training and testing set
+2021-10-30	17:23:54		Data Splitted into training and testing set successfully!!
+2021-10-30	17:23:55		Accessing the data to Split
+2021-10-30	17:23:55		Splitting the data into training and testing set
+2021-10-30	17:23:55		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:22		Accessing the data to Split
+2021-10-30	17:24:22		Splitting the data into training and testing set
+2021-10-30	17:24:22		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:23		Accessing the data to Split
+2021-10-30	17:24:23		Splitting the data into training and testing set
+2021-10-30	17:24:23		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:23		Accessing the data to Split
+2021-10-30	17:24:23		Splitting the data into training and testing set
+2021-10-30	17:24:23		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:24		Accessing the data to Split
+2021-10-30	17:24:24		Splitting the data into training and testing set
+2021-10-30	17:24:24		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:24		Accessing the data to Split
+2021-10-30	17:24:24		Splitting the data into training and testing set
+2021-10-30	17:24:24		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:24		Accessing the data to Split
+2021-10-30	17:24:24		Splitting the data into training and testing set
+2021-10-30	17:24:24		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:24		Accessing the data to Split
+2021-10-30	17:24:24		Splitting the data into training and testing set
+2021-10-30	17:24:24		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:25		Accessing the data to Split
+2021-10-30	17:24:25		Splitting the data into training and testing set
+2021-10-30	17:24:25		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:25		Accessing the data to Split
+2021-10-30	17:24:25		Splitting the data into training and testing set
+2021-10-30	17:24:25		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:43		Accessing the data to Split
+2021-10-30	17:24:43		Splitting the data into training and testing set
+2021-10-30	17:24:43		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:43		Accessing the data to Split
+2021-10-30	17:24:43		Splitting the data into training and testing set
+2021-10-30	17:24:43		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:44		Accessing the data to Split
+2021-10-30	17:24:44		Splitting the data into training and testing set
+2021-10-30	17:24:44		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:44		Accessing the data to Split
+2021-10-30	17:24:44		Splitting the data into training and testing set
+2021-10-30	17:24:44		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:44		Accessing the data to Split
+2021-10-30	17:24:44		Splitting the data into training and testing set
+2021-10-30	17:24:44		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:44		Accessing the data to Split
+2021-10-30	17:24:44		Splitting the data into training and testing set
+2021-10-30	17:24:44		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:45		Accessing the data to Split
+2021-10-30	17:24:45		Splitting the data into training and testing set
+2021-10-30	17:24:45		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:46		Accessing the data to Split
+2021-10-30	17:24:46		Splitting the data into training and testing set
+2021-10-30	17:24:46		Data Splitted into training and testing set successfully!!
+2021-10-30	17:24:46		Accessing the data to Split
+2021-10-30	17:24:46		Splitting the data into training and testing set
+2021-10-30	17:24:46		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:08		Accessing the data to Split
+2021-10-30	17:25:08		Splitting the data into training and testing set
+2021-10-30	17:25:08		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:08		Accessing the data to Split
+2021-10-30	17:25:08		Splitting the data into training and testing set
+2021-10-30	17:25:08		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:09		Accessing the data to Split
+2021-10-30	17:25:09		Splitting the data into training and testing set
+2021-10-30	17:25:09		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:09		Accessing the data to Split
+2021-10-30	17:25:09		Splitting the data into training and testing set
+2021-10-30	17:25:09		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:09		Accessing the data to Split
+2021-10-30	17:25:09		Splitting the data into training and testing set
+2021-10-30	17:25:09		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:09		Accessing the data to Split
+2021-10-30	17:25:09		Splitting the data into training and testing set
+2021-10-30	17:25:09		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:10		Accessing the data to Split
+2021-10-30	17:25:10		Splitting the data into training and testing set
+2021-10-30	17:25:10		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:10		Accessing the data to Split
+2021-10-30	17:25:10		Splitting the data into training and testing set
+2021-10-30	17:25:10		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:10		Accessing the data to Split
+2021-10-30	17:25:10		Splitting the data into training and testing set
+2021-10-30	17:25:10		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:38		Accessing the data to Split
+2021-10-30	17:25:38		Splitting the data into training and testing set
+2021-10-30	17:25:38		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:39		Accessing the data to Split
+2021-10-30	17:25:39		Splitting the data into training and testing set
+2021-10-30	17:25:39		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:39		Accessing the data to Split
+2021-10-30	17:25:39		Splitting the data into training and testing set
+2021-10-30	17:25:39		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:40		Accessing the data to Split
+2021-10-30	17:25:40		Splitting the data into training and testing set
+2021-10-30	17:25:40		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:40		Accessing the data to Split
+2021-10-30	17:25:40		Splitting the data into training and testing set
+2021-10-30	17:25:40		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:40		Accessing the data to Split
+2021-10-30	17:25:40		Splitting the data into training and testing set
+2021-10-30	17:25:40		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:41		Accessing the data to Split
+2021-10-30	17:25:41		Splitting the data into training and testing set
+2021-10-30	17:25:41		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:41		Accessing the data to Split
+2021-10-30	17:25:41		Splitting the data into training and testing set
+2021-10-30	17:25:41		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:41		Accessing the data to Split
+2021-10-30	17:25:41		Splitting the data into training and testing set
+2021-10-30	17:25:41		Data Splitted into training and testing set successfully!!
+2021-10-30	17:25:59		Accessing the data to Split
+2021-10-30	17:25:59		Splitting the data into training and testing set
+2021-10-30	17:25:59		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:00		Accessing the data to Split
+2021-10-30	17:26:00		Splitting the data into training and testing set
+2021-10-30	17:26:00		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:00		Accessing the data to Split
+2021-10-30	17:26:00		Splitting the data into training and testing set
+2021-10-30	17:26:00		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:01		Accessing the data to Split
+2021-10-30	17:26:01		Splitting the data into training and testing set
+2021-10-30	17:26:01		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:01		Accessing the data to Split
+2021-10-30	17:26:01		Splitting the data into training and testing set
+2021-10-30	17:26:01		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:01		Accessing the data to Split
+2021-10-30	17:26:01		Splitting the data into training and testing set
+2021-10-30	17:26:01		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:01		Accessing the data to Split
+2021-10-30	17:26:01		Splitting the data into training and testing set
+2021-10-30	17:26:01		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:02		Accessing the data to Split
+2021-10-30	17:26:02		Splitting the data into training and testing set
+2021-10-30	17:26:02		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:02		Accessing the data to Split
+2021-10-30	17:26:02		Splitting the data into training and testing set
+2021-10-30	17:26:02		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:16		Accessing the data to Split
+2021-10-30	17:26:16		Splitting the data into training and testing set
+2021-10-30	17:26:16		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:16		Accessing the data to Split
+2021-10-30	17:26:16		Splitting the data into training and testing set
+2021-10-30	17:26:16		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:17		Accessing the data to Split
+2021-10-30	17:26:17		Splitting the data into training and testing set
+2021-10-30	17:26:17		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:17		Accessing the data to Split
+2021-10-30	17:26:17		Splitting the data into training and testing set
+2021-10-30	17:26:17		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:17		Accessing the data to Split
+2021-10-30	17:26:17		Splitting the data into training and testing set
+2021-10-30	17:26:17		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:17		Accessing the data to Split
+2021-10-30	17:26:17		Splitting the data into training and testing set
+2021-10-30	17:26:17		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:18		Accessing the data to Split
+2021-10-30	17:26:18		Splitting the data into training and testing set
+2021-10-30	17:26:18		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:18		Accessing the data to Split
+2021-10-30	17:26:18		Splitting the data into training and testing set
+2021-10-30	17:26:18		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:19		Accessing the data to Split
+2021-10-30	17:26:19		Splitting the data into training and testing set
+2021-10-30	17:26:19		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:50		Accessing the data to Split
+2021-10-30	17:26:50		Splitting the data into training and testing set
+2021-10-30	17:26:50		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:50		Accessing the data to Split
+2021-10-30	17:26:50		Splitting the data into training and testing set
+2021-10-30	17:26:50		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:51		Accessing the data to Split
+2021-10-30	17:26:51		Splitting the data into training and testing set
+2021-10-30	17:26:51		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:51		Accessing the data to Split
+2021-10-30	17:26:51		Splitting the data into training and testing set
+2021-10-30	17:26:51		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:51		Accessing the data to Split
+2021-10-30	17:26:51		Splitting the data into training and testing set
+2021-10-30	17:26:51		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:51		Accessing the data to Split
+2021-10-30	17:26:51		Splitting the data into training and testing set
+2021-10-30	17:26:51		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:52		Accessing the data to Split
+2021-10-30	17:26:52		Splitting the data into training and testing set
+2021-10-30	17:26:52		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:52		Accessing the data to Split
+2021-10-30	17:26:52		Splitting the data into training and testing set
+2021-10-30	17:26:52		Data Splitted into training and testing set successfully!!
+2021-10-30	17:26:52		Accessing the data to Split
+2021-10-30	17:26:52		Splitting the data into training and testing set
+2021-10-30	17:26:52		Data Splitted into training and testing set successfully!!
+2021-10-30	17:27:13		Accessing the data to Split
+2021-10-30	17:27:13		Splitting the data into training and testing set
+2021-10-30	17:27:13		Data Splitted into training and testing set successfully!!
+2021-10-30	17:27:14		Accessing the data to Split
+2021-10-30	17:27:14		Splitting the data into training and testing set
+2021-10-30	17:27:14		Data Splitted into training and testing set successfully!!
+2021-10-30	17:27:14		Accessing the data to Split
+2021-10-30	17:27:14		Splitting the data into training and testing set
+2021-10-30	17:27:14		Data Splitted into training and testing set successfully!!
+2021-10-30	17:27:15		Accessing the data to Split
+2021-10-30	17:27:15		Splitting the data into training and testing set
+2021-10-30	17:27:15		Data Splitted into training and testing set successfully!!
+2021-10-30	17:27:15		Accessing the data to Split
+2021-10-30	17:27:15		Splitting the data into training and testing set
+2021-10-30	17:27:15		Data Splitted into training and testing set successfully!!
+2021-10-30	17:27:15		Accessing the data to Split
+2021-10-30	17:27:15		Splitting the data into training and testing set
+2021-10-30	17:27:15		Data Splitted into training and testing set successfully!!
+2021-10-30	17:27:16		Accessing the data to Split
+2021-10-30	17:27:16		Splitting the data into training and testing set
+2021-10-30	17:27:16		Data Splitted into training and testing set successfully!!
+2021-10-30	17:27:16		Accessing the data to Split
+2021-10-30	17:27:16		Splitting the data into training and testing set
+2021-10-30	17:27:16		Data Splitted into training and testing set successfully!!
+2021-10-30	17:27:16		Accessing the data to Split
+2021-10-30	17:27:16		Splitting the data into training and testing set
+2021-10-30	17:27:16		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:24		Accessing the data to Split
+2021-10-31	08:16:24		Splitting the data into training and testing set
+2021-10-31	08:16:24		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:24		Accessing the data to Split
+2021-10-31	08:16:24		Splitting the data into training and testing set
+2021-10-31	08:16:24		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:25		Accessing the data to Split
+2021-10-31	08:16:25		Splitting the data into training and testing set
+2021-10-31	08:16:25		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:25		Accessing the data to Split
+2021-10-31	08:16:25		Splitting the data into training and testing set
+2021-10-31	08:16:25		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:25		Accessing the data to Split
+2021-10-31	08:16:25		Splitting the data into training and testing set
+2021-10-31	08:16:25		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:25		Accessing the data to Split
+2021-10-31	08:16:25		Splitting the data into training and testing set
+2021-10-31	08:16:25		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:25		Accessing the data to Split
+2021-10-31	08:16:25		Splitting the data into training and testing set
+2021-10-31	08:16:25		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:26		Accessing the data to Split
+2021-10-31	08:16:26		Splitting the data into training and testing set
+2021-10-31	08:16:26		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:26		Accessing the data to Split
+2021-10-31	08:16:26		Splitting the data into training and testing set
+2021-10-31	08:16:26		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:26		Accessing the data to Split
+2021-10-31	08:16:26		Splitting the data into training and testing set
+2021-10-31	08:16:26		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:27		Accessing the data to Split
+2021-10-31	08:16:27		Splitting the data into training and testing set
+2021-10-31	08:16:27		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:52		Accessing the data to Split
+2021-10-31	08:16:52		Splitting the data into training and testing set
+2021-10-31	08:16:52		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:52		Accessing the data to Split
+2021-10-31	08:16:52		Splitting the data into training and testing set
+2021-10-31	08:16:52		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:53		Accessing the data to Split
+2021-10-31	08:16:53		Splitting the data into training and testing set
+2021-10-31	08:16:53		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:53		Accessing the data to Split
+2021-10-31	08:16:53		Splitting the data into training and testing set
+2021-10-31	08:16:53		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:53		Accessing the data to Split
+2021-10-31	08:16:53		Splitting the data into training and testing set
+2021-10-31	08:16:53		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:53		Accessing the data to Split
+2021-10-31	08:16:53		Splitting the data into training and testing set
+2021-10-31	08:16:53		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:53		Accessing the data to Split
+2021-10-31	08:16:53		Splitting the data into training and testing set
+2021-10-31	08:16:53		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:54		Accessing the data to Split
+2021-10-31	08:16:54		Splitting the data into training and testing set
+2021-10-31	08:16:54		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:54		Accessing the data to Split
+2021-10-31	08:16:54		Splitting the data into training and testing set
+2021-10-31	08:16:54		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:54		Accessing the data to Split
+2021-10-31	08:16:54		Splitting the data into training and testing set
+2021-10-31	08:16:54		Data Splitted into training and testing set successfully!!
+2021-10-31	08:16:54		Accessing the data to Split
+2021-10-31	08:16:54		Splitting the data into training and testing set
+2021-10-31	08:16:54		Data Splitted into training and testing set successfully!!
+2021-10-31	08:19:24		Accessing the data to Split
+2021-10-31	08:19:24		Splitting the data into training and testing set
+2021-10-31	08:19:24		Data Splitted into training and testing set successfully!!
+2021-10-31	08:19:24		Accessing the data to Split
+2021-10-31	08:19:24		Splitting the data into training and testing set
+2021-10-31	08:19:24		Data Splitted into training and testing set successfully!!
+2021-10-31	08:19:25		Accessing the data to Split
+2021-10-31	08:19:25		Splitting the data into training and testing set
+2021-10-31	08:19:25		Data Splitted into training and testing set successfully!!
+2021-10-31	08:19:25		Accessing the data to Split
+2021-10-31	08:19:25		Splitting the data into training and testing set
+2021-10-31	08:19:25		Data Splitted into training and testing set successfully!!
+2021-10-31	08:19:25		Accessing the data to Split
+2021-10-31	08:19:25		Splitting the data into training and testing set
+2021-10-31	08:19:25		Data Splitted into training and testing set successfully!!
+2021-10-31	08:19:25		Accessing the data to Split
+2021-10-31	08:19:25		Splitting the data into training and testing set
+2021-10-31	08:19:25		Data Splitted into training and testing set successfully!!
+2021-10-31	08:19:25		Accessing the data to Split
+2021-10-31	08:19:25		Splitting the data into training and testing set
+2021-10-31	08:19:25		Data Splitted into training and testing set successfully!!
+2021-10-31	08:19:26		Accessing the data to Split
+2021-10-31	08:19:26		Splitting the data into training and testing set
+2021-10-31	08:19:26		Data Splitted into training and testing set successfully!!
+2021-10-31	08:19:26		Accessing the data to Split
+2021-10-31	08:19:26		Splitting the data into training and testing set
+2021-10-31	08:19:26		Data Splitted into training and testing set successfully!!
+2021-10-31	08:19:26		Accessing the data to Split
+2021-10-31	08:19:26		Splitting the data into training and testing set
+2021-10-31	08:19:26		Data Splitted into training and testing set successfully!!
+2021-10-31	08:19:27		Accessing the data to Split
+2021-10-31	08:19:27		Splitting the data into training and testing set
+2021-10-31	08:19:27		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:17		Accessing the data to Split
+2021-10-31	08:20:17		Splitting the data into training and testing set
+2021-10-31	08:20:17		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:18		Accessing the data to Split
+2021-10-31	08:20:18		Splitting the data into training and testing set
+2021-10-31	08:20:18		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:19		Accessing the data to Split
+2021-10-31	08:20:19		Splitting the data into training and testing set
+2021-10-31	08:20:19		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:20		Accessing the data to Split
+2021-10-31	08:20:20		Splitting the data into training and testing set
+2021-10-31	08:20:20		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:20		Accessing the data to Split
+2021-10-31	08:20:20		Splitting the data into training and testing set
+2021-10-31	08:20:20		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:20		Accessing the data to Split
+2021-10-31	08:20:20		Splitting the data into training and testing set
+2021-10-31	08:20:20		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:20		Accessing the data to Split
+2021-10-31	08:20:20		Splitting the data into training and testing set
+2021-10-31	08:20:20		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:21		Accessing the data to Split
+2021-10-31	08:20:21		Splitting the data into training and testing set
+2021-10-31	08:20:21		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:22		Accessing the data to Split
+2021-10-31	08:20:22		Splitting the data into training and testing set
+2021-10-31	08:20:22		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:22		Accessing the data to Split
+2021-10-31	08:20:22		Splitting the data into training and testing set
+2021-10-31	08:20:22		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:23		Accessing the data to Split
+2021-10-31	08:20:23		Splitting the data into training and testing set
+2021-10-31	08:20:23		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:58		Accessing the data to Split
+2021-10-31	08:20:58		Splitting the data into training and testing set
+2021-10-31	08:20:58		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:58		Accessing the data to Split
+2021-10-31	08:20:58		Splitting the data into training and testing set
+2021-10-31	08:20:58		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:59		Accessing the data to Split
+2021-10-31	08:20:59		Splitting the data into training and testing set
+2021-10-31	08:20:59		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:59		Accessing the data to Split
+2021-10-31	08:20:59		Splitting the data into training and testing set
+2021-10-31	08:20:59		Data Splitted into training and testing set successfully!!
+2021-10-31	08:20:59		Accessing the data to Split
+2021-10-31	08:20:59		Splitting the data into training and testing set
+2021-10-31	08:20:59		Data Splitted into training and testing set successfully!!
+2021-10-31	08:21:00		Accessing the data to Split
+2021-10-31	08:21:00		Splitting the data into training and testing set
+2021-10-31	08:21:00		Data Splitted into training and testing set successfully!!
+2021-10-31	08:21:41		Accessing the data to Split
+2021-10-31	08:21:41		Splitting the data into training and testing set
+2021-10-31	08:21:41		Data Splitted into training and testing set successfully!!
+2021-10-31	08:21:41		Accessing the data to Split
+2021-10-31	08:21:41		Splitting the data into training and testing set
+2021-10-31	08:21:41		Data Splitted into training and testing set successfully!!
+2021-10-31	08:21:42		Accessing the data to Split
+2021-10-31	08:21:42		Splitting the data into training and testing set
+2021-10-31	08:21:42		Data Splitted into training and testing set successfully!!
+2021-10-31	08:21:42		Accessing the data to Split
+2021-10-31	08:21:42		Splitting the data into training and testing set
+2021-10-31	08:21:42		Data Splitted into training and testing set successfully!!
+2021-10-31	08:21:42		Accessing the data to Split
+2021-10-31	08:21:42		Splitting the data into training and testing set
+2021-10-31	08:21:42		Data Splitted into training and testing set successfully!!
+2021-10-31	08:21:43		Accessing the data to Split
+2021-10-31	08:21:43		Splitting the data into training and testing set
+2021-10-31	08:21:43		Data Splitted into training and testing set successfully!!

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>App</title>
+    <link rel="stylesheet" href="../static/index.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <header>
+                <h1>CONCRETE STRENGTH PREDICTION</h1>
+            </header>
+        </div>
+
+        <div class="back-page">
+            <a href="{{ url_for ('home') }}" , methods = "GET">
+                <input class="button" type="submit"  value="⬅Back TO home page" name="">
+            </a>
+        </div>
+
+
+
+        <div class="my-form">
+
+            <form>
+
+
+                <label class="cement">Cement</label><br><br>
+                <input class="cement-i" type="number" name="cement" placeholder="Cement"  step="1"  min="100" max="600" required="required"><br><br>
+
+                <label class="slag">Blast Furnace Slag</label><br><br>
+                <input class="slag-i" type="number" name="Blast Furnace Slag" placeholder="Blast Furnace Slag"  step="1" min="0" max="400" required="required"><br><br>
+
+                <label class="ash">Fly Ash</label><br><br>
+                <input class="ash-i" type="number" name="Fly Ash" placeholder="Fly Ash"  step="1" min="0" max="225" required="required">
+                <br>
+
+                <label class="water">Water</label><br><br>
+                <input class="water-i" type="number" name="Water" placeholder="Water"  step="1" min="110" max="260" required="required">
+                <br>
+                <br>
+
+                <label class="sup">SuperPlasticizer</label><br><br>
+                <input class="sup-i" type="number" name="SuperPlasticizer" placeholder="SuperPlasticizer"  step="1" min="1" max="20" required="required">
+                <br>
+                <br>
+
+
+                <label class="coagg">Coarse Aggregate</label><br><br>
+                <input class="coagg-i" type="number" name="Coarse Aggregate" placeholder="Coarse Aggregate"  step="1" min="800" max="1200" required="required">
+                <br>
+                <br>
+
+
+                <label class="finagg">Fine Aggregate</label><br><br>
+                <input class="finagg-i" type="number" name="Fine Aggregate" placeholder="Fine Aggregate"  step="1" min="550" max="1000" required="required"><br>
+                <br>
+
+
+                <label class="week">Days/Weeks</label><br><br>
+                <select class="week-i" name="week" id="week" required="required">
+                <option disabled selected value>  - select -  </option>
+                <option value="3" >3 or Less than 3 Days</option>
+                <option value="1week" >1 Week</option>
+                <option value="2weeks" >2 Weeks</option>
+                <option value="4weeks" >4 Weeks</option>
+                <option value="8weeks" >8 Weeks</option>
+                <option value="13weeks" >13 Weeks</option>
+                <option value="moreweeks" >More than 13 Weeks</option>
+                </select><br>
+                <br>
+
+
+
+
+
+                <button  type="reset" class="reset-but">Reset</button>
+
+                <br><br>
+
+
+                <button  formaction="{{url_for ('predict')}}" formmethod="post" type="submit" class="submit-but" value="predict">Predict</button>
+
+
+
+                <div class="foot">
+                    <footer><marquee>Copyright © 2021 by Adityaraj Hemant Chaudhari</marquee></footer>
+                </div>
+            </form>
+
+        </div>
+
+
+
+    </div>
+
+</body>
+</html>

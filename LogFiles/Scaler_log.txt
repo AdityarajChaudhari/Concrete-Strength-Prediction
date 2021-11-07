@@ -1,0 +1,1965 @@
+2021-10-29	16:59:12		Accessing the Dependent & Independent Data
+2021-10-29	16:59:39		Accessing the Dependent & Independent Data
+2021-10-29	16:59:39		Using StandardScaler to Scale down the data
+2021-10-29	16:59:39		Data Scaled Successfully!!
+2021-10-29	17:09:21		Accessing the Dependent & Independent Data
+2021-10-29	17:09:21		Using StandardScaler to Scale down the data
+2021-10-29	17:09:21		Data Scaled Successfully!!
+2021-10-29	17:09:21		Saving the Scaler in the Serialized manner i.e in Pickle Format
+2021-10-29	17:09:21		Accessing the Dependent & Independent Data
+2021-10-29	17:09:21		Using StandardScaler to Scale down the data
+2021-10-29	17:09:21		Data Scaled Successfully!!
+2021-10-29	17:09:21		StandardScaler Saved in pickle format
+2021-10-30	16:20:50		Accessing the Dependent & Independent Data
+2021-10-30	16:20:50		Using StandardScaler to Scale down the data
+2021-10-30	16:20:50		Data Scaled Successfully!!
+2021-10-30	16:25:49		Accessing the Dependent & Independent Data
+2021-10-30	16:25:49		Using StandardScaler to Scale down the data
+2021-10-30	16:25:49		Data Scaled Successfully!!
+2021-10-30	16:43:19		Accessing the Dependent & Independent Data
+2021-10-30	16:43:19		Using StandardScaler to Scale down the data
+2021-10-30	16:43:19		Data Scaled Successfully!!
+2021-10-30	16:49:25		Accessing the Dependent & Independent Data
+2021-10-30	16:49:25		Using StandardScaler to Scale down the data
+2021-10-30	16:49:25		Data Scaled Successfully!!
+2021-10-30	16:49:25		Accessing the Dependent & Independent Data
+2021-10-30	16:49:25		Using StandardScaler to Scale down the data
+2021-10-30	16:49:25		Data Scaled Successfully!!
+2021-10-30	16:50:27		Accessing the Dependent & Independent Data
+2021-10-30	16:50:27		Using StandardScaler to Scale down the data
+2021-10-30	16:50:27		Data Scaled Successfully!!
+2021-10-30	16:50:28		Accessing the Dependent & Independent Data
+2021-10-30	16:50:28		Using StandardScaler to Scale down the data
+2021-10-30	16:50:28		Data Scaled Successfully!!
+2021-10-30	16:50:41		Accessing the Dependent & Independent Data
+2021-10-30	16:50:41		Using StandardScaler to Scale down the data
+2021-10-30	16:50:41		Data Scaled Successfully!!
+2021-10-30	16:50:42		Accessing the Dependent & Independent Data
+2021-10-30	16:50:42		Using StandardScaler to Scale down the data
+2021-10-30	16:50:42		Data Scaled Successfully!!
+2021-10-30	16:50:42		Accessing the Dependent & Independent Data
+2021-10-30	16:50:42		Using StandardScaler to Scale down the data
+2021-10-30	16:50:42		Data Scaled Successfully!!
+2021-10-30	16:52:10		Accessing the Dependent & Independent Data
+2021-10-30	16:52:10		Using StandardScaler to Scale down the data
+2021-10-30	16:52:10		Data Scaled Successfully!!
+2021-10-30	16:52:11		Accessing the Dependent & Independent Data
+2021-10-30	16:52:11		Using StandardScaler to Scale down the data
+2021-10-30	16:52:11		Data Scaled Successfully!!
+2021-10-30	16:52:11		Accessing the Dependent & Independent Data
+2021-10-30	16:52:11		Using StandardScaler to Scale down the data
+2021-10-30	16:52:11		Data Scaled Successfully!!
+2021-10-30	16:52:11		Accessing the Dependent & Independent Data
+2021-10-30	16:52:11		Using StandardScaler to Scale down the data
+2021-10-30	16:52:11		Data Scaled Successfully!!
+2021-10-30	16:53:51		Accessing the Dependent & Independent Data
+2021-10-30	16:53:51		Using StandardScaler to Scale down the data
+2021-10-30	16:53:51		Data Scaled Successfully!!
+2021-10-30	16:53:52		Accessing the Dependent & Independent Data
+2021-10-30	16:53:52		Using StandardScaler to Scale down the data
+2021-10-30	16:53:52		Data Scaled Successfully!!
+2021-10-30	16:53:52		Accessing the Dependent & Independent Data
+2021-10-30	16:53:52		Using StandardScaler to Scale down the data
+2021-10-30	16:53:52		Data Scaled Successfully!!
+2021-10-30	16:53:53		Accessing the Dependent & Independent Data
+2021-10-30	16:53:53		Using StandardScaler to Scale down the data
+2021-10-30	16:53:53		Data Scaled Successfully!!
+2021-10-30	16:53:53		Accessing the Dependent & Independent Data
+2021-10-30	16:53:53		Using StandardScaler to Scale down the data
+2021-10-30	16:53:53		Data Scaled Successfully!!
+2021-10-30	17:18:58		Accessing the Dependent & Independent Data
+2021-10-30	17:18:58		Using StandardScaler to Scale down the data
+2021-10-30	17:18:58		Data Scaled Successfully!!
+2021-10-30	17:18:59		Accessing the Dependent & Independent Data
+2021-10-30	17:18:59		Using StandardScaler to Scale down the data
+2021-10-30	17:18:59		Data Scaled Successfully!!
+2021-10-30	17:19:42		Accessing the Dependent & Independent Data
+2021-10-30	17:19:42		Using StandardScaler to Scale down the data
+2021-10-30	17:19:42		Data Scaled Successfully!!
+2021-10-30	17:19:42		Accessing the Dependent & Independent Data
+2021-10-30	17:19:42		Using StandardScaler to Scale down the data
+2021-10-30	17:19:42		Data Scaled Successfully!!
+2021-10-30	17:23:52		Accessing the Dependent & Independent Data
+2021-10-30	17:23:52		Using StandardScaler to Scale down the data
+2021-10-30	17:23:52		Data Scaled Successfully!!
+2021-10-30	17:23:52		Accessing the Dependent & Independent Data
+2021-10-30	17:23:52		Using StandardScaler to Scale down the data
+2021-10-30	17:23:52		Data Scaled Successfully!!
+2021-10-30	17:23:53		Accessing the Dependent & Independent Data
+2021-10-30	17:23:53		Using StandardScaler to Scale down the data
+2021-10-30	17:23:53		Data Scaled Successfully!!
+2021-10-30	17:23:53		Accessing the Dependent & Independent Data
+2021-10-30	17:23:53		Using StandardScaler to Scale down the data
+2021-10-30	17:23:53		Data Scaled Successfully!!
+2021-10-30	17:23:53		Accessing the Dependent & Independent Data
+2021-10-30	17:23:53		Using StandardScaler to Scale down the data
+2021-10-30	17:23:53		Data Scaled Successfully!!
+2021-10-30	17:23:53		Accessing the Dependent & Independent Data
+2021-10-30	17:23:53		Using StandardScaler to Scale down the data
+2021-10-30	17:23:53		Data Scaled Successfully!!
+2021-10-30	17:23:54		Accessing the Dependent & Independent Data
+2021-10-30	17:23:54		Using StandardScaler to Scale down the data
+2021-10-30	17:23:54		Data Scaled Successfully!!
+2021-10-30	17:23:54		Accessing the Dependent & Independent Data
+2021-10-30	17:23:54		Using StandardScaler to Scale down the data
+2021-10-30	17:23:54		Data Scaled Successfully!!
+2021-10-30	17:23:55		Accessing the Dependent & Independent Data
+2021-10-30	17:23:55		Using StandardScaler to Scale down the data
+2021-10-30	17:23:55		Data Scaled Successfully!!
+2021-10-30	17:24:22		Accessing the Dependent & Independent Data
+2021-10-30	17:24:22		Using StandardScaler to Scale down the data
+2021-10-30	17:24:22		Data Scaled Successfully!!
+2021-10-30	17:24:23		Accessing the Dependent & Independent Data
+2021-10-30	17:24:23		Using StandardScaler to Scale down the data
+2021-10-30	17:24:23		Data Scaled Successfully!!
+2021-10-30	17:24:23		Accessing the Dependent & Independent Data
+2021-10-30	17:24:23		Using StandardScaler to Scale down the data
+2021-10-30	17:24:23		Data Scaled Successfully!!
+2021-10-30	17:24:24		Accessing the Dependent & Independent Data
+2021-10-30	17:24:24		Using StandardScaler to Scale down the data
+2021-10-30	17:24:24		Data Scaled Successfully!!
+2021-10-30	17:24:24		Accessing the Dependent & Independent Data
+2021-10-30	17:24:24		Using StandardScaler to Scale down the data
+2021-10-30	17:24:24		Data Scaled Successfully!!
+2021-10-30	17:24:24		Accessing the Dependent & Independent Data
+2021-10-30	17:24:24		Using StandardScaler to Scale down the data
+2021-10-30	17:24:24		Data Scaled Successfully!!
+2021-10-30	17:24:24		Accessing the Dependent & Independent Data
+2021-10-30	17:24:24		Using StandardScaler to Scale down the data
+2021-10-30	17:24:24		Data Scaled Successfully!!
+2021-10-30	17:24:25		Accessing the Dependent & Independent Data
+2021-10-30	17:24:25		Using StandardScaler to Scale down the data
+2021-10-30	17:24:25		Data Scaled Successfully!!
+2021-10-30	17:24:25		Accessing the Dependent & Independent Data
+2021-10-30	17:24:25		Using StandardScaler to Scale down the data
+2021-10-30	17:24:25		Data Scaled Successfully!!
+2021-10-30	17:24:43		Accessing the Dependent & Independent Data
+2021-10-30	17:24:43		Using StandardScaler to Scale down the data
+2021-10-30	17:24:43		Data Scaled Successfully!!
+2021-10-30	17:24:43		Accessing the Dependent & Independent Data
+2021-10-30	17:24:43		Using StandardScaler to Scale down the data
+2021-10-30	17:24:43		Data Scaled Successfully!!
+2021-10-30	17:24:44		Accessing the Dependent & Independent Data
+2021-10-30	17:24:44		Using StandardScaler to Scale down the data
+2021-10-30	17:24:44		Data Scaled Successfully!!
+2021-10-30	17:24:44		Accessing the Dependent & Independent Data
+2021-10-30	17:24:44		Using StandardScaler to Scale down the data
+2021-10-30	17:24:44		Data Scaled Successfully!!
+2021-10-30	17:24:44		Accessing the Dependent & Independent Data
+2021-10-30	17:24:44		Using StandardScaler to Scale down the data
+2021-10-30	17:24:44		Data Scaled Successfully!!
+2021-10-30	17:24:44		Accessing the Dependent & Independent Data
+2021-10-30	17:24:44		Using StandardScaler to Scale down the data
+2021-10-30	17:24:44		Data Scaled Successfully!!
+2021-10-30	17:24:45		Accessing the Dependent & Independent Data
+2021-10-30	17:24:45		Using StandardScaler to Scale down the data
+2021-10-30	17:24:45		Data Scaled Successfully!!
+2021-10-30	17:24:46		Accessing the Dependent & Independent Data
+2021-10-30	17:24:46		Using StandardScaler to Scale down the data
+2021-10-30	17:24:46		Data Scaled Successfully!!
+2021-10-30	17:24:46		Accessing the Dependent & Independent Data
+2021-10-30	17:24:46		Using StandardScaler to Scale down the data
+2021-10-30	17:24:46		Data Scaled Successfully!!
+2021-10-30	17:25:08		Accessing the Dependent & Independent Data
+2021-10-30	17:25:08		Using StandardScaler to Scale down the data
+2021-10-30	17:25:08		Data Scaled Successfully!!
+2021-10-30	17:25:08		Accessing the Dependent & Independent Data
+2021-10-30	17:25:08		Using StandardScaler to Scale down the data
+2021-10-30	17:25:08		Data Scaled Successfully!!
+2021-10-30	17:25:09		Accessing the Dependent & Independent Data
+2021-10-30	17:25:09		Using StandardScaler to Scale down the data
+2021-10-30	17:25:09		Data Scaled Successfully!!
+2021-10-30	17:25:09		Accessing the Dependent & Independent Data
+2021-10-30	17:25:09		Using StandardScaler to Scale down the data
+2021-10-30	17:25:09		Data Scaled Successfully!!
+2021-10-30	17:25:09		Accessing the Dependent & Independent Data
+2021-10-30	17:25:09		Using StandardScaler to Scale down the data
+2021-10-30	17:25:09		Data Scaled Successfully!!
+2021-10-30	17:25:09		Accessing the Dependent & Independent Data
+2021-10-30	17:25:09		Using StandardScaler to Scale down the data
+2021-10-30	17:25:09		Data Scaled Successfully!!
+2021-10-30	17:25:10		Accessing the Dependent & Independent Data
+2021-10-30	17:25:10		Using StandardScaler to Scale down the data
+2021-10-30	17:25:10		Data Scaled Successfully!!
+2021-10-30	17:25:10		Accessing the Dependent & Independent Data
+2021-10-30	17:25:10		Using StandardScaler to Scale down the data
+2021-10-30	17:25:10		Data Scaled Successfully!!
+2021-10-30	17:25:10		Accessing the Dependent & Independent Data
+2021-10-30	17:25:10		Using StandardScaler to Scale down the data
+2021-10-30	17:25:10		Data Scaled Successfully!!
+2021-10-30	17:25:38		Accessing the Dependent & Independent Data
+2021-10-30	17:25:38		Using StandardScaler to Scale down the data
+2021-10-30	17:25:38		Data Scaled Successfully!!
+2021-10-30	17:25:39		Accessing the Dependent & Independent Data
+2021-10-30	17:25:39		Using StandardScaler to Scale down the data
+2021-10-30	17:25:39		Data Scaled Successfully!!
+2021-10-30	17:25:39		Accessing the Dependent & Independent Data
+2021-10-30	17:25:39		Using StandardScaler to Scale down the data
+2021-10-30	17:25:39		Data Scaled Successfully!!
+2021-10-30	17:25:40		Accessing the Dependent & Independent Data
+2021-10-30	17:25:40		Using StandardScaler to Scale down the data
+2021-10-30	17:25:40		Data Scaled Successfully!!
+2021-10-30	17:25:40		Accessing the Dependent & Independent Data
+2021-10-30	17:25:40		Using StandardScaler to Scale down the data
+2021-10-30	17:25:40		Data Scaled Successfully!!
+2021-10-30	17:25:40		Accessing the Dependent & Independent Data
+2021-10-30	17:25:40		Using StandardScaler to Scale down the data
+2021-10-30	17:25:40		Data Scaled Successfully!!
+2021-10-30	17:25:41		Accessing the Dependent & Independent Data
+2021-10-30	17:25:41		Using StandardScaler to Scale down the data
+2021-10-30	17:25:41		Data Scaled Successfully!!
+2021-10-30	17:25:41		Accessing the Dependent & Independent Data
+2021-10-30	17:25:41		Using StandardScaler to Scale down the data
+2021-10-30	17:25:41		Data Scaled Successfully!!
+2021-10-30	17:25:41		Accessing the Dependent & Independent Data
+2021-10-30	17:25:41		Using StandardScaler to Scale down the data
+2021-10-30	17:25:41		Data Scaled Successfully!!
+2021-10-30	17:25:59		Accessing the Dependent & Independent Data
+2021-10-30	17:25:59		Using StandardScaler to Scale down the data
+2021-10-30	17:25:59		Data Scaled Successfully!!
+2021-10-30	17:26:00		Accessing the Dependent & Independent Data
+2021-10-30	17:26:00		Using StandardScaler to Scale down the data
+2021-10-30	17:26:00		Data Scaled Successfully!!
+2021-10-30	17:26:00		Accessing the Dependent & Independent Data
+2021-10-30	17:26:00		Using StandardScaler to Scale down the data
+2021-10-30	17:26:00		Data Scaled Successfully!!
+2021-10-30	17:26:01		Accessing the Dependent & Independent Data
+2021-10-30	17:26:01		Using StandardScaler to Scale down the data
+2021-10-30	17:26:01		Data Scaled Successfully!!
+2021-10-30	17:26:01		Accessing the Dependent & Independent Data
+2021-10-30	17:26:01		Using StandardScaler to Scale down the data
+2021-10-30	17:26:01		Data Scaled Successfully!!
+2021-10-30	17:26:01		Accessing the Dependent & Independent Data
+2021-10-30	17:26:01		Using StandardScaler to Scale down the data
+2021-10-30	17:26:01		Data Scaled Successfully!!
+2021-10-30	17:26:01		Accessing the Dependent & Independent Data
+2021-10-30	17:26:01		Using StandardScaler to Scale down the data
+2021-10-30	17:26:01		Data Scaled Successfully!!
+2021-10-30	17:26:02		Accessing the Dependent & Independent Data
+2021-10-30	17:26:02		Using StandardScaler to Scale down the data
+2021-10-30	17:26:02		Data Scaled Successfully!!
+2021-10-30	17:26:02		Accessing the Dependent & Independent Data
+2021-10-30	17:26:02		Using StandardScaler to Scale down the data
+2021-10-30	17:26:02		Data Scaled Successfully!!
+2021-10-30	17:26:16		Accessing the Dependent & Independent Data
+2021-10-30	17:26:16		Using StandardScaler to Scale down the data
+2021-10-30	17:26:16		Data Scaled Successfully!!
+2021-10-30	17:26:16		Accessing the Dependent & Independent Data
+2021-10-30	17:26:16		Using StandardScaler to Scale down the data
+2021-10-30	17:26:16		Data Scaled Successfully!!
+2021-10-30	17:26:17		Accessing the Dependent & Independent Data
+2021-10-30	17:26:17		Using StandardScaler to Scale down the data
+2021-10-30	17:26:17		Data Scaled Successfully!!
+2021-10-30	17:26:17		Accessing the Dependent & Independent Data
+2021-10-30	17:26:17		Using StandardScaler to Scale down the data
+2021-10-30	17:26:17		Data Scaled Successfully!!
+2021-10-30	17:26:17		Accessing the Dependent & Independent Data
+2021-10-30	17:26:17		Using StandardScaler to Scale down the data
+2021-10-30	17:26:17		Data Scaled Successfully!!
+2021-10-30	17:26:17		Accessing the Dependent & Independent Data
+2021-10-30	17:26:17		Using StandardScaler to Scale down the data
+2021-10-30	17:26:17		Data Scaled Successfully!!
+2021-10-30	17:26:18		Accessing the Dependent & Independent Data
+2021-10-30	17:26:18		Using StandardScaler to Scale down the data
+2021-10-30	17:26:18		Data Scaled Successfully!!
+2021-10-30	17:26:18		Accessing the Dependent & Independent Data
+2021-10-30	17:26:18		Using StandardScaler to Scale down the data
+2021-10-30	17:26:18		Data Scaled Successfully!!
+2021-10-30	17:26:19		Accessing the Dependent & Independent Data
+2021-10-30	17:26:19		Using StandardScaler to Scale down the data
+2021-10-30	17:26:19		Data Scaled Successfully!!
+2021-10-30	17:26:50		Accessing the Dependent & Independent Data
+2021-10-30	17:26:50		Using StandardScaler to Scale down the data
+2021-10-30	17:26:50		Data Scaled Successfully!!
+2021-10-30	17:26:50		Accessing the Dependent & Independent Data
+2021-10-30	17:26:50		Using StandardScaler to Scale down the data
+2021-10-30	17:26:50		Data Scaled Successfully!!
+2021-10-30	17:26:51		Accessing the Dependent & Independent Data
+2021-10-30	17:26:51		Using StandardScaler to Scale down the data
+2021-10-30	17:26:51		Data Scaled Successfully!!
+2021-10-30	17:26:51		Accessing the Dependent & Independent Data
+2021-10-30	17:26:51		Using StandardScaler to Scale down the data
+2021-10-30	17:26:51		Data Scaled Successfully!!
+2021-10-30	17:26:51		Accessing the Dependent & Independent Data
+2021-10-30	17:26:51		Using StandardScaler to Scale down the data
+2021-10-30	17:26:51		Data Scaled Successfully!!
+2021-10-30	17:26:51		Accessing the Dependent & Independent Data
+2021-10-30	17:26:51		Using StandardScaler to Scale down the data
+2021-10-30	17:26:51		Data Scaled Successfully!!
+2021-10-30	17:26:52		Accessing the Dependent & Independent Data
+2021-10-30	17:26:52		Using StandardScaler to Scale down the data
+2021-10-30	17:26:52		Data Scaled Successfully!!
+2021-10-30	17:26:52		Accessing the Dependent & Independent Data
+2021-10-30	17:26:52		Using StandardScaler to Scale down the data
+2021-10-30	17:26:52		Data Scaled Successfully!!
+2021-10-30	17:26:52		Accessing the Dependent & Independent Data
+2021-10-30	17:26:52		Using StandardScaler to Scale down the data
+2021-10-30	17:26:52		Data Scaled Successfully!!
+2021-10-30	17:27:13		Accessing the Dependent & Independent Data
+2021-10-30	17:27:13		Using StandardScaler to Scale down the data
+2021-10-30	17:27:13		Data Scaled Successfully!!
+2021-10-30	17:27:14		Accessing the Dependent & Independent Data
+2021-10-30	17:27:14		Using StandardScaler to Scale down the data
+2021-10-30	17:27:14		Data Scaled Successfully!!
+2021-10-30	17:27:14		Accessing the Dependent & Independent Data
+2021-10-30	17:27:14		Using StandardScaler to Scale down the data
+2021-10-30	17:27:14		Data Scaled Successfully!!
+2021-10-30	17:27:15		Accessing the Dependent & Independent Data
+2021-10-30	17:27:15		Using StandardScaler to Scale down the data
+2021-10-30	17:27:15		Data Scaled Successfully!!
+2021-10-30	17:27:15		Accessing the Dependent & Independent Data
+2021-10-30	17:27:15		Using StandardScaler to Scale down the data
+2021-10-30	17:27:15		Data Scaled Successfully!!
+2021-10-30	17:27:15		Accessing the Dependent & Independent Data
+2021-10-30	17:27:15		Using StandardScaler to Scale down the data
+2021-10-30	17:27:15		Data Scaled Successfully!!
+2021-10-30	17:27:16		Accessing the Dependent & Independent Data
+2021-10-30	17:27:16		Using StandardScaler to Scale down the data
+2021-10-30	17:27:16		Data Scaled Successfully!!
+2021-10-30	17:27:16		Accessing the Dependent & Independent Data
+2021-10-30	17:27:16		Using StandardScaler to Scale down the data
+2021-10-30	17:27:16		Data Scaled Successfully!!
+2021-10-30	17:27:16		Accessing the Dependent & Independent Data
+2021-10-30	17:27:16		Using StandardScaler to Scale down the data
+2021-10-30	17:27:16		Data Scaled Successfully!!
+2021-10-31	08:16:24		Accessing the Dependent & Independent Data
+2021-10-31	08:16:24		Using StandardScaler to Scale down the data
+2021-10-31	08:16:24		Data Scaled Successfully!!
+2021-10-31	08:16:24		Accessing the Dependent & Independent Data
+2021-10-31	08:16:24		Using StandardScaler to Scale down the data
+2021-10-31	08:16:24		Data Scaled Successfully!!
+2021-10-31	08:16:25		Accessing the Dependent & Independent Data
+2021-10-31	08:16:25		Using StandardScaler to Scale down the data
+2021-10-31	08:16:25		Data Scaled Successfully!!
+2021-10-31	08:16:25		Accessing the Dependent & Independent Data
+2021-10-31	08:16:25		Using StandardScaler to Scale down the data
+2021-10-31	08:16:25		Data Scaled Successfully!!
+2021-10-31	08:16:25		Accessing the Dependent & Independent Data
+2021-10-31	08:16:25		Using StandardScaler to Scale down the data
+2021-10-31	08:16:25		Data Scaled Successfully!!
+2021-10-31	08:16:25		Accessing the Dependent & Independent Data
+2021-10-31	08:16:25		Using StandardScaler to Scale down the data
+2021-10-31	08:16:25		Data Scaled Successfully!!
+2021-10-31	08:16:25		Accessing the Dependent & Independent Data
+2021-10-31	08:16:25		Using StandardScaler to Scale down the data
+2021-10-31	08:16:25		Data Scaled Successfully!!
+2021-10-31	08:16:26		Accessing the Dependent & Independent Data
+2021-10-31	08:16:26		Using StandardScaler to Scale down the data
+2021-10-31	08:16:26		Data Scaled Successfully!!
+2021-10-31	08:16:26		Accessing the Dependent & Independent Data
+2021-10-31	08:16:26		Using StandardScaler to Scale down the data
+2021-10-31	08:16:26		Data Scaled Successfully!!
+2021-10-31	08:16:26		Accessing the Dependent & Independent Data
+2021-10-31	08:16:26		Using StandardScaler to Scale down the data
+2021-10-31	08:16:26		Data Scaled Successfully!!
+2021-10-31	08:16:27		Accessing the Dependent & Independent Data
+2021-10-31	08:16:27		Using StandardScaler to Scale down the data
+2021-10-31	08:16:27		Data Scaled Successfully!!
+2021-10-31	08:16:52		Accessing the Dependent & Independent Data
+2021-10-31	08:16:52		Using StandardScaler to Scale down the data
+2021-10-31	08:16:52		Data Scaled Successfully!!
+2021-10-31	08:16:52		Accessing the Dependent & Independent Data
+2021-10-31	08:16:52		Using StandardScaler to Scale down the data
+2021-10-31	08:16:52		Data Scaled Successfully!!
+2021-10-31	08:16:53		Accessing the Dependent & Independent Data
+2021-10-31	08:16:53		Using StandardScaler to Scale down the data
+2021-10-31	08:16:53		Data Scaled Successfully!!
+2021-10-31	08:16:53		Accessing the Dependent & Independent Data
+2021-10-31	08:16:53		Using StandardScaler to Scale down the data
+2021-10-31	08:16:53		Data Scaled Successfully!!
+2021-10-31	08:16:53		Accessing the Dependent & Independent Data
+2021-10-31	08:16:53		Using StandardScaler to Scale down the data
+2021-10-31	08:16:53		Data Scaled Successfully!!
+2021-10-31	08:16:53		Accessing the Dependent & Independent Data
+2021-10-31	08:16:53		Using StandardScaler to Scale down the data
+2021-10-31	08:16:53		Data Scaled Successfully!!
+2021-10-31	08:16:53		Accessing the Dependent & Independent Data
+2021-10-31	08:16:53		Using StandardScaler to Scale down the data
+2021-10-31	08:16:53		Data Scaled Successfully!!
+2021-10-31	08:16:54		Accessing the Dependent & Independent Data
+2021-10-31	08:16:54		Using StandardScaler to Scale down the data
+2021-10-31	08:16:54		Data Scaled Successfully!!
+2021-10-31	08:16:54		Accessing the Dependent & Independent Data
+2021-10-31	08:16:54		Using StandardScaler to Scale down the data
+2021-10-31	08:16:54		Data Scaled Successfully!!
+2021-10-31	08:16:54		Accessing the Dependent & Independent Data
+2021-10-31	08:16:54		Using StandardScaler to Scale down the data
+2021-10-31	08:16:54		Data Scaled Successfully!!
+2021-10-31	08:16:54		Accessing the Dependent & Independent Data
+2021-10-31	08:16:54		Using StandardScaler to Scale down the data
+2021-10-31	08:16:54		Data Scaled Successfully!!
+2021-10-31	08:19:24		Accessing the Dependent & Independent Data
+2021-10-31	08:19:24		Using StandardScaler to Scale down the data
+2021-10-31	08:19:24		Data Scaled Successfully!!
+2021-10-31	08:19:24		Accessing the Dependent & Independent Data
+2021-10-31	08:19:24		Using StandardScaler to Scale down the data
+2021-10-31	08:19:24		Data Scaled Successfully!!
+2021-10-31	08:19:25		Accessing the Dependent & Independent Data
+2021-10-31	08:19:25		Using StandardScaler to Scale down the data
+2021-10-31	08:19:25		Data Scaled Successfully!!
+2021-10-31	08:19:25		Accessing the Dependent & Independent Data
+2021-10-31	08:19:25		Using StandardScaler to Scale down the data
+2021-10-31	08:19:25		Data Scaled Successfully!!
+2021-10-31	08:19:25		Accessing the Dependent & Independent Data
+2021-10-31	08:19:25		Using StandardScaler to Scale down the data
+2021-10-31	08:19:25		Data Scaled Successfully!!
+2021-10-31	08:19:25		Accessing the Dependent & Independent Data
+2021-10-31	08:19:25		Using StandardScaler to Scale down the data
+2021-10-31	08:19:25		Data Scaled Successfully!!
+2021-10-31	08:19:25		Accessing the Dependent & Independent Data
+2021-10-31	08:19:25		Using StandardScaler to Scale down the data
+2021-10-31	08:19:25		Data Scaled Successfully!!
+2021-10-31	08:19:26		Accessing the Dependent & Independent Data
+2021-10-31	08:19:26		Using StandardScaler to Scale down the data
+2021-10-31	08:19:26		Data Scaled Successfully!!
+2021-10-31	08:19:26		Accessing the Dependent & Independent Data
+2021-10-31	08:19:26		Using StandardScaler to Scale down the data
+2021-10-31	08:19:26		Data Scaled Successfully!!
+2021-10-31	08:19:26		Accessing the Dependent & Independent Data
+2021-10-31	08:19:26		Using StandardScaler to Scale down the data
+2021-10-31	08:19:26		Data Scaled Successfully!!
+2021-10-31	08:19:27		Accessing the Dependent & Independent Data
+2021-10-31	08:19:27		Using StandardScaler to Scale down the data
+2021-10-31	08:19:27		Data Scaled Successfully!!
+2021-10-31	08:20:17		Accessing the Dependent & Independent Data
+2021-10-31	08:20:17		Using StandardScaler to Scale down the data
+2021-10-31	08:20:17		Data Scaled Successfully!!
+2021-10-31	08:20:18		Accessing the Dependent & Independent Data
+2021-10-31	08:20:18		Using StandardScaler to Scale down the data
+2021-10-31	08:20:18		Data Scaled Successfully!!
+2021-10-31	08:20:19		Accessing the Dependent & Independent Data
+2021-10-31	08:20:19		Using StandardScaler to Scale down the data
+2021-10-31	08:20:19		Data Scaled Successfully!!
+2021-10-31	08:20:20		Accessing the Dependent & Independent Data
+2021-10-31	08:20:20		Using StandardScaler to Scale down the data
+2021-10-31	08:20:20		Data Scaled Successfully!!
+2021-10-31	08:20:20		Accessing the Dependent & Independent Data
+2021-10-31	08:20:20		Using StandardScaler to Scale down the data
+2021-10-31	08:20:20		Data Scaled Successfully!!
+2021-10-31	08:20:20		Accessing the Dependent & Independent Data
+2021-10-31	08:20:20		Using StandardScaler to Scale down the data
+2021-10-31	08:20:20		Data Scaled Successfully!!
+2021-10-31	08:20:20		Accessing the Dependent & Independent Data
+2021-10-31	08:20:20		Using StandardScaler to Scale down the data
+2021-10-31	08:20:20		Data Scaled Successfully!!
+2021-10-31	08:20:21		Accessing the Dependent & Independent Data
+2021-10-31	08:20:21		Using StandardScaler to Scale down the data
+2021-10-31	08:20:21		Data Scaled Successfully!!
+2021-10-31	08:20:22		Accessing the Dependent & Independent Data
+2021-10-31	08:20:22		Using StandardScaler to Scale down the data
+2021-10-31	08:20:22		Data Scaled Successfully!!
+2021-10-31	08:20:22		Accessing the Dependent & Independent Data
+2021-10-31	08:20:22		Using StandardScaler to Scale down the data
+2021-10-31	08:20:22		Data Scaled Successfully!!
+2021-10-31	08:20:23		Accessing the Dependent & Independent Data
+2021-10-31	08:20:23		Using StandardScaler to Scale down the data
+2021-10-31	08:20:23		Data Scaled Successfully!!
+2021-10-31	08:20:58		Accessing the Dependent & Independent Data
+2021-10-31	08:20:58		Using StandardScaler to Scale down the data
+2021-10-31	08:20:58		Data Scaled Successfully!!
+2021-10-31	08:20:58		Accessing the Dependent & Independent Data
+2021-10-31	08:20:58		Using StandardScaler to Scale down the data
+2021-10-31	08:20:58		Data Scaled Successfully!!
+2021-10-31	08:20:59		Accessing the Dependent & Independent Data
+2021-10-31	08:20:59		Using StandardScaler to Scale down the data
+2021-10-31	08:20:59		Data Scaled Successfully!!
+2021-10-31	08:20:59		Accessing the Dependent & Independent Data
+2021-10-31	08:20:59		Using StandardScaler to Scale down the data
+2021-10-31	08:20:59		Data Scaled Successfully!!
+2021-10-31	08:20:59		Accessing the Dependent & Independent Data
+2021-10-31	08:20:59		Using StandardScaler to Scale down the data
+2021-10-31	08:20:59		Data Scaled Successfully!!
+2021-10-31	08:21:00		Accessing the Dependent & Independent Data
+2021-10-31	08:21:00		Using StandardScaler to Scale down the data
+2021-10-31	08:21:00		Data Scaled Successfully!!
+2021-10-31	08:21:41		Accessing the Dependent & Independent Data
+2021-10-31	08:21:41		Using StandardScaler to Scale down the data
+2021-10-31	08:21:41		Data Scaled Successfully!!
+2021-10-31	08:21:41		Accessing the Dependent & Independent Data
+2021-10-31	08:21:41		Using StandardScaler to Scale down the data
+2021-10-31	08:21:41		Data Scaled Successfully!!
+2021-10-31	08:21:42		Accessing the Dependent & Independent Data
+2021-10-31	08:21:42		Using StandardScaler to Scale down the data
+2021-10-31	08:21:42		Data Scaled Successfully!!
+2021-10-31	08:21:42		Accessing the Dependent & Independent Data
+2021-10-31	08:21:42		Using StandardScaler to Scale down the data
+2021-10-31	08:21:42		Data Scaled Successfully!!
+2021-10-31	08:21:42		Accessing the Dependent & Independent Data
+2021-10-31	08:21:42		Using StandardScaler to Scale down the data
+2021-10-31	08:21:42		Data Scaled Successfully!!
+2021-10-31	08:21:43		Accessing the Dependent & Independent Data
+2021-10-31	08:21:43		Using StandardScaler to Scale down the data
+2021-10-31	08:21:43		Data Scaled Successfully!!
+2021-10-31	08:22:19		Accessing the Dependent & Independent Data
+2021-10-31	08:22:19		Using StandardScaler to Scale down the data
+2021-10-31	08:22:19		Data Scaled Successfully!!
+2021-10-31	08:22:26		Accessing the Dependent & Independent Data
+2021-10-31	08:22:26		Using StandardScaler to Scale down the data
+2021-10-31	08:22:26		Data Scaled Successfully!!
+2021-10-31	08:22:26		Accessing the Dependent & Independent Data
+2021-10-31	08:22:26		Using StandardScaler to Scale down the data
+2021-10-31	08:22:26		Data Scaled Successfully!!
+2021-10-31	08:22:26		Accessing the Dependent & Independent Data
+2021-10-31	08:22:26		Using StandardScaler to Scale down the data
+2021-10-31	08:22:26		Data Scaled Successfully!!
+2021-10-31	08:22:26		Accessing the Dependent & Independent Data
+2021-10-31	08:22:26		Using StandardScaler to Scale down the data
+2021-10-31	08:22:27		Data Scaled Successfully!!
+2021-10-31	08:22:27		Accessing the Dependent & Independent Data
+2021-10-31	08:22:27		Using StandardScaler to Scale down the data
+2021-10-31	08:22:27		Data Scaled Successfully!!
+2021-10-31	08:22:27		Accessing the Dependent & Independent Data
+2021-10-31	08:22:27		Using StandardScaler to Scale down the data
+2021-10-31	08:22:27		Data Scaled Successfully!!
+2021-10-31	08:22:27		Accessing the Dependent & Independent Data
+2021-10-31	08:22:27		Using StandardScaler to Scale down the data
+2021-10-31	08:22:27		Data Scaled Successfully!!
+2021-10-31	08:22:58		Accessing the Dependent & Independent Data
+2021-10-31	08:22:58		Using StandardScaler to Scale down the data
+2021-10-31	08:22:58		Data Scaled Successfully!!
+2021-10-31	08:23:14		Accessing the Dependent & Independent Data
+2021-10-31	08:23:14		Using StandardScaler to Scale down the data
+2021-10-31	08:23:14		Data Scaled Successfully!!
+2021-10-31	08:23:14		Accessing the Dependent & Independent Data
+2021-10-31	08:23:14		Using StandardScaler to Scale down the data
+2021-10-31	08:23:14		Data Scaled Successfully!!
+2021-10-31	08:23:14		Accessing the Dependent & Independent Data
+2021-10-31	08:23:14		Using StandardScaler to Scale down the data
+2021-10-31	08:23:14		Data Scaled Successfully!!
+2021-10-31	08:23:14		Accessing the Dependent & Independent Data
+2021-10-31	08:23:14		Using StandardScaler to Scale down the data
+2021-10-31	08:23:14		Data Scaled Successfully!!
+2021-10-31	08:23:15		Accessing the Dependent & Independent Data
+2021-10-31	08:23:15		Using StandardScaler to Scale down the data
+2021-10-31	08:23:15		Data Scaled Successfully!!
+2021-10-31	08:23:15		Accessing the Dependent & Independent Data
+2021-10-31	08:23:15		Using StandardScaler to Scale down the data
+2021-10-31	08:23:15		Data Scaled Successfully!!
+2021-10-31	08:23:15		Accessing the Dependent & Independent Data
+2021-10-31	08:23:15		Using StandardScaler to Scale down the data
+2021-10-31	08:23:15		Data Scaled Successfully!!
+2021-10-31	08:23:41		Accessing the Dependent & Independent Data
+2021-10-31	08:23:41		Using StandardScaler to Scale down the data
+2021-10-31	08:23:41		Data Scaled Successfully!!
+2021-10-31	08:23:47		Accessing the Dependent & Independent Data
+2021-10-31	08:23:47		Using StandardScaler to Scale down the data
+2021-10-31	08:23:47		Data Scaled Successfully!!
+2021-10-31	08:23:47		Accessing the Dependent & Independent Data
+2021-10-31	08:23:47		Using StandardScaler to Scale down the data
+2021-10-31	08:23:47		Data Scaled Successfully!!
+2021-10-31	08:23:47		Accessing the Dependent & Independent Data
+2021-10-31	08:23:47		Using StandardScaler to Scale down the data
+2021-10-31	08:23:47		Data Scaled Successfully!!
+2021-10-31	08:23:47		Accessing the Dependent & Independent Data
+2021-10-31	08:23:47		Using StandardScaler to Scale down the data
+2021-10-31	08:23:47		Data Scaled Successfully!!
+2021-10-31	08:23:48		Accessing the Dependent & Independent Data
+2021-10-31	08:23:48		Using StandardScaler to Scale down the data
+2021-10-31	08:23:48		Data Scaled Successfully!!
+2021-10-31	08:23:48		Accessing the Dependent & Independent Data
+2021-10-31	08:23:48		Using StandardScaler to Scale down the data
+2021-10-31	08:23:48		Data Scaled Successfully!!
+2021-10-31	08:23:48		Accessing the Dependent & Independent Data
+2021-10-31	08:23:48		Using StandardScaler to Scale down the data
+2021-10-31	08:23:48		Data Scaled Successfully!!
+2021-10-31	08:24:09		Accessing the Dependent & Independent Data
+2021-10-31	08:24:09		Using StandardScaler to Scale down the data
+2021-10-31	08:24:09		Data Scaled Successfully!!
+2021-10-31	08:24:15		Accessing the Dependent & Independent Data
+2021-10-31	08:24:15		Using StandardScaler to Scale down the data
+2021-10-31	08:24:15		Data Scaled Successfully!!
+2021-10-31	08:24:15		Accessing the Dependent & Independent Data
+2021-10-31	08:24:15		Using StandardScaler to Scale down the data
+2021-10-31	08:24:15		Data Scaled Successfully!!
+2021-10-31	08:24:15		Accessing the Dependent & Independent Data
+2021-10-31	08:24:16		Using StandardScaler to Scale down the data
+2021-10-31	08:24:16		Data Scaled Successfully!!
+2021-10-31	08:24:16		Accessing the Dependent & Independent Data
+2021-10-31	08:24:16		Using StandardScaler to Scale down the data
+2021-10-31	08:24:16		Data Scaled Successfully!!
+2021-10-31	08:24:17		Accessing the Dependent & Independent Data
+2021-10-31	08:24:17		Using StandardScaler to Scale down the data
+2021-10-31	08:24:17		Data Scaled Successfully!!
+2021-10-31	08:24:17		Accessing the Dependent & Independent Data
+2021-10-31	08:24:17		Using StandardScaler to Scale down the data
+2021-10-31	08:24:17		Data Scaled Successfully!!
+2021-10-31	08:24:17		Accessing the Dependent & Independent Data
+2021-10-31	08:24:18		Using StandardScaler to Scale down the data
+2021-10-31	08:24:18		Data Scaled Successfully!!
+2021-10-31	08:24:44		Accessing the Dependent & Independent Data
+2021-10-31	08:24:44		Using StandardScaler to Scale down the data
+2021-10-31	08:24:44		Data Scaled Successfully!!
+2021-10-31	08:24:44		Accessing the Dependent & Independent Data
+2021-10-31	08:24:44		Using StandardScaler to Scale down the data
+2021-10-31	08:24:44		Data Scaled Successfully!!
+2021-10-31	08:24:44		Accessing the Dependent & Independent Data
+2021-10-31	08:24:44		Using StandardScaler to Scale down the data
+2021-10-31	08:24:44		Data Scaled Successfully!!
+2021-10-31	08:24:45		Accessing the Dependent & Independent Data
+2021-10-31	08:24:45		Using StandardScaler to Scale down the data
+2021-10-31	08:24:45		Data Scaled Successfully!!
+2021-10-31	08:24:45		Accessing the Dependent & Independent Data
+2021-10-31	08:24:45		Using StandardScaler to Scale down the data
+2021-10-31	08:24:45		Data Scaled Successfully!!
+2021-10-31	08:24:45		Accessing the Dependent & Independent Data
+2021-10-31	08:24:45		Using StandardScaler to Scale down the data
+2021-10-31	08:24:45		Data Scaled Successfully!!
+2021-10-31	08:24:46		Accessing the Dependent & Independent Data
+2021-10-31	08:24:46		Using StandardScaler to Scale down the data
+2021-10-31	08:24:46		Data Scaled Successfully!!
+2021-10-31	08:25:17		Accessing the Dependent & Independent Data
+2021-10-31	08:25:17		Using StandardScaler to Scale down the data
+2021-10-31	08:25:17		Data Scaled Successfully!!
+2021-10-31	08:25:21		Accessing the Dependent & Independent Data
+2021-10-31	08:25:21		Using StandardScaler to Scale down the data
+2021-10-31	08:25:22		Data Scaled Successfully!!
+2021-10-31	08:25:22		Accessing the Dependent & Independent Data
+2021-10-31	08:25:22		Using StandardScaler to Scale down the data
+2021-10-31	08:25:22		Data Scaled Successfully!!
+2021-10-31	08:25:22		Accessing the Dependent & Independent Data
+2021-10-31	08:25:22		Using StandardScaler to Scale down the data
+2021-10-31	08:25:22		Data Scaled Successfully!!
+2021-10-31	08:25:22		Accessing the Dependent & Independent Data
+2021-10-31	08:25:22		Using StandardScaler to Scale down the data
+2021-10-31	08:25:22		Data Scaled Successfully!!
+2021-10-31	08:25:22		Accessing the Dependent & Independent Data
+2021-10-31	08:25:22		Using StandardScaler to Scale down the data
+2021-10-31	08:25:22		Data Scaled Successfully!!
+2021-10-31	08:25:23		Accessing the Dependent & Independent Data
+2021-10-31	08:25:23		Using StandardScaler to Scale down the data
+2021-10-31	08:25:23		Data Scaled Successfully!!
+2021-10-31	08:25:23		Accessing the Dependent & Independent Data
+2021-10-31	08:25:23		Using StandardScaler to Scale down the data
+2021-10-31	08:25:23		Data Scaled Successfully!!
+2021-10-31	08:26:06		Accessing the Dependent & Independent Data
+2021-10-31	08:26:06		Using StandardScaler to Scale down the data
+2021-10-31	08:26:06		Data Scaled Successfully!!
+2021-10-31	08:26:14		Accessing the Dependent & Independent Data
+2021-10-31	08:26:14		Using StandardScaler to Scale down the data
+2021-10-31	08:26:14		Data Scaled Successfully!!
+2021-10-31	08:26:14		Accessing the Dependent & Independent Data
+2021-10-31	08:26:14		Using StandardScaler to Scale down the data
+2021-10-31	08:26:14		Data Scaled Successfully!!
+2021-10-31	08:26:14		Accessing the Dependent & Independent Data
+2021-10-31	08:26:14		Using StandardScaler to Scale down the data
+2021-10-31	08:26:14		Data Scaled Successfully!!
+2021-10-31	08:26:15		Accessing the Dependent & Independent Data
+2021-10-31	08:26:15		Using StandardScaler to Scale down the data
+2021-10-31	08:26:15		Data Scaled Successfully!!
+2021-10-31	08:26:15		Accessing the Dependent & Independent Data
+2021-10-31	08:26:15		Using StandardScaler to Scale down the data
+2021-10-31	08:26:15		Data Scaled Successfully!!
+2021-10-31	08:26:15		Accessing the Dependent & Independent Data
+2021-10-31	08:26:15		Using StandardScaler to Scale down the data
+2021-10-31	08:26:15		Data Scaled Successfully!!
+2021-10-31	08:26:15		Accessing the Dependent & Independent Data
+2021-10-31	08:26:15		Using StandardScaler to Scale down the data
+2021-10-31	08:26:15		Data Scaled Successfully!!
+2021-10-31	08:27:01		Accessing the Dependent & Independent Data
+2021-10-31	08:27:01		Using StandardScaler to Scale down the data
+2021-10-31	08:27:01		Data Scaled Successfully!!
+2021-10-31	08:27:01		Accessing the Dependent & Independent Data
+2021-10-31	08:27:01		Using StandardScaler to Scale down the data
+2021-10-31	08:27:01		Data Scaled Successfully!!
+2021-10-31	08:27:01		Accessing the Dependent & Independent Data
+2021-10-31	08:27:01		Using StandardScaler to Scale down the data
+2021-10-31	08:27:01		Data Scaled Successfully!!
+2021-10-31	08:27:02		Accessing the Dependent & Independent Data
+2021-10-31	08:27:02		Using StandardScaler to Scale down the data
+2021-10-31	08:27:02		Data Scaled Successfully!!
+2021-10-31	08:27:02		Accessing the Dependent & Independent Data
+2021-10-31	08:27:02		Using StandardScaler to Scale down the data
+2021-10-31	08:27:02		Data Scaled Successfully!!
+2021-10-31	08:27:02		Accessing the Dependent & Independent Data
+2021-10-31	08:27:02		Using StandardScaler to Scale down the data
+2021-10-31	08:27:02		Data Scaled Successfully!!
+2021-10-31	08:27:03		Accessing the Dependent & Independent Data
+2021-10-31	08:27:03		Using StandardScaler to Scale down the data
+2021-10-31	08:27:03		Data Scaled Successfully!!
+2021-10-31	08:27:16		Accessing the Dependent & Independent Data
+2021-10-31	08:27:16		Using StandardScaler to Scale down the data
+2021-10-31	08:27:16		Data Scaled Successfully!!
+2021-10-31	08:27:16		Accessing the Dependent & Independent Data
+2021-10-31	08:27:16		Using StandardScaler to Scale down the data
+2021-10-31	08:27:16		Data Scaled Successfully!!
+2021-10-31	08:27:16		Accessing the Dependent & Independent Data
+2021-10-31	08:27:16		Using StandardScaler to Scale down the data
+2021-10-31	08:27:16		Data Scaled Successfully!!
+2021-10-31	08:27:17		Accessing the Dependent & Independent Data
+2021-10-31	08:27:17		Using StandardScaler to Scale down the data
+2021-10-31	08:27:17		Data Scaled Successfully!!
+2021-10-31	08:27:17		Accessing the Dependent & Independent Data
+2021-10-31	08:27:17		Using StandardScaler to Scale down the data
+2021-10-31	08:27:17		Data Scaled Successfully!!
+2021-10-31	08:27:17		Accessing the Dependent & Independent Data
+2021-10-31	08:27:17		Using StandardScaler to Scale down the data
+2021-10-31	08:27:17		Data Scaled Successfully!!
+2021-10-31	08:27:18		Accessing the Dependent & Independent Data
+2021-10-31	08:27:18		Using StandardScaler to Scale down the data
+2021-10-31	08:27:18		Data Scaled Successfully!!
+2021-10-31	08:27:41		Accessing the Dependent & Independent Data
+2021-10-31	08:27:41		Using StandardScaler to Scale down the data
+2021-10-31	08:27:41		Data Scaled Successfully!!
+2021-10-31	08:27:41		Accessing the Dependent & Independent Data
+2021-10-31	08:27:41		Using StandardScaler to Scale down the data
+2021-10-31	08:27:41		Data Scaled Successfully!!
+2021-10-31	08:27:41		Accessing the Dependent & Independent Data
+2021-10-31	08:27:41		Using StandardScaler to Scale down the data
+2021-10-31	08:27:41		Data Scaled Successfully!!
+2021-10-31	08:27:41		Accessing the Dependent & Independent Data
+2021-10-31	08:27:41		Using StandardScaler to Scale down the data
+2021-10-31	08:27:41		Data Scaled Successfully!!
+2021-10-31	08:27:41		Accessing the Dependent & Independent Data
+2021-10-31	08:27:41		Using StandardScaler to Scale down the data
+2021-10-31	08:27:42		Data Scaled Successfully!!
+2021-10-31	08:27:42		Accessing the Dependent & Independent Data
+2021-10-31	08:27:42		Using StandardScaler to Scale down the data
+2021-10-31	08:27:42		Data Scaled Successfully!!
+2021-10-31	08:27:42		Accessing the Dependent & Independent Data
+2021-10-31	08:27:42		Using StandardScaler to Scale down the data
+2021-10-31	08:27:42		Data Scaled Successfully!!
+2021-10-31	08:28:09		Accessing the Dependent & Independent Data
+2021-10-31	08:28:09		Using StandardScaler to Scale down the data
+2021-10-31	08:28:09		Data Scaled Successfully!!
+2021-10-31	08:28:09		Accessing the Dependent & Independent Data
+2021-10-31	08:28:09		Using StandardScaler to Scale down the data
+2021-10-31	08:28:09		Data Scaled Successfully!!
+2021-10-31	08:28:09		Accessing the Dependent & Independent Data
+2021-10-31	08:28:09		Using StandardScaler to Scale down the data
+2021-10-31	08:28:10		Data Scaled Successfully!!
+2021-10-31	08:28:10		Accessing the Dependent & Independent Data
+2021-10-31	08:28:10		Using StandardScaler to Scale down the data
+2021-10-31	08:28:10		Data Scaled Successfully!!
+2021-10-31	08:28:10		Accessing the Dependent & Independent Data
+2021-10-31	08:28:10		Using StandardScaler to Scale down the data
+2021-10-31	08:28:10		Data Scaled Successfully!!
+2021-10-31	08:28:10		Accessing the Dependent & Independent Data
+2021-10-31	08:28:10		Using StandardScaler to Scale down the data
+2021-10-31	08:28:10		Data Scaled Successfully!!
+2021-10-31	08:28:11		Accessing the Dependent & Independent Data
+2021-10-31	08:28:11		Using StandardScaler to Scale down the data
+2021-10-31	08:28:11		Data Scaled Successfully!!
+2021-10-31	08:28:45		Accessing the Dependent & Independent Data
+2021-10-31	08:28:45		Using StandardScaler to Scale down the data
+2021-10-31	08:28:45		Data Scaled Successfully!!
+2021-10-31	08:28:45		Accessing the Dependent & Independent Data
+2021-10-31	08:28:45		Using StandardScaler to Scale down the data
+2021-10-31	08:28:45		Data Scaled Successfully!!
+2021-10-31	08:28:45		Accessing the Dependent & Independent Data
+2021-10-31	08:28:45		Using StandardScaler to Scale down the data
+2021-10-31	08:28:45		Data Scaled Successfully!!
+2021-10-31	08:28:45		Accessing the Dependent & Independent Data
+2021-10-31	08:28:45		Using StandardScaler to Scale down the data
+2021-10-31	08:28:45		Data Scaled Successfully!!
+2021-10-31	08:28:46		Accessing the Dependent & Independent Data
+2021-10-31	08:28:46		Using StandardScaler to Scale down the data
+2021-10-31	08:28:46		Data Scaled Successfully!!
+2021-10-31	08:28:46		Accessing the Dependent & Independent Data
+2021-10-31	08:28:46		Using StandardScaler to Scale down the data
+2021-10-31	08:28:46		Data Scaled Successfully!!
+2021-10-31	08:28:46		Accessing the Dependent & Independent Data
+2021-10-31	08:28:46		Using StandardScaler to Scale down the data
+2021-10-31	08:28:46		Data Scaled Successfully!!
+2021-10-31	08:29:31		Accessing the Dependent & Independent Data
+2021-10-31	08:29:31		Using StandardScaler to Scale down the data
+2021-10-31	08:29:31		Data Scaled Successfully!!
+2021-10-31	08:29:31		Accessing the Dependent & Independent Data
+2021-10-31	08:29:31		Using StandardScaler to Scale down the data
+2021-10-31	08:29:31		Data Scaled Successfully!!
+2021-10-31	08:29:31		Accessing the Dependent & Independent Data
+2021-10-31	08:29:31		Using StandardScaler to Scale down the data
+2021-10-31	08:29:31		Data Scaled Successfully!!
+2021-10-31	08:29:32		Accessing the Dependent & Independent Data
+2021-10-31	08:29:32		Using StandardScaler to Scale down the data
+2021-10-31	08:29:32		Data Scaled Successfully!!
+2021-10-31	08:29:32		Accessing the Dependent & Independent Data
+2021-10-31	08:29:32		Using StandardScaler to Scale down the data
+2021-10-31	08:29:32		Data Scaled Successfully!!
+2021-10-31	08:29:32		Accessing the Dependent & Independent Data
+2021-10-31	08:29:32		Using StandardScaler to Scale down the data
+2021-10-31	08:29:32		Data Scaled Successfully!!
+2021-10-31	08:29:33		Accessing the Dependent & Independent Data
+2021-10-31	08:29:33		Using StandardScaler to Scale down the data
+2021-10-31	08:29:33		Data Scaled Successfully!!
+2021-10-31	08:30:03		Accessing the Dependent & Independent Data
+2021-10-31	08:30:03		Using StandardScaler to Scale down the data
+2021-10-31	08:30:03		Data Scaled Successfully!!
+2021-10-31	08:30:03		Accessing the Dependent & Independent Data
+2021-10-31	08:30:03		Using StandardScaler to Scale down the data
+2021-10-31	08:30:03		Data Scaled Successfully!!
+2021-10-31	08:30:03		Accessing the Dependent & Independent Data
+2021-10-31	08:30:03		Using StandardScaler to Scale down the data
+2021-10-31	08:30:03		Data Scaled Successfully!!
+2021-10-31	08:30:04		Accessing the Dependent & Independent Data
+2021-10-31	08:30:04		Using StandardScaler to Scale down the data
+2021-10-31	08:30:04		Data Scaled Successfully!!
+2021-10-31	08:30:04		Accessing the Dependent & Independent Data
+2021-10-31	08:30:04		Using StandardScaler to Scale down the data
+2021-10-31	08:30:04		Data Scaled Successfully!!
+2021-10-31	08:30:04		Accessing the Dependent & Independent Data
+2021-10-31	08:30:04		Using StandardScaler to Scale down the data
+2021-10-31	08:30:04		Data Scaled Successfully!!
+2021-10-31	08:30:04		Accessing the Dependent & Independent Data
+2021-10-31	08:30:04		Using StandardScaler to Scale down the data
+2021-10-31	08:30:05		Data Scaled Successfully!!
+2021-10-31	08:30:18		Accessing the Dependent & Independent Data
+2021-10-31	08:30:18		Using StandardScaler to Scale down the data
+2021-10-31	08:30:18		Data Scaled Successfully!!
+2021-10-31	08:30:18		Accessing the Dependent & Independent Data
+2021-10-31	08:30:18		Using StandardScaler to Scale down the data
+2021-10-31	08:30:18		Data Scaled Successfully!!
+2021-10-31	08:30:18		Accessing the Dependent & Independent Data
+2021-10-31	08:30:18		Using StandardScaler to Scale down the data
+2021-10-31	08:30:18		Data Scaled Successfully!!
+2021-10-31	08:30:18		Accessing the Dependent & Independent Data
+2021-10-31	08:30:18		Using StandardScaler to Scale down the data
+2021-10-31	08:30:18		Data Scaled Successfully!!
+2021-10-31	08:30:19		Accessing the Dependent & Independent Data
+2021-10-31	08:30:19		Using StandardScaler to Scale down the data
+2021-10-31	08:30:19		Data Scaled Successfully!!
+2021-10-31	08:30:19		Accessing the Dependent & Independent Data
+2021-10-31	08:30:19		Using StandardScaler to Scale down the data
+2021-10-31	08:30:19		Data Scaled Successfully!!
+2021-10-31	08:30:19		Accessing the Dependent & Independent Data
+2021-10-31	08:30:19		Using StandardScaler to Scale down the data
+2021-10-31	08:30:19		Data Scaled Successfully!!
+2021-10-31	08:30:35		Accessing the Dependent & Independent Data
+2021-10-31	08:30:35		Using StandardScaler to Scale down the data
+2021-10-31	08:30:35		Data Scaled Successfully!!
+2021-10-31	08:30:35		Accessing the Dependent & Independent Data
+2021-10-31	08:30:35		Using StandardScaler to Scale down the data
+2021-10-31	08:30:35		Data Scaled Successfully!!
+2021-10-31	08:30:35		Accessing the Dependent & Independent Data
+2021-10-31	08:30:35		Using StandardScaler to Scale down the data
+2021-10-31	08:30:35		Data Scaled Successfully!!
+2021-10-31	08:30:35		Accessing the Dependent & Independent Data
+2021-10-31	08:30:35		Using StandardScaler to Scale down the data
+2021-10-31	08:30:35		Data Scaled Successfully!!
+2021-10-31	08:30:36		Accessing the Dependent & Independent Data
+2021-10-31	08:30:36		Using StandardScaler to Scale down the data
+2021-10-31	08:30:36		Data Scaled Successfully!!
+2021-10-31	08:30:36		Accessing the Dependent & Independent Data
+2021-10-31	08:30:36		Using StandardScaler to Scale down the data
+2021-10-31	08:30:36		Data Scaled Successfully!!
+2021-10-31	08:30:36		Accessing the Dependent & Independent Data
+2021-10-31	08:30:36		Using StandardScaler to Scale down the data
+2021-10-31	08:30:36		Data Scaled Successfully!!
+2021-10-31	08:47:36		Accessing the Dependent & Independent Data
+2021-10-31	08:47:36		Using StandardScaler to Scale down the data
+2021-10-31	08:47:36		Data Scaled Successfully!!
+2021-10-31	08:47:36		Accessing the Dependent & Independent Data
+2021-10-31	08:47:36		Using StandardScaler to Scale down the data
+2021-10-31	08:47:36		Data Scaled Successfully!!
+2021-10-31	08:47:36		Accessing the Dependent & Independent Data
+2021-10-31	08:47:36		Using StandardScaler to Scale down the data
+2021-10-31	08:47:36		Data Scaled Successfully!!
+2021-10-31	08:48:12		Accessing the Dependent & Independent Data
+2021-10-31	08:48:12		Using StandardScaler to Scale down the data
+2021-10-31	08:48:12		Data Scaled Successfully!!
+2021-10-31	08:48:12		Accessing the Dependent & Independent Data
+2021-10-31	08:48:12		Using StandardScaler to Scale down the data
+2021-10-31	08:48:12		Data Scaled Successfully!!
+2021-10-31	08:48:12		Accessing the Dependent & Independent Data
+2021-10-31	08:48:12		Using StandardScaler to Scale down the data
+2021-10-31	08:48:12		Data Scaled Successfully!!
+2021-10-31	08:48:59		Accessing the Dependent & Independent Data
+2021-10-31	08:48:59		Using StandardScaler to Scale down the data
+2021-10-31	08:48:59		Data Scaled Successfully!!
+2021-10-31	08:48:59		Accessing the Dependent & Independent Data
+2021-10-31	08:48:59		Using StandardScaler to Scale down the data
+2021-10-31	08:48:59		Data Scaled Successfully!!
+2021-10-31	08:48:59		Accessing the Dependent & Independent Data
+2021-10-31	08:48:59		Using StandardScaler to Scale down the data
+2021-10-31	08:48:59		Data Scaled Successfully!!
+2021-10-31	08:57:05		Accessing the Dependent & Independent Data
+2021-10-31	08:57:05		Using StandardScaler to Scale down the data
+2021-10-31	08:57:05		Data Scaled Successfully!!
+2021-10-31	08:57:05		Accessing the Dependent & Independent Data
+2021-10-31	08:57:05		Using StandardScaler to Scale down the data
+2021-10-31	08:57:05		Data Scaled Successfully!!
+2021-10-31	08:57:05		Accessing the Dependent & Independent Data
+2021-10-31	08:57:05		Using StandardScaler to Scale down the data
+2021-10-31	08:57:05		Data Scaled Successfully!!
+2021-10-31	09:02:03		Accessing the Dependent & Independent Data
+2021-10-31	09:02:03		Using StandardScaler to Scale down the data
+2021-10-31	09:02:03		Data Scaled Successfully!!
+2021-10-31	09:02:03		Accessing the Dependent & Independent Data
+2021-10-31	09:02:03		Using StandardScaler to Scale down the data
+2021-10-31	09:02:03		Data Scaled Successfully!!
+2021-10-31	09:02:03		Accessing the Dependent & Independent Data
+2021-10-31	09:02:03		Using StandardScaler to Scale down the data
+2021-10-31	09:02:03		Data Scaled Successfully!!
+2021-10-31	09:15:11		Accessing the Dependent & Independent Data
+2021-10-31	09:15:11		Using StandardScaler to Scale down the data
+2021-10-31	09:15:11		Data Scaled Successfully!!
+2021-10-31	09:15:11		Accessing the Dependent & Independent Data
+2021-10-31	09:15:11		Using StandardScaler to Scale down the data
+2021-10-31	09:15:11		Data Scaled Successfully!!
+2021-10-31	09:15:11		Accessing the Dependent & Independent Data
+2021-10-31	09:15:11		Using StandardScaler to Scale down the data
+2021-10-31	09:15:11		Data Scaled Successfully!!
+2021-10-31	09:22:28		Accessing the Dependent & Independent Data
+2021-10-31	09:22:28		Using StandardScaler to Scale down the data
+2021-10-31	09:22:28		Data Scaled Successfully!!
+2021-10-31	09:22:28		Accessing the Dependent & Independent Data
+2021-10-31	09:22:28		Using StandardScaler to Scale down the data
+2021-10-31	09:22:28		Data Scaled Successfully!!
+2021-10-31	09:22:28		Accessing the Dependent & Independent Data
+2021-10-31	09:22:28		Using StandardScaler to Scale down the data
+2021-10-31	09:22:28		Data Scaled Successfully!!
+2021-10-31	10:37:58		Accessing the Dependent & Independent Data
+2021-10-31	10:37:58		Using StandardScaler to Scale down the data
+2021-10-31	10:37:58		Data Scaled Successfully!!
+2021-10-31	10:37:58		Accessing the Dependent & Independent Data
+2021-10-31	10:37:58		Using StandardScaler to Scale down the data
+2021-10-31	10:37:58		Data Scaled Successfully!!
+2021-10-31	10:37:58		Accessing the Dependent & Independent Data
+2021-10-31	10:37:58		Using StandardScaler to Scale down the data
+2021-10-31	10:37:58		Data Scaled Successfully!!
+2021-10-31	10:38:20		Accessing the Dependent & Independent Data
+2021-10-31	10:38:20		Using StandardScaler to Scale down the data
+2021-10-31	10:38:20		Data Scaled Successfully!!
+2021-10-31	10:38:20		Accessing the Dependent & Independent Data
+2021-10-31	10:38:20		Using StandardScaler to Scale down the data
+2021-10-31	10:38:20		Data Scaled Successfully!!
+2021-10-31	10:38:20		Accessing the Dependent & Independent Data
+2021-10-31	10:38:20		Using StandardScaler to Scale down the data
+2021-10-31	10:38:20		Data Scaled Successfully!!
+2021-10-31	10:39:08		Accessing the Dependent & Independent Data
+2021-10-31	10:39:08		Using StandardScaler to Scale down the data
+2021-10-31	10:39:08		Data Scaled Successfully!!
+2021-10-31	10:39:08		Accessing the Dependent & Independent Data
+2021-10-31	10:39:08		Using StandardScaler to Scale down the data
+2021-10-31	10:39:08		Data Scaled Successfully!!
+2021-10-31	10:39:08		Accessing the Dependent & Independent Data
+2021-10-31	10:39:08		Using StandardScaler to Scale down the data
+2021-10-31	10:39:08		Data Scaled Successfully!!
+2021-10-31	10:40:01		Accessing the Dependent & Independent Data
+2021-10-31	10:40:01		Using StandardScaler to Scale down the data
+2021-10-31	10:40:01		Data Scaled Successfully!!
+2021-10-31	10:40:01		Accessing the Dependent & Independent Data
+2021-10-31	10:40:01		Using StandardScaler to Scale down the data
+2021-10-31	10:40:01		Data Scaled Successfully!!
+2021-10-31	10:40:01		Accessing the Dependent & Independent Data
+2021-10-31	10:40:01		Using StandardScaler to Scale down the data
+2021-10-31	10:40:01		Data Scaled Successfully!!
+2021-10-31	15:55:59		Accessing the Dependent & Independent Data
+2021-10-31	15:55:59		Using StandardScaler to Scale down the data
+2021-10-31	15:55:59		Data Scaled Successfully!!
+2021-10-31	15:55:59		Accessing the Dependent & Independent Data
+2021-10-31	15:55:59		Using StandardScaler to Scale down the data
+2021-10-31	15:55:59		Data Scaled Successfully!!
+2021-10-31	15:55:59		Accessing the Dependent & Independent Data
+2021-10-31	15:55:59		Using StandardScaler to Scale down the data
+2021-10-31	15:55:59		Data Scaled Successfully!!
+2021-10-31	15:58:50		Accessing the Dependent & Independent Data
+2021-10-31	15:58:50		Using StandardScaler to Scale down the data
+2021-10-31	15:58:50		Data Scaled Successfully!!
+2021-10-31	15:58:50		Accessing the Dependent & Independent Data
+2021-10-31	15:58:50		Using StandardScaler to Scale down the data
+2021-10-31	15:58:50		Data Scaled Successfully!!
+2021-10-31	15:58:50		Accessing the Dependent & Independent Data
+2021-10-31	15:58:50		Using StandardScaler to Scale down the data
+2021-10-31	15:58:50		Data Scaled Successfully!!
+2021-10-31	16:04:28		Accessing the Dependent & Independent Data
+2021-10-31	16:04:28		Using StandardScaler to Scale down the data
+2021-10-31	16:04:28		Data Scaled Successfully!!
+2021-10-31	16:04:28		Accessing the Dependent & Independent Data
+2021-10-31	16:04:28		Using StandardScaler to Scale down the data
+2021-10-31	16:04:28		Data Scaled Successfully!!
+2021-10-31	16:04:28		Accessing the Dependent & Independent Data
+2021-10-31	16:04:28		Using StandardScaler to Scale down the data
+2021-10-31	16:04:28		Data Scaled Successfully!!
+2021-10-31	16:04:28		Accessing the Dependent & Independent Data
+2021-10-31	16:04:28		Using StandardScaler to Scale down the data
+2021-10-31	16:04:28		Data Scaled Successfully!!
+2021-10-31	16:09:15		Accessing the Dependent & Independent Data
+2021-10-31	16:09:15		Using StandardScaler to Scale down the data
+2021-10-31	16:09:15		Data Scaled Successfully!!
+2021-10-31	16:09:15		Accessing the Dependent & Independent Data
+2021-10-31	16:09:15		Using StandardScaler to Scale down the data
+2021-10-31	16:09:15		Data Scaled Successfully!!
+2021-10-31	16:11:16		Accessing the Dependent & Independent Data
+2021-10-31	16:11:16		Using StandardScaler to Scale down the data
+2021-10-31	16:11:16		Data Scaled Successfully!!
+2021-10-31	16:11:16		Accessing the Dependent & Independent Data
+2021-10-31	16:11:16		Using StandardScaler to Scale down the data
+2021-10-31	16:11:16		Data Scaled Successfully!!
+2021-10-31	16:11:16		Accessing the Dependent & Independent Data
+2021-10-31	16:11:16		Using StandardScaler to Scale down the data
+2021-10-31	16:11:16		Data Scaled Successfully!!
+2021-10-31	16:11:16		Accessing the Dependent & Independent Data
+2021-10-31	16:11:16		Using StandardScaler to Scale down the data
+2021-10-31	16:11:16		Data Scaled Successfully!!
+2021-10-31	16:16:10		Accessing the Dependent & Independent Data
+2021-10-31	16:16:10		Using StandardScaler to Scale down the data
+2021-10-31	16:16:10		Data Scaled Successfully!!
+2021-10-31	16:16:10		Accessing the Dependent & Independent Data
+2021-10-31	16:16:10		Using StandardScaler to Scale down the data
+2021-10-31	16:16:10		Data Scaled Successfully!!
+2021-10-31	16:25:28		Accessing the Dependent & Independent Data
+2021-10-31	16:25:28		Using StandardScaler to Scale down the data
+2021-10-31	16:25:28		Data Scaled Successfully!!
+2021-10-31	16:25:28		Accessing the Dependent & Independent Data
+2021-10-31	16:25:28		Using StandardScaler to Scale down the data
+2021-10-31	16:25:28		Data Scaled Successfully!!
+2021-10-31	16:25:28		Accessing the Dependent & Independent Data
+2021-10-31	16:25:28		Using StandardScaler to Scale down the data
+2021-10-31	16:25:28		Data Scaled Successfully!!
+2021-10-31	16:28:55		Accessing the Dependent & Independent Data
+2021-10-31	16:28:55		Using StandardScaler to Scale down the data
+2021-10-31	16:28:55		Data Scaled Successfully!!
+2021-10-31	16:28:55		Accessing the Dependent & Independent Data
+2021-10-31	16:28:55		Using StandardScaler to Scale down the data
+2021-10-31	16:28:55		Data Scaled Successfully!!
+2021-10-31	16:28:55		Accessing the Dependent & Independent Data
+2021-10-31	16:28:55		Using StandardScaler to Scale down the data
+2021-10-31	16:28:55		Data Scaled Successfully!!
+2021-10-31	16:28:55		Accessing the Dependent & Independent Data
+2021-10-31	16:28:55		Using StandardScaler to Scale down the data
+2021-10-31	16:28:55		Data Scaled Successfully!!
+2021-10-31	16:33:53		Accessing the Dependent & Independent Data
+2021-10-31	16:33:53		Using StandardScaler to Scale down the data
+2021-10-31	16:33:53		Data Scaled Successfully!!
+2021-10-31	16:33:53		Accessing the Dependent & Independent Data
+2021-10-31	16:33:53		Using StandardScaler to Scale down the data
+2021-10-31	16:33:53		Data Scaled Successfully!!
+2021-10-31	16:34:55		Accessing the Dependent & Independent Data
+2021-10-31	16:34:55		Using StandardScaler to Scale down the data
+2021-10-31	16:34:55		Data Scaled Successfully!!
+2021-10-31	16:34:55		Accessing the Dependent & Independent Data
+2021-10-31	16:34:55		Using StandardScaler to Scale down the data
+2021-10-31	16:34:55		Data Scaled Successfully!!
+2021-10-31	16:38:41		Accessing the Dependent & Independent Data
+2021-10-31	16:38:41		Using StandardScaler to Scale down the data
+2021-10-31	16:38:41		Data Scaled Successfully!!
+2021-10-31	16:38:41		Accessing the Dependent & Independent Data
+2021-10-31	16:38:41		Using StandardScaler to Scale down the data
+2021-10-31	16:38:41		Data Scaled Successfully!!
+2021-10-31	16:38:41		Accessing the Dependent & Independent Data
+2021-10-31	16:38:41		Using StandardScaler to Scale down the data
+2021-10-31	16:38:41		Data Scaled Successfully!!
+2021-10-31	16:38:41		Accessing the Dependent & Independent Data
+2021-10-31	16:38:41		Using StandardScaler to Scale down the data
+2021-10-31	16:38:41		Data Scaled Successfully!!
+2021-10-31	16:43:12		Accessing the Dependent & Independent Data
+2021-10-31	16:43:12		Using StandardScaler to Scale down the data
+2021-10-31	16:43:12		Data Scaled Successfully!!
+2021-10-31	16:43:12		Accessing the Dependent & Independent Data
+2021-10-31	16:43:12		Using StandardScaler to Scale down the data
+2021-10-31	16:43:12		Data Scaled Successfully!!
+2021-10-31	16:44:01		Accessing the Dependent & Independent Data
+2021-10-31	16:44:01		Using StandardScaler to Scale down the data
+2021-10-31	16:44:01		Data Scaled Successfully!!
+2021-10-31	16:44:01		Accessing the Dependent & Independent Data
+2021-10-31	16:44:01		Using StandardScaler to Scale down the data
+2021-10-31	16:44:01		Data Scaled Successfully!!
+2021-10-31	16:53:45		Accessing the Dependent & Independent Data
+2021-10-31	16:53:45		Using StandardScaler to Scale down the data
+2021-10-31	16:53:45		Data Scaled Successfully!!
+2021-10-31	16:53:45		Accessing the Dependent & Independent Data
+2021-10-31	16:53:45		Using StandardScaler to Scale down the data
+2021-10-31	16:53:45		Data Scaled Successfully!!
+2021-10-31	16:53:45		Accessing the Dependent & Independent Data
+2021-10-31	16:53:45		Using StandardScaler to Scale down the data
+2021-10-31	16:53:45		Data Scaled Successfully!!
+2021-10-31	16:53:45		Accessing the Dependent & Independent Data
+2021-10-31	16:53:45		Using StandardScaler to Scale down the data
+2021-10-31	16:53:45		Data Scaled Successfully!!
+2021-10-31	16:58:15		Accessing the Dependent & Independent Data
+2021-10-31	16:58:15		Using StandardScaler to Scale down the data
+2021-10-31	16:58:15		Data Scaled Successfully!!
+2021-10-31	16:58:15		Accessing the Dependent & Independent Data
+2021-10-31	16:58:15		Using StandardScaler to Scale down the data
+2021-10-31	16:58:15		Data Scaled Successfully!!
+2021-10-31	16:59:09		Accessing the Dependent & Independent Data
+2021-10-31	16:59:09		Using StandardScaler to Scale down the data
+2021-10-31	16:59:09		Data Scaled Successfully!!
+2021-10-31	16:59:09		Accessing the Dependent & Independent Data
+2021-10-31	16:59:09		Using StandardScaler to Scale down the data
+2021-10-31	16:59:09		Data Scaled Successfully!!
+2021-10-31	17:03:10		Accessing the Dependent & Independent Data
+2021-10-31	17:03:10		Using StandardScaler to Scale down the data
+2021-10-31	17:03:10		Data Scaled Successfully!!
+2021-10-31	17:03:10		Accessing the Dependent & Independent Data
+2021-10-31	17:03:10		Using StandardScaler to Scale down the data
+2021-10-31	17:03:10		Data Scaled Successfully!!
+2021-10-31	17:03:10		Accessing the Dependent & Independent Data
+2021-10-31	17:03:10		Using StandardScaler to Scale down the data
+2021-10-31	17:03:10		Data Scaled Successfully!!
+2021-10-31	17:03:10		Accessing the Dependent & Independent Data
+2021-10-31	17:03:10		Using StandardScaler to Scale down the data
+2021-10-31	17:03:10		Data Scaled Successfully!!
+2021-10-31	17:07:44		Accessing the Dependent & Independent Data
+2021-10-31	17:07:44		Using StandardScaler to Scale down the data
+2021-10-31	17:07:44		Data Scaled Successfully!!
+2021-10-31	17:07:44		Accessing the Dependent & Independent Data
+2021-10-31	17:07:44		Using StandardScaler to Scale down the data
+2021-10-31	17:07:44		Data Scaled Successfully!!
+2021-10-31	17:08:41		Accessing the Dependent & Independent Data
+2021-10-31	17:08:41		Using StandardScaler to Scale down the data
+2021-10-31	17:08:41		Data Scaled Successfully!!
+2021-10-31	17:08:41		Accessing the Dependent & Independent Data
+2021-10-31	17:08:41		Using StandardScaler to Scale down the data
+2021-10-31	17:08:41		Data Scaled Successfully!!
+2021-10-31	17:14:11		Accessing the Dependent & Independent Data
+2021-10-31	17:14:11		Using StandardScaler to Scale down the data
+2021-10-31	17:14:11		Data Scaled Successfully!!
+2021-10-31	17:14:11		Accessing the Dependent & Independent Data
+2021-10-31	17:14:11		Using StandardScaler to Scale down the data
+2021-10-31	17:14:11		Data Scaled Successfully!!
+2021-10-31	17:14:11		Accessing the Dependent & Independent Data
+2021-10-31	17:14:11		Using StandardScaler to Scale down the data
+2021-10-31	17:14:11		Data Scaled Successfully!!
+2021-10-31	17:14:11		Accessing the Dependent & Independent Data
+2021-10-31	17:14:11		Using StandardScaler to Scale down the data
+2021-10-31	17:14:11		Data Scaled Successfully!!
+2021-10-31	17:18:25		Accessing the Dependent & Independent Data
+2021-10-31	17:18:25		Using StandardScaler to Scale down the data
+2021-10-31	17:18:25		Data Scaled Successfully!!
+2021-10-31	17:18:25		Accessing the Dependent & Independent Data
+2021-10-31	17:18:25		Using StandardScaler to Scale down the data
+2021-10-31	17:18:25		Data Scaled Successfully!!
+2021-10-31	17:19:11		Accessing the Dependent & Independent Data
+2021-10-31	17:19:11		Using StandardScaler to Scale down the data
+2021-10-31	17:19:11		Data Scaled Successfully!!
+2021-10-31	17:19:11		Accessing the Dependent & Independent Data
+2021-10-31	17:19:11		Using StandardScaler to Scale down the data
+2021-10-31	17:19:11		Data Scaled Successfully!!
+2021-10-31	17:24:14		Accessing the Dependent & Independent Data
+2021-10-31	17:24:14		Using StandardScaler to Scale down the data
+2021-10-31	17:24:14		Data Scaled Successfully!!
+2021-10-31	17:24:14		Accessing the Dependent & Independent Data
+2021-10-31	17:24:14		Using StandardScaler to Scale down the data
+2021-10-31	17:24:14		Data Scaled Successfully!!
+2021-10-31	17:24:14		Accessing the Dependent & Independent Data
+2021-10-31	17:24:14		Using StandardScaler to Scale down the data
+2021-10-31	17:24:14		Data Scaled Successfully!!
+2021-10-31	17:24:14		Accessing the Dependent & Independent Data
+2021-10-31	17:24:14		Using StandardScaler to Scale down the data
+2021-10-31	17:24:14		Data Scaled Successfully!!
+2021-10-31	17:28:42		Accessing the Dependent & Independent Data
+2021-10-31	17:28:42		Using StandardScaler to Scale down the data
+2021-10-31	17:28:42		Data Scaled Successfully!!
+2021-10-31	17:28:42		Accessing the Dependent & Independent Data
+2021-10-31	17:28:42		Using StandardScaler to Scale down the data
+2021-10-31	17:28:42		Data Scaled Successfully!!
+2021-10-31	17:29:37		Accessing the Dependent & Independent Data
+2021-10-31	17:29:37		Using StandardScaler to Scale down the data
+2021-10-31	17:29:37		Data Scaled Successfully!!
+2021-10-31	17:29:37		Accessing the Dependent & Independent Data
+2021-10-31	17:29:37		Using StandardScaler to Scale down the data
+2021-10-31	17:29:37		Data Scaled Successfully!!
+2021-11-01	16:40:13		Accessing the Dependent & Independent Data
+2021-11-01	16:40:13		Using StandardScaler to Scale down the data
+2021-11-01	16:40:13		Data Scaled Successfully!!
+2021-11-01	16:40:13		Accessing the Dependent & Independent Data
+2021-11-01	16:40:13		Using StandardScaler to Scale down the data
+2021-11-01	16:40:13		Data Scaled Successfully!!
+2021-11-01	16:40:13		Accessing the Dependent & Independent Data
+2021-11-01	16:40:13		Using StandardScaler to Scale down the data
+2021-11-01	16:40:13		Data Scaled Successfully!!
+2021-11-01	16:40:13		Accessing the Dependent & Independent Data
+2021-11-01	16:40:13		Using StandardScaler to Scale down the data
+2021-11-01	16:40:13		Data Scaled Successfully!!
+2021-11-01	16:52:17		Accessing the Dependent & Independent Data
+2021-11-01	16:52:17		Using StandardScaler to Scale down the data
+2021-11-01	16:52:17		Data Scaled Successfully!!
+2021-11-01	16:52:17		Accessing the Dependent & Independent Data
+2021-11-01	16:52:17		Using StandardScaler to Scale down the data
+2021-11-01	16:52:17		Data Scaled Successfully!!
+2021-11-01	16:53:01		Accessing the Dependent & Independent Data
+2021-11-01	16:53:01		Using StandardScaler to Scale down the data
+2021-11-01	16:53:01		Data Scaled Successfully!!
+2021-11-01	16:53:01		Accessing the Dependent & Independent Data
+2021-11-01	16:53:01		Using StandardScaler to Scale down the data
+2021-11-01	16:53:01		Data Scaled Successfully!!
+2021-11-01	16:55:15		Accessing the Dependent & Independent Data
+2021-11-01	16:55:15		Using StandardScaler to Scale down the data
+2021-11-01	16:55:15		Data Scaled Successfully!!
+2021-11-01	16:55:15		Accessing the Dependent & Independent Data
+2021-11-01	16:55:15		Using StandardScaler to Scale down the data
+2021-11-01	16:55:15		Data Scaled Successfully!!
+2021-11-01	16:58:39		Accessing the Dependent & Independent Data
+2021-11-01	16:58:39		Using StandardScaler to Scale down the data
+2021-11-01	16:58:39		Data Scaled Successfully!!
+2021-11-01	16:58:39		Accessing the Dependent & Independent Data
+2021-11-01	16:58:39		Using StandardScaler to Scale down the data
+2021-11-01	16:58:39		Data Scaled Successfully!!
+2021-11-01	16:58:39		Accessing the Dependent & Independent Data
+2021-11-01	16:58:39		Using StandardScaler to Scale down the data
+2021-11-01	16:58:39		Data Scaled Successfully!!
+2021-11-01	16:58:39		Accessing the Dependent & Independent Data
+2021-11-01	16:58:39		Using StandardScaler to Scale down the data
+2021-11-01	16:58:39		Data Scaled Successfully!!
+2021-11-01	17:03:19		Accessing the Dependent & Independent Data
+2021-11-01	17:03:19		Using StandardScaler to Scale down the data
+2021-11-01	17:03:19		Data Scaled Successfully!!
+2021-11-01	17:03:19		Accessing the Dependent & Independent Data
+2021-11-01	17:03:19		Using StandardScaler to Scale down the data
+2021-11-01	17:03:19		Data Scaled Successfully!!
+2021-11-01	17:04:08		Accessing the Dependent & Independent Data
+2021-11-01	17:04:08		Using StandardScaler to Scale down the data
+2021-11-01	17:04:08		Data Scaled Successfully!!
+2021-11-01	17:04:08		Accessing the Dependent & Independent Data
+2021-11-01	17:04:08		Using StandardScaler to Scale down the data
+2021-11-01	17:04:08		Data Scaled Successfully!!
+2021-11-01	17:06:23		Accessing the Dependent & Independent Data
+2021-11-01	17:06:23		Using StandardScaler to Scale down the data
+2021-11-01	17:06:23		Data Scaled Successfully!!
+2021-11-01	17:06:23		Accessing the Dependent & Independent Data
+2021-11-01	17:06:23		Using StandardScaler to Scale down the data
+2021-11-01	17:06:23		Data Scaled Successfully!!
+2021-11-01	17:11:20		Accessing the Dependent & Independent Data
+2021-11-01	17:11:20		Using StandardScaler to Scale down the data
+2021-11-01	17:11:20		Data Scaled Successfully!!
+2021-11-01	17:11:20		Accessing the Dependent & Independent Data
+2021-11-01	17:11:20		Using StandardScaler to Scale down the data
+2021-11-01	17:11:20		Data Scaled Successfully!!
+2021-11-01	17:11:20		Accessing the Dependent & Independent Data
+2021-11-01	17:11:20		Using StandardScaler to Scale down the data
+2021-11-01	17:11:20		Data Scaled Successfully!!
+2021-11-01	17:11:20		Accessing the Dependent & Independent Data
+2021-11-01	17:11:20		Using StandardScaler to Scale down the data
+2021-11-01	17:11:20		Data Scaled Successfully!!
+2021-11-01	17:11:32		Accessing the Dependent & Independent Data
+2021-11-01	17:11:32		Using StandardScaler to Scale down the data
+2021-11-01	17:11:32		Data Scaled Successfully!!
+2021-11-01	17:11:32		Accessing the Dependent & Independent Data
+2021-11-01	17:11:32		Using StandardScaler to Scale down the data
+2021-11-01	17:11:32		Data Scaled Successfully!!
+2021-11-01	17:11:32		Accessing the Dependent & Independent Data
+2021-11-01	17:11:32		Using StandardScaler to Scale down the data
+2021-11-01	17:11:32		Data Scaled Successfully!!
+2021-11-01	17:11:32		Accessing the Dependent & Independent Data
+2021-11-01	17:11:32		Using StandardScaler to Scale down the data
+2021-11-01	17:11:32		Data Scaled Successfully!!
+2021-11-01	17:15:57		Accessing the Dependent & Independent Data
+2021-11-01	17:15:57		Using StandardScaler to Scale down the data
+2021-11-01	17:15:57		Data Scaled Successfully!!
+2021-11-01	17:15:57		Accessing the Dependent & Independent Data
+2021-11-01	17:15:57		Using StandardScaler to Scale down the data
+2021-11-01	17:15:57		Data Scaled Successfully!!
+2021-11-01	17:16:44		Accessing the Dependent & Independent Data
+2021-11-01	17:16:44		Using StandardScaler to Scale down the data
+2021-11-01	17:16:44		Data Scaled Successfully!!
+2021-11-01	17:16:44		Accessing the Dependent & Independent Data
+2021-11-01	17:16:44		Using StandardScaler to Scale down the data
+2021-11-01	17:16:44		Data Scaled Successfully!!
+2021-11-01	17:19:03		Accessing the Dependent & Independent Data
+2021-11-01	17:19:03		Using StandardScaler to Scale down the data
+2021-11-01	17:19:03		Data Scaled Successfully!!
+2021-11-01	17:19:03		Accessing the Dependent & Independent Data
+2021-11-01	17:19:03		Using StandardScaler to Scale down the data
+2021-11-01	17:19:03		Data Scaled Successfully!!
+2021-11-01	17:27:22		Accessing the Dependent & Independent Data
+2021-11-01	17:27:22		Using StandardScaler to Scale down the data
+2021-11-01	17:27:22		Data Scaled Successfully!!
+2021-11-01	17:27:22		Accessing the Dependent & Independent Data
+2021-11-01	17:27:22		Using StandardScaler to Scale down the data
+2021-11-01	17:27:22		Data Scaled Successfully!!
+2021-11-01	17:27:22		Accessing the Dependent & Independent Data
+2021-11-01	17:27:22		Using StandardScaler to Scale down the data
+2021-11-01	17:27:22		Data Scaled Successfully!!
+2021-11-01	17:27:22		Accessing the Dependent & Independent Data
+2021-11-01	17:27:22		Using StandardScaler to Scale down the data
+2021-11-01	17:27:22		Data Scaled Successfully!!
+2021-11-01	17:31:50		Accessing the Dependent & Independent Data
+2021-11-01	17:31:50		Using StandardScaler to Scale down the data
+2021-11-01	17:31:50		Data Scaled Successfully!!
+2021-11-01	17:31:50		Accessing the Dependent & Independent Data
+2021-11-01	17:31:50		Using StandardScaler to Scale down the data
+2021-11-01	17:31:50		Data Scaled Successfully!!
+2021-11-01	17:32:45		Accessing the Dependent & Independent Data
+2021-11-01	17:32:45		Using StandardScaler to Scale down the data
+2021-11-01	17:32:45		Data Scaled Successfully!!
+2021-11-01	17:32:45		Accessing the Dependent & Independent Data
+2021-11-01	17:32:45		Using StandardScaler to Scale down the data
+2021-11-01	17:32:45		Data Scaled Successfully!!
+2021-11-01	17:34:59		Accessing the Dependent & Independent Data
+2021-11-01	17:34:59		Using StandardScaler to Scale down the data
+2021-11-01	17:34:59		Data Scaled Successfully!!
+2021-11-01	17:34:59		Accessing the Dependent & Independent Data
+2021-11-01	17:34:59		Using StandardScaler to Scale down the data
+2021-11-01	17:34:59		Data Scaled Successfully!!
+2021-11-03	09:00:14		Accessing the Dependent & Independent Data
+2021-11-03	09:00:14		Using StandardScaler to Scale down the data
+2021-11-03	09:00:14		Data Scaled Successfully!!
+2021-11-03	09:00:14		Accessing the Dependent & Independent Data
+2021-11-03	09:00:14		Using StandardScaler to Scale down the data
+2021-11-03	09:00:14		Data Scaled Successfully!!
+2021-11-03	09:00:14		Accessing the Dependent & Independent Data
+2021-11-03	09:00:14		Using StandardScaler to Scale down the data
+2021-11-03	09:00:14		Data Scaled Successfully!!
+2021-11-03	09:00:14		Accessing the Dependent & Independent Data
+2021-11-03	09:00:14		Using StandardScaler to Scale down the data
+2021-11-03	09:00:14		Data Scaled Successfully!!
+2021-11-03	09:06:18		Accessing the Dependent & Independent Data
+2021-11-03	09:06:18		Using StandardScaler to Scale down the data
+2021-11-03	09:06:18		Data Scaled Successfully!!
+2021-11-03	09:06:18		Accessing the Dependent & Independent Data
+2021-11-03	09:06:18		Using StandardScaler to Scale down the data
+2021-11-03	09:06:18		Data Scaled Successfully!!
+2021-11-03	09:07:08		Accessing the Dependent & Independent Data
+2021-11-03	09:07:08		Using StandardScaler to Scale down the data
+2021-11-03	09:07:08		Data Scaled Successfully!!
+2021-11-03	09:07:08		Accessing the Dependent & Independent Data
+2021-11-03	09:07:08		Using StandardScaler to Scale down the data
+2021-11-03	09:07:08		Data Scaled Successfully!!
+2021-11-03	09:09:28		Accessing the Dependent & Independent Data
+2021-11-03	09:09:28		Using StandardScaler to Scale down the data
+2021-11-03	09:09:28		Data Scaled Successfully!!
+2021-11-03	09:09:28		Accessing the Dependent & Independent Data
+2021-11-03	09:09:28		Using StandardScaler to Scale down the data
+2021-11-03	09:09:28		Data Scaled Successfully!!
+2021-11-03	09:16:52		Accessing the Dependent & Independent Data
+2021-11-03	09:16:52		Using StandardScaler to Scale down the data
+2021-11-03	09:16:52		Data Scaled Successfully!!
+2021-11-03	09:16:52		Accessing the Dependent & Independent Data
+2021-11-03	09:16:52		Using StandardScaler to Scale down the data
+2021-11-03	09:16:52		Data Scaled Successfully!!
+2021-11-03	09:16:52		Accessing the Dependent & Independent Data
+2021-11-03	09:16:52		Using StandardScaler to Scale down the data
+2021-11-03	09:16:52		Data Scaled Successfully!!
+2021-11-03	09:16:52		Accessing the Dependent & Independent Data
+2021-11-03	09:16:52		Using StandardScaler to Scale down the data
+2021-11-03	09:16:52		Data Scaled Successfully!!
+2021-11-03	09:26:05		Accessing the Dependent & Independent Data
+2021-11-03	09:26:05		Using StandardScaler to Scale down the data
+2021-11-03	09:26:05		Data Scaled Successfully!!
+2021-11-03	09:26:05		Accessing the Dependent & Independent Data
+2021-11-03	09:26:05		Using StandardScaler to Scale down the data
+2021-11-03	09:26:05		Data Scaled Successfully!!
+2021-11-03	09:30:15		Accessing the Dependent & Independent Data
+2021-11-03	09:30:15		Using StandardScaler to Scale down the data
+2021-11-03	09:30:15		Data Scaled Successfully!!
+2021-11-03	09:30:15		Accessing the Dependent & Independent Data
+2021-11-03	09:30:15		Using StandardScaler to Scale down the data
+2021-11-03	09:30:15		Data Scaled Successfully!!
+2021-11-03	09:33:56		Accessing the Dependent & Independent Data
+2021-11-03	09:33:56		Using StandardScaler to Scale down the data
+2021-11-03	09:33:56		Data Scaled Successfully!!
+2021-11-03	09:33:56		Accessing the Dependent & Independent Data
+2021-11-03	09:33:56		Using StandardScaler to Scale down the data
+2021-11-03	09:33:56		Data Scaled Successfully!!
+2021-11-03	09:43:24		Accessing the Dependent & Independent Data
+2021-11-03	09:43:24		Using StandardScaler to Scale down the data
+2021-11-03	09:43:24		Data Scaled Successfully!!
+2021-11-03	09:43:29		Accessing the Dependent & Independent Data
+2021-11-03	09:43:29		Using StandardScaler to Scale down the data
+2021-11-03	09:43:29		Data Scaled Successfully!!
+2021-11-03	09:43:29		Accessing the Dependent & Independent Data
+2021-11-03	09:43:29		Using StandardScaler to Scale down the data
+2021-11-03	09:43:29		Data Scaled Successfully!!
+2021-11-03	09:43:29		Accessing the Dependent & Independent Data
+2021-11-03	09:43:29		Using StandardScaler to Scale down the data
+2021-11-03	09:43:29		Data Scaled Successfully!!
+2021-11-03	09:43:29		Accessing the Dependent & Independent Data
+2021-11-03	09:43:29		Using StandardScaler to Scale down the data
+2021-11-03	09:43:29		Data Scaled Successfully!!
+2021-11-03	09:52:19		Accessing the Dependent & Independent Data
+2021-11-03	09:52:19		Using StandardScaler to Scale down the data
+2021-11-03	09:52:19		Data Scaled Successfully!!
+2021-11-03	09:52:19		Accessing the Dependent & Independent Data
+2021-11-03	09:52:19		Using StandardScaler to Scale down the data
+2021-11-03	09:52:19		Data Scaled Successfully!!
+2021-11-03	10:06:42		Accessing the Dependent & Independent Data
+2021-11-03	10:06:42		Using StandardScaler to Scale down the data
+2021-11-03	10:06:42		Data Scaled Successfully!!
+2021-11-03	10:06:42		Accessing the Dependent & Independent Data
+2021-11-03	10:06:42		Using StandardScaler to Scale down the data
+2021-11-03	10:06:42		Data Scaled Successfully!!
+2021-11-03	10:08:33		Accessing the Dependent & Independent Data
+2021-11-03	10:08:33		Using StandardScaler to Scale down the data
+2021-11-03	10:08:33		Data Scaled Successfully!!
+2021-11-03	10:08:33		Accessing the Dependent & Independent Data
+2021-11-03	10:08:33		Using StandardScaler to Scale down the data
+2021-11-03	10:08:33		Data Scaled Successfully!!
+2021-11-03	10:23:24		Accessing the Dependent & Independent Data
+2021-11-03	10:23:24		Using StandardScaler to Scale down the data
+2021-11-03	10:23:24		Data Scaled Successfully!!
+2021-11-03	10:26:31		Accessing the Dependent & Independent Data
+2021-11-03	10:26:31		Using StandardScaler to Scale down the data
+2021-11-03	10:26:31		Data Scaled Successfully!!
+2021-11-03	10:26:35		Accessing the Dependent & Independent Data
+2021-11-03	10:26:35		Using StandardScaler to Scale down the data
+2021-11-03	10:26:35		Data Scaled Successfully!!
+2021-11-03	10:26:35		Accessing the Dependent & Independent Data
+2021-11-03	10:26:35		Using StandardScaler to Scale down the data
+2021-11-03	10:26:35		Data Scaled Successfully!!
+2021-11-03	10:26:35		Accessing the Dependent & Independent Data
+2021-11-03	10:26:35		Using StandardScaler to Scale down the data
+2021-11-03	10:26:35		Data Scaled Successfully!!
+2021-11-03	10:26:35		Accessing the Dependent & Independent Data
+2021-11-03	10:26:35		Using StandardScaler to Scale down the data
+2021-11-03	10:26:35		Data Scaled Successfully!!
+2021-11-03	10:35:11		Accessing the Dependent & Independent Data
+2021-11-03	10:35:11		Using StandardScaler to Scale down the data
+2021-11-03	10:35:11		Data Scaled Successfully!!
+2021-11-03	10:35:11		Accessing the Dependent & Independent Data
+2021-11-03	10:35:11		Using StandardScaler to Scale down the data
+2021-11-03	10:35:11		Data Scaled Successfully!!
+2021-11-03	10:49:06		Accessing the Dependent & Independent Data
+2021-11-03	10:49:06		Using StandardScaler to Scale down the data
+2021-11-03	10:49:06		Data Scaled Successfully!!
+2021-11-03	10:49:06		Accessing the Dependent & Independent Data
+2021-11-03	10:49:06		Using StandardScaler to Scale down the data
+2021-11-03	10:49:06		Data Scaled Successfully!!
+2021-11-03	10:50:47		Accessing the Dependent & Independent Data
+2021-11-03	10:50:47		Using StandardScaler to Scale down the data
+2021-11-03	10:50:47		Data Scaled Successfully!!
+2021-11-03	10:50:47		Accessing the Dependent & Independent Data
+2021-11-03	10:50:47		Using StandardScaler to Scale down the data
+2021-11-03	10:50:47		Data Scaled Successfully!!
+2021-11-03	10:55:02		Accessing the Dependent & Independent Data
+2021-11-03	10:55:02		Using StandardScaler to Scale down the data
+2021-11-03	10:55:02		Data Scaled Successfully!!
+2021-11-03	10:55:09		Accessing the Dependent & Independent Data
+2021-11-03	10:55:09		Using StandardScaler to Scale down the data
+2021-11-03	10:55:09		Data Scaled Successfully!!
+2021-11-03	10:56:01		Accessing the Dependent & Independent Data
+2021-11-03	10:56:01		Using StandardScaler to Scale down the data
+2021-11-03	10:56:01		Data Scaled Successfully!!
+2021-11-03	10:56:01		Accessing the Dependent & Independent Data
+2021-11-03	10:56:01		Using StandardScaler to Scale down the data
+2021-11-03	10:56:01		Data Scaled Successfully!!
+2021-11-03	10:56:01		Accessing the Dependent & Independent Data
+2021-11-03	10:56:01		Using StandardScaler to Scale down the data
+2021-11-03	10:56:01		Data Scaled Successfully!!
+2021-11-03	10:56:01		Accessing the Dependent & Independent Data
+2021-11-03	10:56:01		Using StandardScaler to Scale down the data
+2021-11-03	10:56:01		Data Scaled Successfully!!
+2021-11-03	11:04:35		Accessing the Dependent & Independent Data
+2021-11-03	11:04:35		Using StandardScaler to Scale down the data
+2021-11-03	11:04:35		Data Scaled Successfully!!
+2021-11-03	11:04:35		Accessing the Dependent & Independent Data
+2021-11-03	11:04:35		Using StandardScaler to Scale down the data
+2021-11-03	11:04:35		Data Scaled Successfully!!
+2021-11-03	11:17:57		Accessing the Dependent & Independent Data
+2021-11-03	11:17:57		Using StandardScaler to Scale down the data
+2021-11-03	11:17:57		Data Scaled Successfully!!
+2021-11-03	11:17:57		Accessing the Dependent & Independent Data
+2021-11-03	11:17:57		Using StandardScaler to Scale down the data
+2021-11-03	11:17:57		Data Scaled Successfully!!
+2021-11-03	11:19:52		Accessing the Dependent & Independent Data
+2021-11-03	11:19:52		Using StandardScaler to Scale down the data
+2021-11-03	11:19:52		Data Scaled Successfully!!
+2021-11-03	11:19:52		Accessing the Dependent & Independent Data
+2021-11-03	11:19:52		Using StandardScaler to Scale down the data
+2021-11-03	11:19:52		Data Scaled Successfully!!
+2021-11-03	11:34:55		Accessing the Dependent & Independent Data
+2021-11-03	11:34:55		Using StandardScaler to Scale down the data
+2021-11-03	11:34:55		Data Scaled Successfully!!
+2021-11-03	11:34:58		Accessing the Dependent & Independent Data
+2021-11-03	11:34:58		Using StandardScaler to Scale down the data
+2021-11-03	11:34:58		Data Scaled Successfully!!
+2021-11-03	11:34:58		Accessing the Dependent & Independent Data
+2021-11-03	11:34:58		Using StandardScaler to Scale down the data
+2021-11-03	11:34:58		Data Scaled Successfully!!
+2021-11-03	11:34:58		Accessing the Dependent & Independent Data
+2021-11-03	11:34:58		Using StandardScaler to Scale down the data
+2021-11-03	11:34:58		Data Scaled Successfully!!
+2021-11-03	11:34:58		Accessing the Dependent & Independent Data
+2021-11-03	11:34:58		Using StandardScaler to Scale down the data
+2021-11-03	11:34:58		Data Scaled Successfully!!
+2021-11-03	11:43:31		Accessing the Dependent & Independent Data
+2021-11-03	11:43:31		Using StandardScaler to Scale down the data
+2021-11-03	11:43:31		Data Scaled Successfully!!
+2021-11-03	11:43:31		Accessing the Dependent & Independent Data
+2021-11-03	11:43:31		Using StandardScaler to Scale down the data
+2021-11-03	11:43:32		Data Scaled Successfully!!
+2021-11-03	11:58:52		Accessing the Dependent & Independent Data
+2021-11-03	11:58:52		Using StandardScaler to Scale down the data
+2021-11-03	11:58:52		Data Scaled Successfully!!
+2021-11-03	11:58:52		Accessing the Dependent & Independent Data
+2021-11-03	11:58:52		Using StandardScaler to Scale down the data
+2021-11-03	11:58:52		Data Scaled Successfully!!
+2021-11-03	12:00:46		Accessing the Dependent & Independent Data
+2021-11-03	12:00:46		Using StandardScaler to Scale down the data
+2021-11-03	12:00:46		Data Scaled Successfully!!
+2021-11-03	12:00:46		Accessing the Dependent & Independent Data
+2021-11-03	12:00:46		Using StandardScaler to Scale down the data
+2021-11-03	12:00:46		Data Scaled Successfully!!
+2021-11-03	12:14:29		Accessing the Dependent & Independent Data
+2021-11-03	12:14:29		Using StandardScaler to Scale down the data
+2021-11-03	12:14:29		Data Scaled Successfully!!
+2021-11-03	12:14:37		Accessing the Dependent & Independent Data
+2021-11-03	12:14:37		Using StandardScaler to Scale down the data
+2021-11-03	12:14:37		Data Scaled Successfully!!
+2021-11-03	12:14:37		Accessing the Dependent & Independent Data
+2021-11-03	12:14:37		Using StandardScaler to Scale down the data
+2021-11-03	12:14:37		Data Scaled Successfully!!
+2021-11-03	12:14:37		Accessing the Dependent & Independent Data
+2021-11-03	12:14:37		Using StandardScaler to Scale down the data
+2021-11-03	12:14:37		Data Scaled Successfully!!
+2021-11-03	12:14:37		Accessing the Dependent & Independent Data
+2021-11-03	12:14:37		Using StandardScaler to Scale down the data
+2021-11-03	12:14:37		Data Scaled Successfully!!
+2021-11-03	12:23:14		Accessing the Dependent & Independent Data
+2021-11-03	12:23:14		Using StandardScaler to Scale down the data
+2021-11-03	12:23:14		Data Scaled Successfully!!
+2021-11-03	12:23:14		Accessing the Dependent & Independent Data
+2021-11-03	12:23:14		Using StandardScaler to Scale down the data
+2021-11-03	12:23:14		Data Scaled Successfully!!
+2021-11-03	12:37:27		Accessing the Dependent & Independent Data
+2021-11-03	12:37:27		Using StandardScaler to Scale down the data
+2021-11-03	12:37:27		Data Scaled Successfully!!
+2021-11-03	12:37:27		Accessing the Dependent & Independent Data
+2021-11-03	12:37:27		Using StandardScaler to Scale down the data
+2021-11-03	12:37:27		Data Scaled Successfully!!
+2021-11-03	12:39:07		Accessing the Dependent & Independent Data
+2021-11-03	12:39:07		Using StandardScaler to Scale down the data
+2021-11-03	12:39:07		Data Scaled Successfully!!
+2021-11-03	12:39:07		Accessing the Dependent & Independent Data
+2021-11-03	12:39:07		Using StandardScaler to Scale down the data
+2021-11-03	12:39:07		Data Scaled Successfully!!
+2021-11-03	12:45:14		Accessing the Dependent & Independent Data
+2021-11-03	12:45:14		Using StandardScaler to Scale down the data
+2021-11-03	12:45:14		Data Scaled Successfully!!
+2021-11-03	12:45:17		Accessing the Dependent & Independent Data
+2021-11-03	12:45:17		Using StandardScaler to Scale down the data
+2021-11-03	12:45:17		Data Scaled Successfully!!
+2021-11-03	12:45:17		Accessing the Dependent & Independent Data
+2021-11-03	12:45:17		Using StandardScaler to Scale down the data
+2021-11-03	12:45:17		Data Scaled Successfully!!
+2021-11-03	12:45:17		Accessing the Dependent & Independent Data
+2021-11-03	12:45:17		Using StandardScaler to Scale down the data
+2021-11-03	12:45:17		Data Scaled Successfully!!
+2021-11-03	12:45:17		Accessing the Dependent & Independent Data
+2021-11-03	12:45:17		Using StandardScaler to Scale down the data
+2021-11-03	12:45:17		Data Scaled Successfully!!
+2021-11-03	12:53:47		Accessing the Dependent & Independent Data
+2021-11-03	12:53:47		Using StandardScaler to Scale down the data
+2021-11-03	12:53:47		Data Scaled Successfully!!
+2021-11-03	12:53:47		Accessing the Dependent & Independent Data
+2021-11-03	12:53:47		Using StandardScaler to Scale down the data
+2021-11-03	12:53:47		Data Scaled Successfully!!
+2021-11-03	12:57:25		Accessing the Dependent & Independent Data
+2021-11-03	12:57:25		Using StandardScaler to Scale down the data
+2021-11-03	12:57:25		Data Scaled Successfully!!
+2021-11-03	12:57:30		Accessing the Dependent & Independent Data
+2021-11-03	12:57:30		Using StandardScaler to Scale down the data
+2021-11-03	12:57:30		Data Scaled Successfully!!
+2021-11-03	12:57:34		Accessing the Dependent & Independent Data
+2021-11-03	12:57:34		Using StandardScaler to Scale down the data
+2021-11-03	12:57:34		Data Scaled Successfully!!
+2021-11-03	12:57:38		Accessing the Dependent & Independent Data
+2021-11-03	12:57:38		Using StandardScaler to Scale down the data
+2021-11-03	12:57:38		Data Scaled Successfully!!
+2021-11-03	12:57:38		Accessing the Dependent & Independent Data
+2021-11-03	12:57:38		Using StandardScaler to Scale down the data
+2021-11-03	12:57:38		Data Scaled Successfully!!
+2021-11-03	12:57:38		Accessing the Dependent & Independent Data
+2021-11-03	12:57:38		Using StandardScaler to Scale down the data
+2021-11-03	12:57:38		Data Scaled Successfully!!
+2021-11-03	12:57:38		Accessing the Dependent & Independent Data
+2021-11-03	12:57:38		Using StandardScaler to Scale down the data
+2021-11-03	12:57:38		Data Scaled Successfully!!
+2021-11-03	13:06:12		Accessing the Dependent & Independent Data
+2021-11-03	13:06:12		Using StandardScaler to Scale down the data
+2021-11-03	13:06:12		Data Scaled Successfully!!
+2021-11-03	13:06:12		Accessing the Dependent & Independent Data
+2021-11-03	13:06:12		Using StandardScaler to Scale down the data
+2021-11-03	13:06:12		Data Scaled Successfully!!
+2021-11-03	13:18:29		Accessing the Dependent & Independent Data
+2021-11-03	13:18:29		Using StandardScaler to Scale down the data
+2021-11-03	13:18:29		Data Scaled Successfully!!
+2021-11-03	13:18:29		Accessing the Dependent & Independent Data
+2021-11-03	13:18:29		Using StandardScaler to Scale down the data
+2021-11-03	13:18:29		Data Scaled Successfully!!
+2021-11-03	13:20:20		Accessing the Dependent & Independent Data
+2021-11-03	13:20:20		Using StandardScaler to Scale down the data
+2021-11-03	13:20:20		Data Scaled Successfully!!
+2021-11-03	13:20:20		Accessing the Dependent & Independent Data
+2021-11-03	13:20:20		Using StandardScaler to Scale down the data
+2021-11-03	13:20:20		Data Scaled Successfully!!
+2021-11-03	13:25:23		Accessing the Dependent & Independent Data
+2021-11-03	13:25:23		Using StandardScaler to Scale down the data
+2021-11-03	13:25:23		Data Scaled Successfully!!
+2021-11-03	13:25:28		Accessing the Dependent & Independent Data
+2021-11-03	13:25:28		Using StandardScaler to Scale down the data
+2021-11-03	13:25:28		Data Scaled Successfully!!
+2021-11-03	13:25:33		Accessing the Dependent & Independent Data
+2021-11-03	13:25:33		Using StandardScaler to Scale down the data
+2021-11-03	13:25:33		Data Scaled Successfully!!
+2021-11-03	13:25:37		Accessing the Dependent & Independent Data
+2021-11-03	13:25:37		Using StandardScaler to Scale down the data
+2021-11-03	13:25:37		Data Scaled Successfully!!
+2021-11-03	13:25:37		Accessing the Dependent & Independent Data
+2021-11-03	13:25:37		Using StandardScaler to Scale down the data
+2021-11-03	13:25:37		Data Scaled Successfully!!
+2021-11-03	13:25:37		Accessing the Dependent & Independent Data
+2021-11-03	13:25:37		Using StandardScaler to Scale down the data
+2021-11-03	13:25:37		Data Scaled Successfully!!
+2021-11-03	13:25:37		Accessing the Dependent & Independent Data
+2021-11-03	13:25:37		Using StandardScaler to Scale down the data
+2021-11-03	13:25:37		Data Scaled Successfully!!
+2021-11-03	13:34:20		Accessing the Dependent & Independent Data
+2021-11-03	13:34:20		Using StandardScaler to Scale down the data
+2021-11-03	13:34:20		Data Scaled Successfully!!
+2021-11-03	13:34:20		Accessing the Dependent & Independent Data
+2021-11-03	13:34:20		Using StandardScaler to Scale down the data
+2021-11-03	13:34:20		Data Scaled Successfully!!
+2021-11-03	13:48:46		Accessing the Dependent & Independent Data
+2021-11-03	13:48:46		Using StandardScaler to Scale down the data
+2021-11-03	13:48:46		Data Scaled Successfully!!
+2021-11-03	13:48:46		Accessing the Dependent & Independent Data
+2021-11-03	13:48:46		Using StandardScaler to Scale down the data
+2021-11-03	13:48:46		Data Scaled Successfully!!
+2021-11-03	13:50:47		Accessing the Dependent & Independent Data
+2021-11-03	13:50:47		Using StandardScaler to Scale down the data
+2021-11-03	13:50:47		Data Scaled Successfully!!
+2021-11-03	13:50:47		Accessing the Dependent & Independent Data
+2021-11-03	13:50:47		Using StandardScaler to Scale down the data
+2021-11-03	13:50:47		Data Scaled Successfully!!
+2021-11-03	13:58:52		Accessing the Dependent & Independent Data
+2021-11-03	13:58:52		Using StandardScaler to Scale down the data
+2021-11-03	13:58:52		Data Scaled Successfully!!
+2021-11-03	13:58:56		Accessing the Dependent & Independent Data
+2021-11-03	13:58:56		Using StandardScaler to Scale down the data
+2021-11-03	13:58:56		Data Scaled Successfully!!
+2021-11-03	13:59:00		Accessing the Dependent & Independent Data
+2021-11-03	13:59:00		Using StandardScaler to Scale down the data
+2021-11-03	13:59:00		Data Scaled Successfully!!
+2021-11-03	13:59:03		Accessing the Dependent & Independent Data
+2021-11-03	13:59:03		Using StandardScaler to Scale down the data
+2021-11-03	13:59:03		Data Scaled Successfully!!
+2021-11-03	13:59:03		Accessing the Dependent & Independent Data
+2021-11-03	13:59:03		Using StandardScaler to Scale down the data
+2021-11-03	13:59:03		Data Scaled Successfully!!
+2021-11-03	13:59:03		Accessing the Dependent & Independent Data
+2021-11-03	13:59:03		Using StandardScaler to Scale down the data
+2021-11-03	13:59:03		Data Scaled Successfully!!
+2021-11-03	13:59:03		Accessing the Dependent & Independent Data
+2021-11-03	13:59:03		Using StandardScaler to Scale down the data
+2021-11-03	13:59:03		Data Scaled Successfully!!
+2021-11-03	14:08:01		Accessing the Dependent & Independent Data
+2021-11-03	14:08:01		Using StandardScaler to Scale down the data
+2021-11-03	14:08:01		Data Scaled Successfully!!
+2021-11-03	14:08:01		Accessing the Dependent & Independent Data
+2021-11-03	14:08:01		Using StandardScaler to Scale down the data
+2021-11-03	14:08:01		Data Scaled Successfully!!
+2021-11-03	14:22:35		Accessing the Dependent & Independent Data
+2021-11-03	14:22:35		Using StandardScaler to Scale down the data
+2021-11-03	14:22:35		Data Scaled Successfully!!
+2021-11-03	14:22:35		Accessing the Dependent & Independent Data
+2021-11-03	14:22:35		Using StandardScaler to Scale down the data
+2021-11-03	14:22:35		Data Scaled Successfully!!
+2021-11-03	14:24:31		Accessing the Dependent & Independent Data
+2021-11-03	14:24:31		Using StandardScaler to Scale down the data
+2021-11-03	14:24:31		Data Scaled Successfully!!
+2021-11-03	14:24:31		Accessing the Dependent & Independent Data
+2021-11-03	14:24:31		Using StandardScaler to Scale down the data
+2021-11-03	14:24:31		Data Scaled Successfully!!
+2021-11-06	11:48:39		Accessing the Dependent & Independent Data
+2021-11-06	11:48:39		Using StandardScaler to Scale down the data
+2021-11-06	11:48:39		Data Scaled Successfully!!
+2021-11-06	11:49:00		Accessing the Dependent & Independent Data
+2021-11-06	11:49:00		Using StandardScaler to Scale down the data
+2021-11-06	11:49:00		Data Scaled Successfully!!
+2021-11-06	11:49:08		Accessing the Dependent & Independent Data
+2021-11-06	11:49:08		Using StandardScaler to Scale down the data
+2021-11-06	11:49:08		Data Scaled Successfully!!
+2021-11-06	11:49:15		Accessing the Dependent & Independent Data
+2021-11-06	11:49:15		Using StandardScaler to Scale down the data
+2021-11-06	11:49:15		Data Scaled Successfully!!
+2021-11-06	11:49:15		Accessing the Dependent & Independent Data
+2021-11-06	11:49:15		Using StandardScaler to Scale down the data
+2021-11-06	11:49:15		Data Scaled Successfully!!
+2021-11-06	11:49:15		Accessing the Dependent & Independent Data
+2021-11-06	11:49:15		Using StandardScaler to Scale down the data
+2021-11-06	11:49:15		Data Scaled Successfully!!
+2021-11-06	11:49:15		Accessing the Dependent & Independent Data
+2021-11-06	11:49:15		Using StandardScaler to Scale down the data
+2021-11-06	11:49:15		Data Scaled Successfully!!
+2021-11-06	11:50:45		Accessing the Dependent & Independent Data
+2021-11-06	11:50:45		Using StandardScaler to Scale down the data
+2021-11-06	11:50:45		Data Scaled Successfully!!
+2021-11-06	11:50:45		Accessing the Dependent & Independent Data
+2021-11-06	11:50:45		Using StandardScaler to Scale down the data
+2021-11-06	11:50:45		Data Scaled Successfully!!
+2021-11-06	11:50:45		Accessing the Dependent & Independent Data
+2021-11-06	11:50:45		Using StandardScaler to Scale down the data
+2021-11-06	11:50:45		Data Scaled Successfully!!
+2021-11-06	11:52:52		Accessing the Dependent & Independent Data
+2021-11-06	11:52:52		Using StandardScaler to Scale down the data
+2021-11-06	11:52:52		Data Scaled Successfully!!
+2021-11-06	11:52:56		Accessing the Dependent & Independent Data
+2021-11-06	11:52:56		Using StandardScaler to Scale down the data
+2021-11-06	11:52:56		Data Scaled Successfully!!
+2021-11-06	11:53:01		Accessing the Dependent & Independent Data
+2021-11-06	11:53:01		Using StandardScaler to Scale down the data
+2021-11-06	11:53:01		Data Scaled Successfully!!
+2021-11-06	11:53:01		Accessing the Dependent & Independent Data
+2021-11-06	11:53:01		Using StandardScaler to Scale down the data
+2021-11-06	11:53:01		Data Scaled Successfully!!
+2021-11-06	11:53:01		Accessing the Dependent & Independent Data
+2021-11-06	11:53:01		Using StandardScaler to Scale down the data
+2021-11-06	11:53:01		Data Scaled Successfully!!
+2021-11-06	11:55:01		Accessing the Dependent & Independent Data
+2021-11-06	11:55:01		Using StandardScaler to Scale down the data
+2021-11-06	11:55:01		Data Scaled Successfully!!
+2021-11-06	11:55:05		Accessing the Dependent & Independent Data
+2021-11-06	11:55:05		Using StandardScaler to Scale down the data
+2021-11-06	11:55:05		Data Scaled Successfully!!
+2021-11-06	11:55:08		Accessing the Dependent & Independent Data
+2021-11-06	11:55:08		Using StandardScaler to Scale down the data
+2021-11-06	11:55:08		Data Scaled Successfully!!
+2021-11-06	11:55:08		Accessing the Dependent & Independent Data
+2021-11-06	11:55:08		Using StandardScaler to Scale down the data
+2021-11-06	11:55:08		Data Scaled Successfully!!
+2021-11-06	11:55:08		Accessing the Dependent & Independent Data
+2021-11-06	11:55:08		Using StandardScaler to Scale down the data
+2021-11-06	11:55:08		Data Scaled Successfully!!
+2021-11-06	11:57:50		Accessing the Dependent & Independent Data
+2021-11-06	11:57:50		Using StandardScaler to Scale down the data
+2021-11-06	11:57:50		Data Scaled Successfully!!
+2021-11-06	11:57:53		Accessing the Dependent & Independent Data
+2021-11-06	11:57:53		Using StandardScaler to Scale down the data
+2021-11-06	11:57:53		Data Scaled Successfully!!
+2021-11-06	11:57:55		Accessing the Dependent & Independent Data
+2021-11-06	11:57:55		Using StandardScaler to Scale down the data
+2021-11-06	11:57:55		Data Scaled Successfully!!
+2021-11-06	11:57:55		Accessing the Dependent & Independent Data
+2021-11-06	11:57:55		Using StandardScaler to Scale down the data
+2021-11-06	11:57:55		Data Scaled Successfully!!
+2021-11-06	11:57:55		Accessing the Dependent & Independent Data
+2021-11-06	11:57:55		Using StandardScaler to Scale down the data
+2021-11-06	11:57:55		Data Scaled Successfully!!
+2021-11-06	12:02:36		Accessing the Dependent & Independent Data
+2021-11-06	12:02:36		Using StandardScaler to Scale down the data
+2021-11-06	12:02:36		Data Scaled Successfully!!
+2021-11-06	12:02:39		Accessing the Dependent & Independent Data
+2021-11-06	12:02:39		Using StandardScaler to Scale down the data
+2021-11-06	12:02:39		Data Scaled Successfully!!
+2021-11-06	12:02:43		Accessing the Dependent & Independent Data
+2021-11-06	12:02:43		Using StandardScaler to Scale down the data
+2021-11-06	12:02:43		Data Scaled Successfully!!
+2021-11-06	12:02:43		Accessing the Dependent & Independent Data
+2021-11-06	12:02:43		Using StandardScaler to Scale down the data
+2021-11-06	12:02:43		Data Scaled Successfully!!
+2021-11-06	12:02:43		Accessing the Dependent & Independent Data
+2021-11-06	12:02:43		Using StandardScaler to Scale down the data
+2021-11-06	12:02:43		Data Scaled Successfully!!
+2021-11-06	12:04:47		Accessing the Dependent & Independent Data
+2021-11-06	12:04:47		Using StandardScaler to Scale down the data
+2021-11-06	12:04:47		Data Scaled Successfully!!
+2021-11-06	12:04:49		Accessing the Dependent & Independent Data
+2021-11-06	12:04:49		Using StandardScaler to Scale down the data
+2021-11-06	12:04:49		Data Scaled Successfully!!
+2021-11-06	12:04:52		Accessing the Dependent & Independent Data
+2021-11-06	12:04:52		Using StandardScaler to Scale down the data
+2021-11-06	12:04:52		Data Scaled Successfully!!
+2021-11-06	12:04:52		Accessing the Dependent & Independent Data
+2021-11-06	12:04:52		Using StandardScaler to Scale down the data
+2021-11-06	12:04:52		Data Scaled Successfully!!
+2021-11-06	12:04:52		Accessing the Dependent & Independent Data
+2021-11-06	12:04:52		Using StandardScaler to Scale down the data
+2021-11-06	12:04:52		Data Scaled Successfully!!
+2021-11-06	12:07:10		Accessing the Dependent & Independent Data
+2021-11-06	12:07:10		Using StandardScaler to Scale down the data
+2021-11-06	12:07:10		Data Scaled Successfully!!
+2021-11-06	12:07:15		Accessing the Dependent & Independent Data
+2021-11-06	12:07:15		Using StandardScaler to Scale down the data
+2021-11-06	12:07:15		Data Scaled Successfully!!
+2021-11-06	12:07:19		Accessing the Dependent & Independent Data
+2021-11-06	12:07:19		Using StandardScaler to Scale down the data
+2021-11-06	12:07:19		Data Scaled Successfully!!
+2021-11-06	12:07:19		Accessing the Dependent & Independent Data
+2021-11-06	12:07:19		Using StandardScaler to Scale down the data
+2021-11-06	12:07:19		Data Scaled Successfully!!
+2021-11-06	12:07:19		Accessing the Dependent & Independent Data
+2021-11-06	12:07:19		Using StandardScaler to Scale down the data
+2021-11-06	12:07:19		Data Scaled Successfully!!
+2021-11-06	12:12:05		Accessing the Dependent & Independent Data
+2021-11-06	12:12:05		Using StandardScaler to Scale down the data
+2021-11-06	12:12:05		Data Scaled Successfully!!
+2021-11-06	12:12:05		Accessing the Dependent & Independent Data
+2021-11-06	12:12:05		Using StandardScaler to Scale down the data
+2021-11-06	12:12:05		Data Scaled Successfully!!
+2021-11-06	12:12:05		Accessing the Dependent & Independent Data
+2021-11-06	12:12:05		Using StandardScaler to Scale down the data
+2021-11-06	12:12:05		Data Scaled Successfully!!
+2021-11-06	12:12:36		Accessing the Dependent & Independent Data
+2021-11-06	12:12:36		Using StandardScaler to Scale down the data
+2021-11-06	12:12:36		Data Scaled Successfully!!
+2021-11-06	12:12:36		Accessing the Dependent & Independent Data
+2021-11-06	12:12:36		Using StandardScaler to Scale down the data
+2021-11-06	12:12:36		Data Scaled Successfully!!
+2021-11-06	12:12:36		Accessing the Dependent & Independent Data
+2021-11-06	12:12:36		Using StandardScaler to Scale down the data
+2021-11-06	12:12:36		Data Scaled Successfully!!
+2021-11-06	12:13:30		Accessing the Dependent & Independent Data
+2021-11-06	12:13:30		Using StandardScaler to Scale down the data
+2021-11-06	12:13:30		Data Scaled Successfully!!
+2021-11-06	12:13:30		Accessing the Dependent & Independent Data
+2021-11-06	12:13:30		Using StandardScaler to Scale down the data
+2021-11-06	12:13:30		Data Scaled Successfully!!
+2021-11-06	12:13:30		Accessing the Dependent & Independent Data
+2021-11-06	12:13:30		Using StandardScaler to Scale down the data
+2021-11-06	12:13:30		Data Scaled Successfully!!
+2021-11-06	12:13:54		Accessing the Dependent & Independent Data
+2021-11-06	12:13:54		Using StandardScaler to Scale down the data
+2021-11-06	12:13:54		Data Scaled Successfully!!
+2021-11-06	12:13:54		Accessing the Dependent & Independent Data
+2021-11-06	12:13:54		Using StandardScaler to Scale down the data
+2021-11-06	12:13:54		Data Scaled Successfully!!
+2021-11-06	12:13:54		Accessing the Dependent & Independent Data
+2021-11-06	12:13:54		Using StandardScaler to Scale down the data
+2021-11-06	12:13:54		Data Scaled Successfully!!
+2021-11-06	12:15:46		Accessing the Dependent & Independent Data
+2021-11-06	12:15:46		Using StandardScaler to Scale down the data
+2021-11-06	12:15:46		Data Scaled Successfully!!
+2021-11-06	12:15:46		Accessing the Dependent & Independent Data
+2021-11-06	12:15:46		Using StandardScaler to Scale down the data
+2021-11-06	12:15:46		Data Scaled Successfully!!
+2021-11-06	12:15:46		Accessing the Dependent & Independent Data
+2021-11-06	12:15:46		Using StandardScaler to Scale down the data
+2021-11-06	12:15:46		Data Scaled Successfully!!
+2021-11-06	12:15:46		Accessing the Dependent & Independent Data
+2021-11-06	12:15:46		Using StandardScaler to Scale down the data
+2021-11-06	12:15:46		Data Scaled Successfully!!
+2021-11-06	12:18:15		Accessing the Dependent & Independent Data
+2021-11-06	12:18:15		Using StandardScaler to Scale down the data
+2021-11-06	12:18:15		Data Scaled Successfully!!
+2021-11-06	12:18:15		Accessing the Dependent & Independent Data
+2021-11-06	12:18:15		Using StandardScaler to Scale down the data
+2021-11-06	12:18:15		Data Scaled Successfully!!
+2021-11-06	12:19:01		Accessing the Dependent & Independent Data
+2021-11-06	12:19:01		Using StandardScaler to Scale down the data
+2021-11-06	12:19:01		Data Scaled Successfully!!
+2021-11-06	12:19:01		Accessing the Dependent & Independent Data
+2021-11-06	12:19:01		Using StandardScaler to Scale down the data
+2021-11-06	12:19:01		Data Scaled Successfully!!
+2021-11-06	12:21:15		Accessing the Dependent & Independent Data
+2021-11-06	12:21:15		Using StandardScaler to Scale down the data
+2021-11-06	12:21:15		Data Scaled Successfully!!
+2021-11-06	12:21:15		Accessing the Dependent & Independent Data
+2021-11-06	12:21:15		Using StandardScaler to Scale down the data
+2021-11-06	12:21:15		Data Scaled Successfully!!
+2021-11-06	12:23:31		Accessing the Dependent & Independent Data
+2021-11-06	12:23:31		Using StandardScaler to Scale down the data
+2021-11-06	12:23:31		Data Scaled Successfully!!
+2021-11-06	12:23:31		Accessing the Dependent & Independent Data
+2021-11-06	12:23:31		Using StandardScaler to Scale down the data
+2021-11-06	12:23:31		Data Scaled Successfully!!
+2021-11-06	12:23:31		Accessing the Dependent & Independent Data
+2021-11-06	12:23:31		Using StandardScaler to Scale down the data
+2021-11-06	12:23:31		Data Scaled Successfully!!
+2021-11-06	12:23:31		Accessing the Dependent & Independent Data
+2021-11-06	12:23:31		Using StandardScaler to Scale down the data
+2021-11-06	12:23:31		Data Scaled Successfully!!
+2021-11-06	12:26:03		Accessing the Dependent & Independent Data
+2021-11-06	12:26:03		Using StandardScaler to Scale down the data
+2021-11-06	12:26:03		Data Scaled Successfully!!
+2021-11-06	12:26:03		Accessing the Dependent & Independent Data
+2021-11-06	12:26:03		Using StandardScaler to Scale down the data
+2021-11-06	12:26:03		Data Scaled Successfully!!
+2021-11-06	12:27:07		Accessing the Dependent & Independent Data
+2021-11-06	12:27:07		Using StandardScaler to Scale down the data
+2021-11-06	12:27:07		Data Scaled Successfully!!
+2021-11-06	12:27:07		Accessing the Dependent & Independent Data
+2021-11-06	12:27:07		Using StandardScaler to Scale down the data
+2021-11-06	12:27:07		Data Scaled Successfully!!
+2021-11-06	12:30:25		Accessing the Dependent & Independent Data
+2021-11-06	12:30:25		Using StandardScaler to Scale down the data
+2021-11-06	12:30:25		Data Scaled Successfully!!
+2021-11-06	12:30:29		Accessing the Dependent & Independent Data
+2021-11-06	12:30:29		Using StandardScaler to Scale down the data
+2021-11-06	12:30:29		Data Scaled Successfully!!
+2021-11-06	12:30:32		Accessing the Dependent & Independent Data
+2021-11-06	12:30:32		Using StandardScaler to Scale down the data
+2021-11-06	12:30:32		Data Scaled Successfully!!
+2021-11-06	12:30:32		Accessing the Dependent & Independent Data
+2021-11-06	12:30:32		Using StandardScaler to Scale down the data
+2021-11-06	12:30:32		Data Scaled Successfully!!
+2021-11-06	12:30:32		Accessing the Dependent & Independent Data
+2021-11-06	12:30:32		Using StandardScaler to Scale down the data
+2021-11-06	12:30:32		Data Scaled Successfully!!
+2021-11-06	12:30:32		Accessing the Dependent & Independent Data
+2021-11-06	12:30:32		Using StandardScaler to Scale down the data
+2021-11-06	12:30:32		Data Scaled Successfully!!
+2021-11-06	12:33:06		Accessing the Dependent & Independent Data
+2021-11-06	12:33:06		Using StandardScaler to Scale down the data
+2021-11-06	12:33:06		Data Scaled Successfully!!
+2021-11-06	12:33:06		Accessing the Dependent & Independent Data
+2021-11-06	12:33:06		Using StandardScaler to Scale down the data
+2021-11-06	12:33:06		Data Scaled Successfully!!
+2021-11-06	12:33:50		Accessing the Dependent & Independent Data
+2021-11-06	12:33:50		Using StandardScaler to Scale down the data
+2021-11-06	12:33:50		Data Scaled Successfully!!
+2021-11-06	12:33:50		Accessing the Dependent & Independent Data
+2021-11-06	12:33:50		Using StandardScaler to Scale down the data
+2021-11-06	12:33:50		Data Scaled Successfully!!
+2021-11-06	12:39:34		Accessing the Dependent & Independent Data
+2021-11-06	12:39:34		Using StandardScaler to Scale down the data
+2021-11-06	12:39:34		Data Scaled Successfully!!
+2021-11-06	12:39:34		Accessing the Dependent & Independent Data
+2021-11-06	12:39:34		Using StandardScaler to Scale down the data
+2021-11-06	12:39:34		Data Scaled Successfully!!
+2021-11-06	12:39:34		Accessing the Dependent & Independent Data
+2021-11-06	12:39:34		Using StandardScaler to Scale down the data
+2021-11-06	12:39:34		Data Scaled Successfully!!
+2021-11-06	12:39:34		Accessing the Dependent & Independent Data
+2021-11-06	12:39:34		Using StandardScaler to Scale down the data
+2021-11-06	12:39:34		Data Scaled Successfully!!
+2021-11-06	12:41:59		Accessing the Dependent & Independent Data
+2021-11-06	12:41:59		Using StandardScaler to Scale down the data
+2021-11-06	12:41:59		Data Scaled Successfully!!
+2021-11-06	12:41:59		Accessing the Dependent & Independent Data
+2021-11-06	12:41:59		Using StandardScaler to Scale down the data
+2021-11-06	12:41:59		Data Scaled Successfully!!
+2021-11-06	12:42:44		Accessing the Dependent & Independent Data
+2021-11-06	12:42:44		Using StandardScaler to Scale down the data
+2021-11-06	12:42:44		Data Scaled Successfully!!
+2021-11-06	12:42:44		Accessing the Dependent & Independent Data
+2021-11-06	12:42:44		Using StandardScaler to Scale down the data
+2021-11-06	12:42:44		Data Scaled Successfully!!
+2021-11-06	12:45:59		Accessing the Dependent & Independent Data
+2021-11-06	12:45:59		Using StandardScaler to Scale down the data
+2021-11-06	12:45:59		Data Scaled Successfully!!
+2021-11-06	12:45:59		Accessing the Dependent & Independent Data
+2021-11-06	12:45:59		Using StandardScaler to Scale down the data
+2021-11-06	12:45:59		Data Scaled Successfully!!
+2021-11-06	12:45:59		Accessing the Dependent & Independent Data
+2021-11-06	12:45:59		Using StandardScaler to Scale down the data
+2021-11-06	12:45:59		Data Scaled Successfully!!
+2021-11-06	12:45:59		Accessing the Dependent & Independent Data
+2021-11-06	12:45:59		Using StandardScaler to Scale down the data
+2021-11-06	12:45:59		Data Scaled Successfully!!
+2021-11-06	12:48:16		Accessing the Dependent & Independent Data
+2021-11-06	12:48:16		Using StandardScaler to Scale down the data
+2021-11-06	12:48:16		Data Scaled Successfully!!
+2021-11-06	12:48:16		Accessing the Dependent & Independent Data
+2021-11-06	12:48:16		Using StandardScaler to Scale down the data
+2021-11-06	12:48:16		Data Scaled Successfully!!
+2021-11-06	12:49:06		Accessing the Dependent & Independent Data
+2021-11-06	12:49:06		Using StandardScaler to Scale down the data
+2021-11-06	12:49:06		Data Scaled Successfully!!
+2021-11-06	12:49:06		Accessing the Dependent & Independent Data
+2021-11-06	12:49:06		Using StandardScaler to Scale down the data
+2021-11-06	12:49:06		Data Scaled Successfully!!
+2021-11-06	12:51:33		Accessing the Dependent & Independent Data
+2021-11-06	12:51:33		Using StandardScaler to Scale down the data
+2021-11-06	12:51:33		Data Scaled Successfully!!
+2021-11-06	12:51:33		Accessing the Dependent & Independent Data
+2021-11-06	12:51:33		Using StandardScaler to Scale down the data
+2021-11-06	12:51:33		Data Scaled Successfully!!
+2021-11-06	12:51:33		Accessing the Dependent & Independent Data
+2021-11-06	12:51:33		Using StandardScaler to Scale down the data
+2021-11-06	12:51:33		Data Scaled Successfully!!
+2021-11-06	12:51:33		Accessing the Dependent & Independent Data
+2021-11-06	12:51:33		Using StandardScaler to Scale down the data
+2021-11-06	12:51:33		Data Scaled Successfully!!
+2021-11-06	12:53:51		Accessing the Dependent & Independent Data
+2021-11-06	12:53:51		Using StandardScaler to Scale down the data
+2021-11-06	12:53:51		Data Scaled Successfully!!
+2021-11-06	12:53:51		Accessing the Dependent & Independent Data
+2021-11-06	12:53:51		Using StandardScaler to Scale down the data
+2021-11-06	12:53:51		Data Scaled Successfully!!
+2021-11-06	12:54:43		Accessing the Dependent & Independent Data
+2021-11-06	12:54:43		Using StandardScaler to Scale down the data
+2021-11-06	12:54:43		Data Scaled Successfully!!
+2021-11-06	12:54:43		Accessing the Dependent & Independent Data
+2021-11-06	12:54:43		Using StandardScaler to Scale down the data
+2021-11-06	12:54:43		Data Scaled Successfully!!

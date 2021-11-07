@@ -1,0 +1,4 @@
+2021-10-26	00:11:33		Finding the dataset size
+2021-10-26	00:11:33		Dataset size found
+2021-10-26	00:12:19		Finding the dataset shape
+2021-10-26	00:12:19		Dataset shape Found

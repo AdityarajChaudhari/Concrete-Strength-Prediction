@@ -1,0 +1,1977 @@
+2021-10-29	16:43:22		Accessing the data
+2021-10-29	16:43:22		splitting the data into Dependent and Independent Set
+2021-10-29	16:43:22		Data Splitted into Dependent & Independent Set
+2021-10-29	16:43:50		Accessing the data
+2021-10-29	16:43:50		splitting the data into Dependent and Independent Set
+2021-10-29	16:43:50		Data Splitted into Dependent & Independent Set
+2021-10-29	16:44:02		Accessing the data
+2021-10-29	16:44:02		splitting the data into Dependent and Independent Set
+2021-10-29	16:44:02		Data Splitted into Dependent & Independent Set
+2021-10-29	16:59:12		Accessing the data
+2021-10-29	16:59:12		splitting the data into Dependent and Independent Set
+2021-10-29	16:59:12		Data Splitted into Dependent & Independent Set
+2021-10-29	16:59:39		Accessing the data
+2021-10-29	16:59:39		splitting the data into Dependent and Independent Set
+2021-10-29	16:59:39		Data Splitted into Dependent & Independent Set
+2021-10-29	17:09:21		Accessing the data
+2021-10-29	17:09:21		splitting the data into Dependent and Independent Set
+2021-10-29	17:09:21		Data Splitted into Dependent & Independent Set
+2021-10-29	17:09:21		Accessing the data
+2021-10-29	17:09:21		splitting the data into Dependent and Independent Set
+2021-10-29	17:09:21		Data Splitted into Dependent & Independent Set
+2021-10-30	16:20:50		Accessing the data
+2021-10-30	16:20:50		splitting the data into Dependent and Independent Set
+2021-10-30	16:20:50		Data Splitted into Dependent & Independent Set
+2021-10-30	16:25:49		Accessing the data
+2021-10-30	16:25:49		splitting the data into Dependent and Independent Set
+2021-10-30	16:25:49		Data Splitted into Dependent & Independent Set
+2021-10-30	16:43:19		Accessing the data
+2021-10-30	16:43:19		splitting the data into Dependent and Independent Set
+2021-10-30	16:43:19		Data Splitted into Dependent & Independent Set
+2021-10-30	16:49:25		Accessing the data
+2021-10-30	16:49:25		splitting the data into Dependent and Independent Set
+2021-10-30	16:49:25		Data Splitted into Dependent & Independent Set
+2021-10-30	16:49:25		Accessing the data
+2021-10-30	16:49:25		splitting the data into Dependent and Independent Set
+2021-10-30	16:49:25		Data Splitted into Dependent & Independent Set
+2021-10-30	16:50:27		Accessing the data
+2021-10-30	16:50:27		splitting the data into Dependent and Independent Set
+2021-10-30	16:50:27		Data Splitted into Dependent & Independent Set
+2021-10-30	16:50:28		Accessing the data
+2021-10-30	16:50:28		splitting the data into Dependent and Independent Set
+2021-10-30	16:50:28		Data Splitted into Dependent & Independent Set
+2021-10-30	16:50:41		Accessing the data
+2021-10-30	16:50:41		splitting the data into Dependent and Independent Set
+2021-10-30	16:50:41		Data Splitted into Dependent & Independent Set
+2021-10-30	16:50:42		Accessing the data
+2021-10-30	16:50:42		splitting the data into Dependent and Independent Set
+2021-10-30	16:50:42		Data Splitted into Dependent & Independent Set
+2021-10-30	16:50:42		Accessing the data
+2021-10-30	16:50:42		splitting the data into Dependent and Independent Set
+2021-10-30	16:50:42		Data Splitted into Dependent & Independent Set
+2021-10-30	16:52:10		Accessing the data
+2021-10-30	16:52:10		splitting the data into Dependent and Independent Set
+2021-10-30	16:52:10		Data Splitted into Dependent & Independent Set
+2021-10-30	16:52:11		Accessing the data
+2021-10-30	16:52:11		splitting the data into Dependent and Independent Set
+2021-10-30	16:52:11		Data Splitted into Dependent & Independent Set
+2021-10-30	16:52:11		Accessing the data
+2021-10-30	16:52:11		splitting the data into Dependent and Independent Set
+2021-10-30	16:52:11		Data Splitted into Dependent & Independent Set
+2021-10-30	16:52:11		Accessing the data
+2021-10-30	16:52:11		splitting the data into Dependent and Independent Set
+2021-10-30	16:52:11		Data Splitted into Dependent & Independent Set
+2021-10-30	16:53:51		Accessing the data
+2021-10-30	16:53:51		splitting the data into Dependent and Independent Set
+2021-10-30	16:53:51		Data Splitted into Dependent & Independent Set
+2021-10-30	16:53:52		Accessing the data
+2021-10-30	16:53:52		splitting the data into Dependent and Independent Set
+2021-10-30	16:53:52		Data Splitted into Dependent & Independent Set
+2021-10-30	16:53:52		Accessing the data
+2021-10-30	16:53:52		splitting the data into Dependent and Independent Set
+2021-10-30	16:53:52		Data Splitted into Dependent & Independent Set
+2021-10-30	16:53:53		Accessing the data
+2021-10-30	16:53:53		splitting the data into Dependent and Independent Set
+2021-10-30	16:53:53		Data Splitted into Dependent & Independent Set
+2021-10-30	16:53:53		Accessing the data
+2021-10-30	16:53:53		splitting the data into Dependent and Independent Set
+2021-10-30	16:53:53		Data Splitted into Dependent & Independent Set
+2021-10-30	17:18:58		Accessing the data
+2021-10-30	17:18:58		splitting the data into Dependent and Independent Set
+2021-10-30	17:18:58		Data Splitted into Dependent & Independent Set
+2021-10-30	17:18:59		Accessing the data
+2021-10-30	17:18:59		splitting the data into Dependent and Independent Set
+2021-10-30	17:18:59		Data Splitted into Dependent & Independent Set
+2021-10-30	17:19:42		Accessing the data
+2021-10-30	17:19:42		splitting the data into Dependent and Independent Set
+2021-10-30	17:19:42		Data Splitted into Dependent & Independent Set
+2021-10-30	17:19:42		Accessing the data
+2021-10-30	17:19:42		splitting the data into Dependent and Independent Set
+2021-10-30	17:19:42		Data Splitted into Dependent & Independent Set
+2021-10-30	17:23:52		Accessing the data
+2021-10-30	17:23:52		splitting the data into Dependent and Independent Set
+2021-10-30	17:23:52		Data Splitted into Dependent & Independent Set
+2021-10-30	17:23:52		Accessing the data
+2021-10-30	17:23:52		splitting the data into Dependent and Independent Set
+2021-10-30	17:23:52		Data Splitted into Dependent & Independent Set
+2021-10-30	17:23:53		Accessing the data
+2021-10-30	17:23:53		splitting the data into Dependent and Independent Set
+2021-10-30	17:23:53		Data Splitted into Dependent & Independent Set
+2021-10-30	17:23:53		Accessing the data
+2021-10-30	17:23:53		splitting the data into Dependent and Independent Set
+2021-10-30	17:23:53		Data Splitted into Dependent & Independent Set
+2021-10-30	17:23:53		Accessing the data
+2021-10-30	17:23:53		splitting the data into Dependent and Independent Set
+2021-10-30	17:23:53		Data Splitted into Dependent & Independent Set
+2021-10-30	17:23:53		Accessing the data
+2021-10-30	17:23:53		splitting the data into Dependent and Independent Set
+2021-10-30	17:23:53		Data Splitted into Dependent & Independent Set
+2021-10-30	17:23:54		Accessing the data
+2021-10-30	17:23:54		splitting the data into Dependent and Independent Set
+2021-10-30	17:23:54		Data Splitted into Dependent & Independent Set
+2021-10-30	17:23:54		Accessing the data
+2021-10-30	17:23:54		splitting the data into Dependent and Independent Set
+2021-10-30	17:23:54		Data Splitted into Dependent & Independent Set
+2021-10-30	17:23:55		Accessing the data
+2021-10-30	17:23:55		splitting the data into Dependent and Independent Set
+2021-10-30	17:23:55		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:22		Accessing the data
+2021-10-30	17:24:22		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:22		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:23		Accessing the data
+2021-10-30	17:24:23		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:23		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:23		Accessing the data
+2021-10-30	17:24:23		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:23		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:24		Accessing the data
+2021-10-30	17:24:24		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:24		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:24		Accessing the data
+2021-10-30	17:24:24		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:24		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:24		Accessing the data
+2021-10-30	17:24:24		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:24		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:24		Accessing the data
+2021-10-30	17:24:24		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:24		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:25		Accessing the data
+2021-10-30	17:24:25		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:25		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:25		Accessing the data
+2021-10-30	17:24:25		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:25		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:43		Accessing the data
+2021-10-30	17:24:43		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:43		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:43		Accessing the data
+2021-10-30	17:24:43		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:43		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:44		Accessing the data
+2021-10-30	17:24:44		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:44		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:44		Accessing the data
+2021-10-30	17:24:44		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:44		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:44		Accessing the data
+2021-10-30	17:24:44		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:44		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:44		Accessing the data
+2021-10-30	17:24:44		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:44		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:45		Accessing the data
+2021-10-30	17:24:45		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:45		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:46		Accessing the data
+2021-10-30	17:24:46		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:46		Data Splitted into Dependent & Independent Set
+2021-10-30	17:24:46		Accessing the data
+2021-10-30	17:24:46		splitting the data into Dependent and Independent Set
+2021-10-30	17:24:46		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:08		Accessing the data
+2021-10-30	17:25:08		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:08		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:08		Accessing the data
+2021-10-30	17:25:08		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:08		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:09		Accessing the data
+2021-10-30	17:25:09		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:09		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:09		Accessing the data
+2021-10-30	17:25:09		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:09		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:09		Accessing the data
+2021-10-30	17:25:09		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:09		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:09		Accessing the data
+2021-10-30	17:25:09		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:09		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:10		Accessing the data
+2021-10-30	17:25:10		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:10		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:10		Accessing the data
+2021-10-30	17:25:10		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:10		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:10		Accessing the data
+2021-10-30	17:25:10		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:10		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:38		Accessing the data
+2021-10-30	17:25:38		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:38		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:39		Accessing the data
+2021-10-30	17:25:39		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:39		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:39		Accessing the data
+2021-10-30	17:25:39		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:39		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:40		Accessing the data
+2021-10-30	17:25:40		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:40		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:40		Accessing the data
+2021-10-30	17:25:40		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:40		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:40		Accessing the data
+2021-10-30	17:25:40		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:40		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:41		Accessing the data
+2021-10-30	17:25:41		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:41		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:41		Accessing the data
+2021-10-30	17:25:41		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:41		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:41		Accessing the data
+2021-10-30	17:25:41		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:41		Data Splitted into Dependent & Independent Set
+2021-10-30	17:25:59		Accessing the data
+2021-10-30	17:25:59		splitting the data into Dependent and Independent Set
+2021-10-30	17:25:59		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:00		Accessing the data
+2021-10-30	17:26:00		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:00		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:00		Accessing the data
+2021-10-30	17:26:00		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:00		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:01		Accessing the data
+2021-10-30	17:26:01		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:01		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:01		Accessing the data
+2021-10-30	17:26:01		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:01		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:01		Accessing the data
+2021-10-30	17:26:01		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:01		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:01		Accessing the data
+2021-10-30	17:26:01		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:01		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:02		Accessing the data
+2021-10-30	17:26:02		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:02		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:02		Accessing the data
+2021-10-30	17:26:02		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:02		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:16		Accessing the data
+2021-10-30	17:26:16		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:16		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:16		Accessing the data
+2021-10-30	17:26:16		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:16		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:17		Accessing the data
+2021-10-30	17:26:17		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:17		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:17		Accessing the data
+2021-10-30	17:26:17		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:17		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:17		Accessing the data
+2021-10-30	17:26:17		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:17		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:17		Accessing the data
+2021-10-30	17:26:17		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:17		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:18		Accessing the data
+2021-10-30	17:26:18		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:18		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:18		Accessing the data
+2021-10-30	17:26:18		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:18		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:19		Accessing the data
+2021-10-30	17:26:19		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:19		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:50		Accessing the data
+2021-10-30	17:26:50		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:50		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:50		Accessing the data
+2021-10-30	17:26:50		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:50		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:51		Accessing the data
+2021-10-30	17:26:51		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:51		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:51		Accessing the data
+2021-10-30	17:26:51		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:51		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:51		Accessing the data
+2021-10-30	17:26:51		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:51		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:51		Accessing the data
+2021-10-30	17:26:51		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:51		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:52		Accessing the data
+2021-10-30	17:26:52		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:52		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:52		Accessing the data
+2021-10-30	17:26:52		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:52		Data Splitted into Dependent & Independent Set
+2021-10-30	17:26:52		Accessing the data
+2021-10-30	17:26:52		splitting the data into Dependent and Independent Set
+2021-10-30	17:26:52		Data Splitted into Dependent & Independent Set
+2021-10-30	17:27:13		Accessing the data
+2021-10-30	17:27:13		splitting the data into Dependent and Independent Set
+2021-10-30	17:27:13		Data Splitted into Dependent & Independent Set
+2021-10-30	17:27:14		Accessing the data
+2021-10-30	17:27:14		splitting the data into Dependent and Independent Set
+2021-10-30	17:27:14		Data Splitted into Dependent & Independent Set
+2021-10-30	17:27:14		Accessing the data
+2021-10-30	17:27:14		splitting the data into Dependent and Independent Set
+2021-10-30	17:27:14		Data Splitted into Dependent & Independent Set
+2021-10-30	17:27:15		Accessing the data
+2021-10-30	17:27:15		splitting the data into Dependent and Independent Set
+2021-10-30	17:27:15		Data Splitted into Dependent & Independent Set
+2021-10-30	17:27:15		Accessing the data
+2021-10-30	17:27:15		splitting the data into Dependent and Independent Set
+2021-10-30	17:27:15		Data Splitted into Dependent & Independent Set
+2021-10-30	17:27:15		Accessing the data
+2021-10-30	17:27:15		splitting the data into Dependent and Independent Set
+2021-10-30	17:27:15		Data Splitted into Dependent & Independent Set
+2021-10-30	17:27:16		Accessing the data
+2021-10-30	17:27:16		splitting the data into Dependent and Independent Set
+2021-10-30	17:27:16		Data Splitted into Dependent & Independent Set
+2021-10-30	17:27:16		Accessing the data
+2021-10-30	17:27:16		splitting the data into Dependent and Independent Set
+2021-10-30	17:27:16		Data Splitted into Dependent & Independent Set
+2021-10-30	17:27:16		Accessing the data
+2021-10-30	17:27:16		splitting the data into Dependent and Independent Set
+2021-10-30	17:27:16		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:24		Accessing the data
+2021-10-31	08:16:24		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:24		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:24		Accessing the data
+2021-10-31	08:16:24		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:24		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:25		Accessing the data
+2021-10-31	08:16:25		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:25		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:25		Accessing the data
+2021-10-31	08:16:25		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:25		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:25		Accessing the data
+2021-10-31	08:16:25		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:25		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:25		Accessing the data
+2021-10-31	08:16:25		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:25		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:25		Accessing the data
+2021-10-31	08:16:25		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:25		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:26		Accessing the data
+2021-10-31	08:16:26		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:26		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:26		Accessing the data
+2021-10-31	08:16:26		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:26		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:26		Accessing the data
+2021-10-31	08:16:26		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:26		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:27		Accessing the data
+2021-10-31	08:16:27		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:27		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:52		Accessing the data
+2021-10-31	08:16:52		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:52		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:52		Accessing the data
+2021-10-31	08:16:52		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:52		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:53		Accessing the data
+2021-10-31	08:16:53		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:53		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:53		Accessing the data
+2021-10-31	08:16:53		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:53		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:53		Accessing the data
+2021-10-31	08:16:53		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:53		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:53		Accessing the data
+2021-10-31	08:16:53		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:53		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:53		Accessing the data
+2021-10-31	08:16:53		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:53		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:54		Accessing the data
+2021-10-31	08:16:54		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:54		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:54		Accessing the data
+2021-10-31	08:16:54		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:54		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:54		Accessing the data
+2021-10-31	08:16:54		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:54		Data Splitted into Dependent & Independent Set
+2021-10-31	08:16:54		Accessing the data
+2021-10-31	08:16:54		splitting the data into Dependent and Independent Set
+2021-10-31	08:16:54		Data Splitted into Dependent & Independent Set
+2021-10-31	08:19:24		Accessing the data
+2021-10-31	08:19:24		splitting the data into Dependent and Independent Set
+2021-10-31	08:19:24		Data Splitted into Dependent & Independent Set
+2021-10-31	08:19:24		Accessing the data
+2021-10-31	08:19:24		splitting the data into Dependent and Independent Set
+2021-10-31	08:19:24		Data Splitted into Dependent & Independent Set
+2021-10-31	08:19:25		Accessing the data
+2021-10-31	08:19:25		splitting the data into Dependent and Independent Set
+2021-10-31	08:19:25		Data Splitted into Dependent & Independent Set
+2021-10-31	08:19:25		Accessing the data
+2021-10-31	08:19:25		splitting the data into Dependent and Independent Set
+2021-10-31	08:19:25		Data Splitted into Dependent & Independent Set
+2021-10-31	08:19:25		Accessing the data
+2021-10-31	08:19:25		splitting the data into Dependent and Independent Set
+2021-10-31	08:19:25		Data Splitted into Dependent & Independent Set
+2021-10-31	08:19:25		Accessing the data
+2021-10-31	08:19:25		splitting the data into Dependent and Independent Set
+2021-10-31	08:19:25		Data Splitted into Dependent & Independent Set
+2021-10-31	08:19:25		Accessing the data
+2021-10-31	08:19:25		splitting the data into Dependent and Independent Set
+2021-10-31	08:19:25		Data Splitted into Dependent & Independent Set
+2021-10-31	08:19:26		Accessing the data
+2021-10-31	08:19:26		splitting the data into Dependent and Independent Set
+2021-10-31	08:19:26		Data Splitted into Dependent & Independent Set
+2021-10-31	08:19:26		Accessing the data
+2021-10-31	08:19:26		splitting the data into Dependent and Independent Set
+2021-10-31	08:19:26		Data Splitted into Dependent & Independent Set
+2021-10-31	08:19:26		Accessing the data
+2021-10-31	08:19:26		splitting the data into Dependent and Independent Set
+2021-10-31	08:19:26		Data Splitted into Dependent & Independent Set
+2021-10-31	08:19:27		Accessing the data
+2021-10-31	08:19:27		splitting the data into Dependent and Independent Set
+2021-10-31	08:19:27		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:17		Accessing the data
+2021-10-31	08:20:17		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:17		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:18		Accessing the data
+2021-10-31	08:20:18		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:18		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:19		Accessing the data
+2021-10-31	08:20:19		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:19		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:20		Accessing the data
+2021-10-31	08:20:20		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:20		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:20		Accessing the data
+2021-10-31	08:20:20		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:20		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:20		Accessing the data
+2021-10-31	08:20:20		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:20		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:20		Accessing the data
+2021-10-31	08:20:20		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:20		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:21		Accessing the data
+2021-10-31	08:20:21		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:21		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:22		Accessing the data
+2021-10-31	08:20:22		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:22		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:22		Accessing the data
+2021-10-31	08:20:22		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:22		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:23		Accessing the data
+2021-10-31	08:20:23		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:23		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:58		Accessing the data
+2021-10-31	08:20:58		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:58		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:58		Accessing the data
+2021-10-31	08:20:58		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:58		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:59		Accessing the data
+2021-10-31	08:20:59		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:59		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:59		Accessing the data
+2021-10-31	08:20:59		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:59		Data Splitted into Dependent & Independent Set
+2021-10-31	08:20:59		Accessing the data
+2021-10-31	08:20:59		splitting the data into Dependent and Independent Set
+2021-10-31	08:20:59		Data Splitted into Dependent & Independent Set
+2021-10-31	08:21:00		Accessing the data
+2021-10-31	08:21:00		splitting the data into Dependent and Independent Set
+2021-10-31	08:21:00		Data Splitted into Dependent & Independent Set
+2021-10-31	08:21:41		Accessing the data
+2021-10-31	08:21:41		splitting the data into Dependent and Independent Set
+2021-10-31	08:21:41		Data Splitted into Dependent & Independent Set
+2021-10-31	08:21:41		Accessing the data
+2021-10-31	08:21:41		splitting the data into Dependent and Independent Set
+2021-10-31	08:21:41		Data Splitted into Dependent & Independent Set
+2021-10-31	08:21:42		Accessing the data
+2021-10-31	08:21:42		splitting the data into Dependent and Independent Set
+2021-10-31	08:21:42		Data Splitted into Dependent & Independent Set
+2021-10-31	08:21:42		Accessing the data
+2021-10-31	08:21:42		splitting the data into Dependent and Independent Set
+2021-10-31	08:21:42		Data Splitted into Dependent & Independent Set
+2021-10-31	08:21:42		Accessing the data
+2021-10-31	08:21:42		splitting the data into Dependent and Independent Set
+2021-10-31	08:21:42		Data Splitted into Dependent & Independent Set
+2021-10-31	08:21:43		Accessing the data
+2021-10-31	08:21:43		splitting the data into Dependent and Independent Set
+2021-10-31	08:21:43		Data Splitted into Dependent & Independent Set
+2021-10-31	08:22:19		Accessing the data
+2021-10-31	08:22:19		splitting the data into Dependent and Independent Set
+2021-10-31	08:22:19		Data Splitted into Dependent & Independent Set
+2021-10-31	08:22:26		Accessing the data
+2021-10-31	08:22:26		splitting the data into Dependent and Independent Set
+2021-10-31	08:22:26		Data Splitted into Dependent & Independent Set
+2021-10-31	08:22:26		Accessing the data
+2021-10-31	08:22:26		splitting the data into Dependent and Independent Set
+2021-10-31	08:22:26		Data Splitted into Dependent & Independent Set
+2021-10-31	08:22:26		Accessing the data
+2021-10-31	08:22:26		splitting the data into Dependent and Independent Set
+2021-10-31	08:22:26		Data Splitted into Dependent & Independent Set
+2021-10-31	08:22:26		Accessing the data
+2021-10-31	08:22:26		splitting the data into Dependent and Independent Set
+2021-10-31	08:22:26		Data Splitted into Dependent & Independent Set
+2021-10-31	08:22:27		Accessing the data
+2021-10-31	08:22:27		splitting the data into Dependent and Independent Set
+2021-10-31	08:22:27		Data Splitted into Dependent & Independent Set
+2021-10-31	08:22:27		Accessing the data
+2021-10-31	08:22:27		splitting the data into Dependent and Independent Set
+2021-10-31	08:22:27		Data Splitted into Dependent & Independent Set
+2021-10-31	08:22:27		Accessing the data
+2021-10-31	08:22:27		splitting the data into Dependent and Independent Set
+2021-10-31	08:22:27		Data Splitted into Dependent & Independent Set
+2021-10-31	08:22:58		Accessing the data
+2021-10-31	08:22:58		splitting the data into Dependent and Independent Set
+2021-10-31	08:22:58		Data Splitted into Dependent & Independent Set
+2021-10-31	08:23:14		Accessing the data
+2021-10-31	08:23:14		splitting the data into Dependent and Independent Set
+2021-10-31	08:23:14		Data Splitted into Dependent & Independent Set
+2021-10-31	08:23:14		Accessing the data
+2021-10-31	08:23:14		splitting the data into Dependent and Independent Set
+2021-10-31	08:23:14		Data Splitted into Dependent & Independent Set
+2021-10-31	08:23:14		Accessing the data
+2021-10-31	08:23:14		splitting the data into Dependent and Independent Set
+2021-10-31	08:23:14		Data Splitted into Dependent & Independent Set
+2021-10-31	08:23:14		Accessing the data
+2021-10-31	08:23:14		splitting the data into Dependent and Independent Set
+2021-10-31	08:23:14		Data Splitted into Dependent & Independent Set
+2021-10-31	08:23:15		Accessing the data
+2021-10-31	08:23:15		splitting the data into Dependent and Independent Set
+2021-10-31	08:23:15		Data Splitted into Dependent & Independent Set
+2021-10-31	08:23:15		Accessing the data
+2021-10-31	08:23:15		splitting the data into Dependent and Independent Set
+2021-10-31	08:23:15		Data Splitted into Dependent & Independent Set
+2021-10-31	08:23:15		Accessing the data
+2021-10-31	08:23:15		splitting the data into Dependent and Independent Set
+2021-10-31	08:23:15		Data Splitted into Dependent & Independent Set
+2021-10-31	08:23:41		Accessing the data
+2021-10-31	08:23:41		splitting the data into Dependent and Independent Set
+2021-10-31	08:23:41		Data Splitted into Dependent & Independent Set
+2021-10-31	08:23:47		Accessing the data
+2021-10-31	08:23:47		splitting the data into Dependent and Independent Set
+2021-10-31	08:23:47		Data Splitted into Dependent & Independent Set
+2021-10-31	08:23:47		Accessing the data
+2021-10-31	08:23:47		splitting the data into Dependent and Independent Set
+2021-10-31	08:23:47		Data Splitted into Dependent & Independent Set
+2021-10-31	08:23:47		Accessing the data
+2021-10-31	08:23:47		splitting the data into Dependent and Independent Set
+2021-10-31	08:23:47		Data Splitted into Dependent & Independent Set
+2021-10-31	08:23:47		Accessing the data
+2021-10-31	08:23:47		splitting the data into Dependent and Independent Set
+2021-10-31	08:23:47		Data Splitted into Dependent & Independent Set
+2021-10-31	08:23:48		Accessing the data
+2021-10-31	08:23:48		splitting the data into Dependent and Independent Set
+2021-10-31	08:23:48		Data Splitted into Dependent & Independent Set
+2021-10-31	08:23:48		Accessing the data
+2021-10-31	08:23:48		splitting the data into Dependent and Independent Set
+2021-10-31	08:23:48		Data Splitted into Dependent & Independent Set
+2021-10-31	08:23:48		Accessing the data
+2021-10-31	08:23:48		splitting the data into Dependent and Independent Set
+2021-10-31	08:23:48		Data Splitted into Dependent & Independent Set
+2021-10-31	08:24:09		Accessing the data
+2021-10-31	08:24:09		splitting the data into Dependent and Independent Set
+2021-10-31	08:24:09		Data Splitted into Dependent & Independent Set
+2021-10-31	08:24:15		Accessing the data
+2021-10-31	08:24:15		splitting the data into Dependent and Independent Set
+2021-10-31	08:24:15		Data Splitted into Dependent & Independent Set
+2021-10-31	08:24:15		Accessing the data
+2021-10-31	08:24:15		splitting the data into Dependent and Independent Set
+2021-10-31	08:24:15		Data Splitted into Dependent & Independent Set
+2021-10-31	08:24:15		Accessing the data
+2021-10-31	08:24:15		splitting the data into Dependent and Independent Set
+2021-10-31	08:24:16		Data Splitted into Dependent & Independent Set
+2021-10-31	08:24:16		Accessing the data
+2021-10-31	08:24:16		splitting the data into Dependent and Independent Set
+2021-10-31	08:24:16		Data Splitted into Dependent & Independent Set
+2021-10-31	08:24:17		Accessing the data
+2021-10-31	08:24:17		splitting the data into Dependent and Independent Set
+2021-10-31	08:24:17		Data Splitted into Dependent & Independent Set
+2021-10-31	08:24:17		Accessing the data
+2021-10-31	08:24:17		splitting the data into Dependent and Independent Set
+2021-10-31	08:24:17		Data Splitted into Dependent & Independent Set
+2021-10-31	08:24:18		Accessing the data
+2021-10-31	08:24:18		splitting the data into Dependent and Independent Set
+2021-10-31	08:24:18		Data Splitted into Dependent & Independent Set
+2021-10-31	08:24:44		Accessing the data
+2021-10-31	08:24:44		splitting the data into Dependent and Independent Set
+2021-10-31	08:24:44		Data Splitted into Dependent & Independent Set
+2021-10-31	08:24:44		Accessing the data
+2021-10-31	08:24:44		splitting the data into Dependent and Independent Set
+2021-10-31	08:24:44		Data Splitted into Dependent & Independent Set
+2021-10-31	08:24:44		Accessing the data
+2021-10-31	08:24:44		splitting the data into Dependent and Independent Set
+2021-10-31	08:24:44		Data Splitted into Dependent & Independent Set
+2021-10-31	08:24:45		Accessing the data
+2021-10-31	08:24:45		splitting the data into Dependent and Independent Set
+2021-10-31	08:24:45		Data Splitted into Dependent & Independent Set
+2021-10-31	08:24:45		Accessing the data
+2021-10-31	08:24:45		splitting the data into Dependent and Independent Set
+2021-10-31	08:24:45		Data Splitted into Dependent & Independent Set
+2021-10-31	08:24:45		Accessing the data
+2021-10-31	08:24:45		splitting the data into Dependent and Independent Set
+2021-10-31	08:24:45		Data Splitted into Dependent & Independent Set
+2021-10-31	08:24:46		Accessing the data
+2021-10-31	08:24:46		splitting the data into Dependent and Independent Set
+2021-10-31	08:24:46		Data Splitted into Dependent & Independent Set
+2021-10-31	08:25:17		Accessing the data
+2021-10-31	08:25:17		splitting the data into Dependent and Independent Set
+2021-10-31	08:25:17		Data Splitted into Dependent & Independent Set
+2021-10-31	08:25:21		Accessing the data
+2021-10-31	08:25:21		splitting the data into Dependent and Independent Set
+2021-10-31	08:25:21		Data Splitted into Dependent & Independent Set
+2021-10-31	08:25:22		Accessing the data
+2021-10-31	08:25:22		splitting the data into Dependent and Independent Set
+2021-10-31	08:25:22		Data Splitted into Dependent & Independent Set
+2021-10-31	08:25:22		Accessing the data
+2021-10-31	08:25:22		splitting the data into Dependent and Independent Set
+2021-10-31	08:25:22		Data Splitted into Dependent & Independent Set
+2021-10-31	08:25:22		Accessing the data
+2021-10-31	08:25:22		splitting the data into Dependent and Independent Set
+2021-10-31	08:25:22		Data Splitted into Dependent & Independent Set
+2021-10-31	08:25:22		Accessing the data
+2021-10-31	08:25:22		splitting the data into Dependent and Independent Set
+2021-10-31	08:25:22		Data Splitted into Dependent & Independent Set
+2021-10-31	08:25:23		Accessing the data
+2021-10-31	08:25:23		splitting the data into Dependent and Independent Set
+2021-10-31	08:25:23		Data Splitted into Dependent & Independent Set
+2021-10-31	08:25:23		Accessing the data
+2021-10-31	08:25:23		splitting the data into Dependent and Independent Set
+2021-10-31	08:25:23		Data Splitted into Dependent & Independent Set
+2021-10-31	08:26:06		Accessing the data
+2021-10-31	08:26:06		splitting the data into Dependent and Independent Set
+2021-10-31	08:26:06		Data Splitted into Dependent & Independent Set
+2021-10-31	08:26:14		Accessing the data
+2021-10-31	08:26:14		splitting the data into Dependent and Independent Set
+2021-10-31	08:26:14		Data Splitted into Dependent & Independent Set
+2021-10-31	08:26:14		Accessing the data
+2021-10-31	08:26:14		splitting the data into Dependent and Independent Set
+2021-10-31	08:26:14		Data Splitted into Dependent & Independent Set
+2021-10-31	08:26:14		Accessing the data
+2021-10-31	08:26:14		splitting the data into Dependent and Independent Set
+2021-10-31	08:26:14		Data Splitted into Dependent & Independent Set
+2021-10-31	08:26:15		Accessing the data
+2021-10-31	08:26:15		splitting the data into Dependent and Independent Set
+2021-10-31	08:26:15		Data Splitted into Dependent & Independent Set
+2021-10-31	08:26:15		Accessing the data
+2021-10-31	08:26:15		splitting the data into Dependent and Independent Set
+2021-10-31	08:26:15		Data Splitted into Dependent & Independent Set
+2021-10-31	08:26:15		Accessing the data
+2021-10-31	08:26:15		splitting the data into Dependent and Independent Set
+2021-10-31	08:26:15		Data Splitted into Dependent & Independent Set
+2021-10-31	08:26:15		Accessing the data
+2021-10-31	08:26:15		splitting the data into Dependent and Independent Set
+2021-10-31	08:26:15		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:01		Accessing the data
+2021-10-31	08:27:01		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:01		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:01		Accessing the data
+2021-10-31	08:27:01		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:01		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:01		Accessing the data
+2021-10-31	08:27:01		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:01		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:02		Accessing the data
+2021-10-31	08:27:02		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:02		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:02		Accessing the data
+2021-10-31	08:27:02		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:02		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:02		Accessing the data
+2021-10-31	08:27:02		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:02		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:03		Accessing the data
+2021-10-31	08:27:03		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:03		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:16		Accessing the data
+2021-10-31	08:27:16		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:16		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:16		Accessing the data
+2021-10-31	08:27:16		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:16		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:16		Accessing the data
+2021-10-31	08:27:16		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:16		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:17		Accessing the data
+2021-10-31	08:27:17		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:17		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:17		Accessing the data
+2021-10-31	08:27:17		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:17		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:17		Accessing the data
+2021-10-31	08:27:17		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:17		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:18		Accessing the data
+2021-10-31	08:27:18		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:18		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:41		Accessing the data
+2021-10-31	08:27:41		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:41		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:41		Accessing the data
+2021-10-31	08:27:41		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:41		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:41		Accessing the data
+2021-10-31	08:27:41		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:41		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:41		Accessing the data
+2021-10-31	08:27:41		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:41		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:41		Accessing the data
+2021-10-31	08:27:41		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:41		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:42		Accessing the data
+2021-10-31	08:27:42		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:42		Data Splitted into Dependent & Independent Set
+2021-10-31	08:27:42		Accessing the data
+2021-10-31	08:27:42		splitting the data into Dependent and Independent Set
+2021-10-31	08:27:42		Data Splitted into Dependent & Independent Set
+2021-10-31	08:28:09		Accessing the data
+2021-10-31	08:28:09		splitting the data into Dependent and Independent Set
+2021-10-31	08:28:09		Data Splitted into Dependent & Independent Set
+2021-10-31	08:28:09		Accessing the data
+2021-10-31	08:28:09		splitting the data into Dependent and Independent Set
+2021-10-31	08:28:09		Data Splitted into Dependent & Independent Set
+2021-10-31	08:28:09		Accessing the data
+2021-10-31	08:28:09		splitting the data into Dependent and Independent Set
+2021-10-31	08:28:09		Data Splitted into Dependent & Independent Set
+2021-10-31	08:28:10		Accessing the data
+2021-10-31	08:28:10		splitting the data into Dependent and Independent Set
+2021-10-31	08:28:10		Data Splitted into Dependent & Independent Set
+2021-10-31	08:28:10		Accessing the data
+2021-10-31	08:28:10		splitting the data into Dependent and Independent Set
+2021-10-31	08:28:10		Data Splitted into Dependent & Independent Set
+2021-10-31	08:28:10		Accessing the data
+2021-10-31	08:28:10		splitting the data into Dependent and Independent Set
+2021-10-31	08:28:10		Data Splitted into Dependent & Independent Set
+2021-10-31	08:28:11		Accessing the data
+2021-10-31	08:28:11		splitting the data into Dependent and Independent Set
+2021-10-31	08:28:11		Data Splitted into Dependent & Independent Set
+2021-10-31	08:28:45		Accessing the data
+2021-10-31	08:28:45		splitting the data into Dependent and Independent Set
+2021-10-31	08:28:45		Data Splitted into Dependent & Independent Set
+2021-10-31	08:28:45		Accessing the data
+2021-10-31	08:28:45		splitting the data into Dependent and Independent Set
+2021-10-31	08:28:45		Data Splitted into Dependent & Independent Set
+2021-10-31	08:28:45		Accessing the data
+2021-10-31	08:28:45		splitting the data into Dependent and Independent Set
+2021-10-31	08:28:45		Data Splitted into Dependent & Independent Set
+2021-10-31	08:28:45		Accessing the data
+2021-10-31	08:28:45		splitting the data into Dependent and Independent Set
+2021-10-31	08:28:45		Data Splitted into Dependent & Independent Set
+2021-10-31	08:28:46		Accessing the data
+2021-10-31	08:28:46		splitting the data into Dependent and Independent Set
+2021-10-31	08:28:46		Data Splitted into Dependent & Independent Set
+2021-10-31	08:28:46		Accessing the data
+2021-10-31	08:28:46		splitting the data into Dependent and Independent Set
+2021-10-31	08:28:46		Data Splitted into Dependent & Independent Set
+2021-10-31	08:28:46		Accessing the data
+2021-10-31	08:28:46		splitting the data into Dependent and Independent Set
+2021-10-31	08:28:46		Data Splitted into Dependent & Independent Set
+2021-10-31	08:29:31		Accessing the data
+2021-10-31	08:29:31		splitting the data into Dependent and Independent Set
+2021-10-31	08:29:31		Data Splitted into Dependent & Independent Set
+2021-10-31	08:29:31		Accessing the data
+2021-10-31	08:29:31		splitting the data into Dependent and Independent Set
+2021-10-31	08:29:31		Data Splitted into Dependent & Independent Set
+2021-10-31	08:29:31		Accessing the data
+2021-10-31	08:29:31		splitting the data into Dependent and Independent Set
+2021-10-31	08:29:31		Data Splitted into Dependent & Independent Set
+2021-10-31	08:29:32		Accessing the data
+2021-10-31	08:29:32		splitting the data into Dependent and Independent Set
+2021-10-31	08:29:32		Data Splitted into Dependent & Independent Set
+2021-10-31	08:29:32		Accessing the data
+2021-10-31	08:29:32		splitting the data into Dependent and Independent Set
+2021-10-31	08:29:32		Data Splitted into Dependent & Independent Set
+2021-10-31	08:29:32		Accessing the data
+2021-10-31	08:29:32		splitting the data into Dependent and Independent Set
+2021-10-31	08:29:32		Data Splitted into Dependent & Independent Set
+2021-10-31	08:29:33		Accessing the data
+2021-10-31	08:29:33		splitting the data into Dependent and Independent Set
+2021-10-31	08:29:33		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:03		Accessing the data
+2021-10-31	08:30:03		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:03		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:03		Accessing the data
+2021-10-31	08:30:03		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:03		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:03		Accessing the data
+2021-10-31	08:30:03		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:03		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:04		Accessing the data
+2021-10-31	08:30:04		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:04		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:04		Accessing the data
+2021-10-31	08:30:04		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:04		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:04		Accessing the data
+2021-10-31	08:30:04		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:04		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:04		Accessing the data
+2021-10-31	08:30:04		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:04		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:18		Accessing the data
+2021-10-31	08:30:18		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:18		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:18		Accessing the data
+2021-10-31	08:30:18		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:18		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:18		Accessing the data
+2021-10-31	08:30:18		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:18		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:18		Accessing the data
+2021-10-31	08:30:18		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:18		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:19		Accessing the data
+2021-10-31	08:30:19		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:19		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:19		Accessing the data
+2021-10-31	08:30:19		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:19		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:19		Accessing the data
+2021-10-31	08:30:19		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:19		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:35		Accessing the data
+2021-10-31	08:30:35		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:35		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:35		Accessing the data
+2021-10-31	08:30:35		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:35		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:35		Accessing the data
+2021-10-31	08:30:35		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:35		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:35		Accessing the data
+2021-10-31	08:30:35		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:35		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:36		Accessing the data
+2021-10-31	08:30:36		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:36		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:36		Accessing the data
+2021-10-31	08:30:36		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:36		Data Splitted into Dependent & Independent Set
+2021-10-31	08:30:36		Accessing the data
+2021-10-31	08:30:36		splitting the data into Dependent and Independent Set
+2021-10-31	08:30:36		Data Splitted into Dependent & Independent Set
+2021-10-31	08:47:36		Accessing the data
+2021-10-31	08:47:36		splitting the data into Dependent and Independent Set
+2021-10-31	08:47:36		Data Splitted into Dependent & Independent Set
+2021-10-31	08:47:36		Accessing the data
+2021-10-31	08:47:36		splitting the data into Dependent and Independent Set
+2021-10-31	08:47:36		Data Splitted into Dependent & Independent Set
+2021-10-31	08:47:36		Accessing the data
+2021-10-31	08:47:36		splitting the data into Dependent and Independent Set
+2021-10-31	08:47:36		Data Splitted into Dependent & Independent Set
+2021-10-31	08:48:12		Accessing the data
+2021-10-31	08:48:12		splitting the data into Dependent and Independent Set
+2021-10-31	08:48:12		Data Splitted into Dependent & Independent Set
+2021-10-31	08:48:12		Accessing the data
+2021-10-31	08:48:12		splitting the data into Dependent and Independent Set
+2021-10-31	08:48:12		Data Splitted into Dependent & Independent Set
+2021-10-31	08:48:12		Accessing the data
+2021-10-31	08:48:12		splitting the data into Dependent and Independent Set
+2021-10-31	08:48:12		Data Splitted into Dependent & Independent Set
+2021-10-31	08:48:59		Accessing the data
+2021-10-31	08:48:59		splitting the data into Dependent and Independent Set
+2021-10-31	08:48:59		Data Splitted into Dependent & Independent Set
+2021-10-31	08:48:59		Accessing the data
+2021-10-31	08:48:59		splitting the data into Dependent and Independent Set
+2021-10-31	08:48:59		Data Splitted into Dependent & Independent Set
+2021-10-31	08:48:59		Accessing the data
+2021-10-31	08:48:59		splitting the data into Dependent and Independent Set
+2021-10-31	08:48:59		Data Splitted into Dependent & Independent Set
+2021-10-31	08:57:05		Accessing the data
+2021-10-31	08:57:05		splitting the data into Dependent and Independent Set
+2021-10-31	08:57:05		Data Splitted into Dependent & Independent Set
+2021-10-31	08:57:05		Accessing the data
+2021-10-31	08:57:05		splitting the data into Dependent and Independent Set
+2021-10-31	08:57:05		Data Splitted into Dependent & Independent Set
+2021-10-31	08:57:05		Accessing the data
+2021-10-31	08:57:05		splitting the data into Dependent and Independent Set
+2021-10-31	08:57:05		Data Splitted into Dependent & Independent Set
+2021-10-31	09:02:03		Accessing the data
+2021-10-31	09:02:03		splitting the data into Dependent and Independent Set
+2021-10-31	09:02:03		Data Splitted into Dependent & Independent Set
+2021-10-31	09:02:03		Accessing the data
+2021-10-31	09:02:03		splitting the data into Dependent and Independent Set
+2021-10-31	09:02:03		Data Splitted into Dependent & Independent Set
+2021-10-31	09:02:03		Accessing the data
+2021-10-31	09:02:03		splitting the data into Dependent and Independent Set
+2021-10-31	09:02:03		Data Splitted into Dependent & Independent Set
+2021-10-31	09:15:11		Accessing the data
+2021-10-31	09:15:11		splitting the data into Dependent and Independent Set
+2021-10-31	09:15:11		Data Splitted into Dependent & Independent Set
+2021-10-31	09:15:11		Accessing the data
+2021-10-31	09:15:11		splitting the data into Dependent and Independent Set
+2021-10-31	09:15:11		Data Splitted into Dependent & Independent Set
+2021-10-31	09:15:11		Accessing the data
+2021-10-31	09:15:11		splitting the data into Dependent and Independent Set
+2021-10-31	09:15:11		Data Splitted into Dependent & Independent Set
+2021-10-31	09:22:28		Accessing the data
+2021-10-31	09:22:28		splitting the data into Dependent and Independent Set
+2021-10-31	09:22:28		Data Splitted into Dependent & Independent Set
+2021-10-31	09:22:28		Accessing the data
+2021-10-31	09:22:28		splitting the data into Dependent and Independent Set
+2021-10-31	09:22:28		Data Splitted into Dependent & Independent Set
+2021-10-31	09:22:28		Accessing the data
+2021-10-31	09:22:28		splitting the data into Dependent and Independent Set
+2021-10-31	09:22:28		Data Splitted into Dependent & Independent Set
+2021-10-31	10:37:58		Accessing the data
+2021-10-31	10:37:58		splitting the data into Dependent and Independent Set
+2021-10-31	10:37:58		Data Splitted into Dependent & Independent Set
+2021-10-31	10:37:58		Accessing the data
+2021-10-31	10:37:58		splitting the data into Dependent and Independent Set
+2021-10-31	10:37:58		Data Splitted into Dependent & Independent Set
+2021-10-31	10:37:58		Accessing the data
+2021-10-31	10:37:58		splitting the data into Dependent and Independent Set
+2021-10-31	10:37:58		Data Splitted into Dependent & Independent Set
+2021-10-31	10:38:20		Accessing the data
+2021-10-31	10:38:20		splitting the data into Dependent and Independent Set
+2021-10-31	10:38:20		Data Splitted into Dependent & Independent Set
+2021-10-31	10:38:20		Accessing the data
+2021-10-31	10:38:20		splitting the data into Dependent and Independent Set
+2021-10-31	10:38:20		Data Splitted into Dependent & Independent Set
+2021-10-31	10:38:20		Accessing the data
+2021-10-31	10:38:20		splitting the data into Dependent and Independent Set
+2021-10-31	10:38:20		Data Splitted into Dependent & Independent Set
+2021-10-31	10:39:08		Accessing the data
+2021-10-31	10:39:08		splitting the data into Dependent and Independent Set
+2021-10-31	10:39:08		Data Splitted into Dependent & Independent Set
+2021-10-31	10:39:08		Accessing the data
+2021-10-31	10:39:08		splitting the data into Dependent and Independent Set
+2021-10-31	10:39:08		Data Splitted into Dependent & Independent Set
+2021-10-31	10:39:08		Accessing the data
+2021-10-31	10:39:08		splitting the data into Dependent and Independent Set
+2021-10-31	10:39:08		Data Splitted into Dependent & Independent Set
+2021-10-31	10:40:01		Accessing the data
+2021-10-31	10:40:01		splitting the data into Dependent and Independent Set
+2021-10-31	10:40:01		Data Splitted into Dependent & Independent Set
+2021-10-31	10:40:01		Accessing the data
+2021-10-31	10:40:01		splitting the data into Dependent and Independent Set
+2021-10-31	10:40:01		Data Splitted into Dependent & Independent Set
+2021-10-31	10:40:01		Accessing the data
+2021-10-31	10:40:01		splitting the data into Dependent and Independent Set
+2021-10-31	10:40:01		Data Splitted into Dependent & Independent Set
+2021-10-31	15:55:59		Accessing the data
+2021-10-31	15:55:59		splitting the data into Dependent and Independent Set
+2021-10-31	15:55:59		Data Splitted into Dependent & Independent Set
+2021-10-31	15:55:59		Accessing the data
+2021-10-31	15:55:59		splitting the data into Dependent and Independent Set
+2021-10-31	15:55:59		Data Splitted into Dependent & Independent Set
+2021-10-31	15:55:59		Accessing the data
+2021-10-31	15:55:59		splitting the data into Dependent and Independent Set
+2021-10-31	15:55:59		Data Splitted into Dependent & Independent Set
+2021-10-31	15:58:50		Accessing the data
+2021-10-31	15:58:50		splitting the data into Dependent and Independent Set
+2021-10-31	15:58:50		Data Splitted into Dependent & Independent Set
+2021-10-31	15:58:50		Accessing the data
+2021-10-31	15:58:50		splitting the data into Dependent and Independent Set
+2021-10-31	15:58:50		Data Splitted into Dependent & Independent Set
+2021-10-31	15:58:50		Accessing the data
+2021-10-31	15:58:50		splitting the data into Dependent and Independent Set
+2021-10-31	15:58:50		Data Splitted into Dependent & Independent Set
+2021-10-31	16:04:28		Accessing the data
+2021-10-31	16:04:28		splitting the data into Dependent and Independent Set
+2021-10-31	16:04:28		Data Splitted into Dependent & Independent Set
+2021-10-31	16:04:28		Accessing the data
+2021-10-31	16:04:28		splitting the data into Dependent and Independent Set
+2021-10-31	16:04:28		Data Splitted into Dependent & Independent Set
+2021-10-31	16:04:28		Accessing the data
+2021-10-31	16:04:28		splitting the data into Dependent and Independent Set
+2021-10-31	16:04:28		Data Splitted into Dependent & Independent Set
+2021-10-31	16:04:28		Accessing the data
+2021-10-31	16:04:28		splitting the data into Dependent and Independent Set
+2021-10-31	16:04:28		Data Splitted into Dependent & Independent Set
+2021-10-31	16:09:15		Accessing the data
+2021-10-31	16:09:15		splitting the data into Dependent and Independent Set
+2021-10-31	16:09:15		Data Splitted into Dependent & Independent Set
+2021-10-31	16:09:15		Accessing the data
+2021-10-31	16:09:15		splitting the data into Dependent and Independent Set
+2021-10-31	16:09:15		Data Splitted into Dependent & Independent Set
+2021-10-31	16:11:16		Accessing the data
+2021-10-31	16:11:16		splitting the data into Dependent and Independent Set
+2021-10-31	16:11:16		Data Splitted into Dependent & Independent Set
+2021-10-31	16:11:16		Accessing the data
+2021-10-31	16:11:16		splitting the data into Dependent and Independent Set
+2021-10-31	16:11:16		Data Splitted into Dependent & Independent Set
+2021-10-31	16:11:16		Accessing the data
+2021-10-31	16:11:16		splitting the data into Dependent and Independent Set
+2021-10-31	16:11:16		Data Splitted into Dependent & Independent Set
+2021-10-31	16:11:16		Accessing the data
+2021-10-31	16:11:16		splitting the data into Dependent and Independent Set
+2021-10-31	16:11:16		Data Splitted into Dependent & Independent Set
+2021-10-31	16:16:10		Accessing the data
+2021-10-31	16:16:10		splitting the data into Dependent and Independent Set
+2021-10-31	16:16:10		Data Splitted into Dependent & Independent Set
+2021-10-31	16:16:10		Accessing the data
+2021-10-31	16:16:10		splitting the data into Dependent and Independent Set
+2021-10-31	16:16:10		Data Splitted into Dependent & Independent Set
+2021-10-31	16:25:28		Accessing the data
+2021-10-31	16:25:28		splitting the data into Dependent and Independent Set
+2021-10-31	16:25:28		Data Splitted into Dependent & Independent Set
+2021-10-31	16:25:28		Accessing the data
+2021-10-31	16:25:28		splitting the data into Dependent and Independent Set
+2021-10-31	16:25:28		Data Splitted into Dependent & Independent Set
+2021-10-31	16:25:28		Accessing the data
+2021-10-31	16:25:28		splitting the data into Dependent and Independent Set
+2021-10-31	16:25:28		Data Splitted into Dependent & Independent Set
+2021-10-31	16:28:55		Accessing the data
+2021-10-31	16:28:55		splitting the data into Dependent and Independent Set
+2021-10-31	16:28:55		Data Splitted into Dependent & Independent Set
+2021-10-31	16:28:55		Accessing the data
+2021-10-31	16:28:55		splitting the data into Dependent and Independent Set
+2021-10-31	16:28:55		Data Splitted into Dependent & Independent Set
+2021-10-31	16:28:55		Accessing the data
+2021-10-31	16:28:55		splitting the data into Dependent and Independent Set
+2021-10-31	16:28:55		Data Splitted into Dependent & Independent Set
+2021-10-31	16:28:55		Accessing the data
+2021-10-31	16:28:55		splitting the data into Dependent and Independent Set
+2021-10-31	16:28:55		Data Splitted into Dependent & Independent Set
+2021-10-31	16:33:53		Accessing the data
+2021-10-31	16:33:53		splitting the data into Dependent and Independent Set
+2021-10-31	16:33:53		Data Splitted into Dependent & Independent Set
+2021-10-31	16:33:53		Accessing the data
+2021-10-31	16:33:53		splitting the data into Dependent and Independent Set
+2021-10-31	16:33:53		Data Splitted into Dependent & Independent Set
+2021-10-31	16:34:55		Accessing the data
+2021-10-31	16:34:55		splitting the data into Dependent and Independent Set
+2021-10-31	16:34:55		Data Splitted into Dependent & Independent Set
+2021-10-31	16:34:55		Accessing the data
+2021-10-31	16:34:55		splitting the data into Dependent and Independent Set
+2021-10-31	16:34:55		Data Splitted into Dependent & Independent Set
+2021-10-31	16:38:41		Accessing the data
+2021-10-31	16:38:41		splitting the data into Dependent and Independent Set
+2021-10-31	16:38:41		Data Splitted into Dependent & Independent Set
+2021-10-31	16:38:41		Accessing the data
+2021-10-31	16:38:41		splitting the data into Dependent and Independent Set
+2021-10-31	16:38:41		Data Splitted into Dependent & Independent Set
+2021-10-31	16:38:41		Accessing the data
+2021-10-31	16:38:41		splitting the data into Dependent and Independent Set
+2021-10-31	16:38:41		Data Splitted into Dependent & Independent Set
+2021-10-31	16:38:41		Accessing the data
+2021-10-31	16:38:41		splitting the data into Dependent and Independent Set
+2021-10-31	16:38:41		Data Splitted into Dependent & Independent Set
+2021-10-31	16:43:12		Accessing the data
+2021-10-31	16:43:12		splitting the data into Dependent and Independent Set
+2021-10-31	16:43:12		Data Splitted into Dependent & Independent Set
+2021-10-31	16:43:12		Accessing the data
+2021-10-31	16:43:12		splitting the data into Dependent and Independent Set
+2021-10-31	16:43:12		Data Splitted into Dependent & Independent Set
+2021-10-31	16:44:01		Accessing the data
+2021-10-31	16:44:01		splitting the data into Dependent and Independent Set
+2021-10-31	16:44:01		Data Splitted into Dependent & Independent Set
+2021-10-31	16:44:01		Accessing the data
+2021-10-31	16:44:01		splitting the data into Dependent and Independent Set
+2021-10-31	16:44:01		Data Splitted into Dependent & Independent Set
+2021-10-31	16:53:45		Accessing the data
+2021-10-31	16:53:45		splitting the data into Dependent and Independent Set
+2021-10-31	16:53:45		Data Splitted into Dependent & Independent Set
+2021-10-31	16:53:45		Accessing the data
+2021-10-31	16:53:45		splitting the data into Dependent and Independent Set
+2021-10-31	16:53:45		Data Splitted into Dependent & Independent Set
+2021-10-31	16:53:45		Accessing the data
+2021-10-31	16:53:45		splitting the data into Dependent and Independent Set
+2021-10-31	16:53:45		Data Splitted into Dependent & Independent Set
+2021-10-31	16:53:45		Accessing the data
+2021-10-31	16:53:45		splitting the data into Dependent and Independent Set
+2021-10-31	16:53:45		Data Splitted into Dependent & Independent Set
+2021-10-31	16:58:15		Accessing the data
+2021-10-31	16:58:15		splitting the data into Dependent and Independent Set
+2021-10-31	16:58:15		Data Splitted into Dependent & Independent Set
+2021-10-31	16:58:15		Accessing the data
+2021-10-31	16:58:15		splitting the data into Dependent and Independent Set
+2021-10-31	16:58:15		Data Splitted into Dependent & Independent Set
+2021-10-31	16:59:09		Accessing the data
+2021-10-31	16:59:09		splitting the data into Dependent and Independent Set
+2021-10-31	16:59:09		Data Splitted into Dependent & Independent Set
+2021-10-31	16:59:09		Accessing the data
+2021-10-31	16:59:09		splitting the data into Dependent and Independent Set
+2021-10-31	16:59:09		Data Splitted into Dependent & Independent Set
+2021-10-31	17:03:10		Accessing the data
+2021-10-31	17:03:10		splitting the data into Dependent and Independent Set
+2021-10-31	17:03:10		Data Splitted into Dependent & Independent Set
+2021-10-31	17:03:10		Accessing the data
+2021-10-31	17:03:10		splitting the data into Dependent and Independent Set
+2021-10-31	17:03:10		Data Splitted into Dependent & Independent Set
+2021-10-31	17:03:10		Accessing the data
+2021-10-31	17:03:10		splitting the data into Dependent and Independent Set
+2021-10-31	17:03:10		Data Splitted into Dependent & Independent Set
+2021-10-31	17:03:10		Accessing the data
+2021-10-31	17:03:10		splitting the data into Dependent and Independent Set
+2021-10-31	17:03:10		Data Splitted into Dependent & Independent Set
+2021-10-31	17:07:44		Accessing the data
+2021-10-31	17:07:44		splitting the data into Dependent and Independent Set
+2021-10-31	17:07:44		Data Splitted into Dependent & Independent Set
+2021-10-31	17:07:44		Accessing the data
+2021-10-31	17:07:44		splitting the data into Dependent and Independent Set
+2021-10-31	17:07:44		Data Splitted into Dependent & Independent Set
+2021-10-31	17:08:41		Accessing the data
+2021-10-31	17:08:41		splitting the data into Dependent and Independent Set
+2021-10-31	17:08:41		Data Splitted into Dependent & Independent Set
+2021-10-31	17:08:41		Accessing the data
+2021-10-31	17:08:41		splitting the data into Dependent and Independent Set
+2021-10-31	17:08:41		Data Splitted into Dependent & Independent Set
+2021-10-31	17:14:11		Accessing the data
+2021-10-31	17:14:11		splitting the data into Dependent and Independent Set
+2021-10-31	17:14:11		Data Splitted into Dependent & Independent Set
+2021-10-31	17:14:11		Accessing the data
+2021-10-31	17:14:11		splitting the data into Dependent and Independent Set
+2021-10-31	17:14:11		Data Splitted into Dependent & Independent Set
+2021-10-31	17:14:11		Accessing the data
+2021-10-31	17:14:11		splitting the data into Dependent and Independent Set
+2021-10-31	17:14:11		Data Splitted into Dependent & Independent Set
+2021-10-31	17:14:11		Accessing the data
+2021-10-31	17:14:11		splitting the data into Dependent and Independent Set
+2021-10-31	17:14:11		Data Splitted into Dependent & Independent Set
+2021-10-31	17:18:25		Accessing the data
+2021-10-31	17:18:25		splitting the data into Dependent and Independent Set
+2021-10-31	17:18:25		Data Splitted into Dependent & Independent Set
+2021-10-31	17:18:25		Accessing the data
+2021-10-31	17:18:25		splitting the data into Dependent and Independent Set
+2021-10-31	17:18:25		Data Splitted into Dependent & Independent Set
+2021-10-31	17:19:11		Accessing the data
+2021-10-31	17:19:11		splitting the data into Dependent and Independent Set
+2021-10-31	17:19:11		Data Splitted into Dependent & Independent Set
+2021-10-31	17:19:11		Accessing the data
+2021-10-31	17:19:11		splitting the data into Dependent and Independent Set
+2021-10-31	17:19:11		Data Splitted into Dependent & Independent Set
+2021-10-31	17:24:14		Accessing the data
+2021-10-31	17:24:14		splitting the data into Dependent and Independent Set
+2021-10-31	17:24:14		Data Splitted into Dependent & Independent Set
+2021-10-31	17:24:14		Accessing the data
+2021-10-31	17:24:14		splitting the data into Dependent and Independent Set
+2021-10-31	17:24:14		Data Splitted into Dependent & Independent Set
+2021-10-31	17:24:14		Accessing the data
+2021-10-31	17:24:14		splitting the data into Dependent and Independent Set
+2021-10-31	17:24:14		Data Splitted into Dependent & Independent Set
+2021-10-31	17:24:14		Accessing the data
+2021-10-31	17:24:14		splitting the data into Dependent and Independent Set
+2021-10-31	17:24:14		Data Splitted into Dependent & Independent Set
+2021-10-31	17:28:42		Accessing the data
+2021-10-31	17:28:42		splitting the data into Dependent and Independent Set
+2021-10-31	17:28:42		Data Splitted into Dependent & Independent Set
+2021-10-31	17:28:42		Accessing the data
+2021-10-31	17:28:42		splitting the data into Dependent and Independent Set
+2021-10-31	17:28:42		Data Splitted into Dependent & Independent Set
+2021-10-31	17:29:37		Accessing the data
+2021-10-31	17:29:37		splitting the data into Dependent and Independent Set
+2021-10-31	17:29:37		Data Splitted into Dependent & Independent Set
+2021-10-31	17:29:37		Accessing the data
+2021-10-31	17:29:37		splitting the data into Dependent and Independent Set
+2021-10-31	17:29:37		Data Splitted into Dependent & Independent Set
+2021-11-01	16:40:13		Accessing the data
+2021-11-01	16:40:13		splitting the data into Dependent and Independent Set
+2021-11-01	16:40:13		Data Splitted into Dependent & Independent Set
+2021-11-01	16:40:13		Accessing the data
+2021-11-01	16:40:13		splitting the data into Dependent and Independent Set
+2021-11-01	16:40:13		Data Splitted into Dependent & Independent Set
+2021-11-01	16:40:13		Accessing the data
+2021-11-01	16:40:13		splitting the data into Dependent and Independent Set
+2021-11-01	16:40:13		Data Splitted into Dependent & Independent Set
+2021-11-01	16:40:13		Accessing the data
+2021-11-01	16:40:13		splitting the data into Dependent and Independent Set
+2021-11-01	16:40:13		Data Splitted into Dependent & Independent Set
+2021-11-01	16:52:17		Accessing the data
+2021-11-01	16:52:17		splitting the data into Dependent and Independent Set
+2021-11-01	16:52:17		Data Splitted into Dependent & Independent Set
+2021-11-01	16:52:17		Accessing the data
+2021-11-01	16:52:17		splitting the data into Dependent and Independent Set
+2021-11-01	16:52:17		Data Splitted into Dependent & Independent Set
+2021-11-01	16:53:01		Accessing the data
+2021-11-01	16:53:01		splitting the data into Dependent and Independent Set
+2021-11-01	16:53:01		Data Splitted into Dependent & Independent Set
+2021-11-01	16:53:01		Accessing the data
+2021-11-01	16:53:01		splitting the data into Dependent and Independent Set
+2021-11-01	16:53:01		Data Splitted into Dependent & Independent Set
+2021-11-01	16:55:15		Accessing the data
+2021-11-01	16:55:15		splitting the data into Dependent and Independent Set
+2021-11-01	16:55:15		Data Splitted into Dependent & Independent Set
+2021-11-01	16:55:15		Accessing the data
+2021-11-01	16:55:15		splitting the data into Dependent and Independent Set
+2021-11-01	16:55:15		Data Splitted into Dependent & Independent Set
+2021-11-01	16:58:39		Accessing the data
+2021-11-01	16:58:39		splitting the data into Dependent and Independent Set
+2021-11-01	16:58:39		Data Splitted into Dependent & Independent Set
+2021-11-01	16:58:39		Accessing the data
+2021-11-01	16:58:39		splitting the data into Dependent and Independent Set
+2021-11-01	16:58:39		Data Splitted into Dependent & Independent Set
+2021-11-01	16:58:39		Accessing the data
+2021-11-01	16:58:39		splitting the data into Dependent and Independent Set
+2021-11-01	16:58:39		Data Splitted into Dependent & Independent Set
+2021-11-01	16:58:39		Accessing the data
+2021-11-01	16:58:39		splitting the data into Dependent and Independent Set
+2021-11-01	16:58:39		Data Splitted into Dependent & Independent Set
+2021-11-01	17:03:19		Accessing the data
+2021-11-01	17:03:19		splitting the data into Dependent and Independent Set
+2021-11-01	17:03:19		Data Splitted into Dependent & Independent Set
+2021-11-01	17:03:19		Accessing the data
+2021-11-01	17:03:19		splitting the data into Dependent and Independent Set
+2021-11-01	17:03:19		Data Splitted into Dependent & Independent Set
+2021-11-01	17:04:08		Accessing the data
+2021-11-01	17:04:08		splitting the data into Dependent and Independent Set
+2021-11-01	17:04:08		Data Splitted into Dependent & Independent Set
+2021-11-01	17:04:08		Accessing the data
+2021-11-01	17:04:08		splitting the data into Dependent and Independent Set
+2021-11-01	17:04:08		Data Splitted into Dependent & Independent Set
+2021-11-01	17:06:23		Accessing the data
+2021-11-01	17:06:23		splitting the data into Dependent and Independent Set
+2021-11-01	17:06:23		Data Splitted into Dependent & Independent Set
+2021-11-01	17:06:23		Accessing the data
+2021-11-01	17:06:23		splitting the data into Dependent and Independent Set
+2021-11-01	17:06:23		Data Splitted into Dependent & Independent Set
+2021-11-01	17:11:20		Accessing the data
+2021-11-01	17:11:20		splitting the data into Dependent and Independent Set
+2021-11-01	17:11:20		Data Splitted into Dependent & Independent Set
+2021-11-01	17:11:20		Accessing the data
+2021-11-01	17:11:20		splitting the data into Dependent and Independent Set
+2021-11-01	17:11:20		Data Splitted into Dependent & Independent Set
+2021-11-01	17:11:20		Accessing the data
+2021-11-01	17:11:20		splitting the data into Dependent and Independent Set
+2021-11-01	17:11:20		Data Splitted into Dependent & Independent Set
+2021-11-01	17:11:20		Accessing the data
+2021-11-01	17:11:20		splitting the data into Dependent and Independent Set
+2021-11-01	17:11:20		Data Splitted into Dependent & Independent Set
+2021-11-01	17:11:32		Accessing the data
+2021-11-01	17:11:32		splitting the data into Dependent and Independent Set
+2021-11-01	17:11:32		Data Splitted into Dependent & Independent Set
+2021-11-01	17:11:32		Accessing the data
+2021-11-01	17:11:32		splitting the data into Dependent and Independent Set
+2021-11-01	17:11:32		Data Splitted into Dependent & Independent Set
+2021-11-01	17:11:32		Accessing the data
+2021-11-01	17:11:32		splitting the data into Dependent and Independent Set
+2021-11-01	17:11:32		Data Splitted into Dependent & Independent Set
+2021-11-01	17:11:32		Accessing the data
+2021-11-01	17:11:32		splitting the data into Dependent and Independent Set
+2021-11-01	17:11:32		Data Splitted into Dependent & Independent Set
+2021-11-01	17:15:57		Accessing the data
+2021-11-01	17:15:57		splitting the data into Dependent and Independent Set
+2021-11-01	17:15:57		Data Splitted into Dependent & Independent Set
+2021-11-01	17:15:57		Accessing the data
+2021-11-01	17:15:57		splitting the data into Dependent and Independent Set
+2021-11-01	17:15:57		Data Splitted into Dependent & Independent Set
+2021-11-01	17:16:44		Accessing the data
+2021-11-01	17:16:44		splitting the data into Dependent and Independent Set
+2021-11-01	17:16:44		Data Splitted into Dependent & Independent Set
+2021-11-01	17:16:44		Accessing the data
+2021-11-01	17:16:44		splitting the data into Dependent and Independent Set
+2021-11-01	17:16:44		Data Splitted into Dependent & Independent Set
+2021-11-01	17:19:03		Accessing the data
+2021-11-01	17:19:03		splitting the data into Dependent and Independent Set
+2021-11-01	17:19:03		Data Splitted into Dependent & Independent Set
+2021-11-01	17:19:03		Accessing the data
+2021-11-01	17:19:03		splitting the data into Dependent and Independent Set
+2021-11-01	17:19:03		Data Splitted into Dependent & Independent Set
+2021-11-01	17:27:22		Accessing the data
+2021-11-01	17:27:22		splitting the data into Dependent and Independent Set
+2021-11-01	17:27:22		Data Splitted into Dependent & Independent Set
+2021-11-01	17:27:22		Accessing the data
+2021-11-01	17:27:22		splitting the data into Dependent and Independent Set
+2021-11-01	17:27:22		Data Splitted into Dependent & Independent Set
+2021-11-01	17:27:22		Accessing the data
+2021-11-01	17:27:22		splitting the data into Dependent and Independent Set
+2021-11-01	17:27:22		Data Splitted into Dependent & Independent Set
+2021-11-01	17:27:22		Accessing the data
+2021-11-01	17:27:22		splitting the data into Dependent and Independent Set
+2021-11-01	17:27:22		Data Splitted into Dependent & Independent Set
+2021-11-01	17:31:50		Accessing the data
+2021-11-01	17:31:50		splitting the data into Dependent and Independent Set
+2021-11-01	17:31:50		Data Splitted into Dependent & Independent Set
+2021-11-01	17:31:50		Accessing the data
+2021-11-01	17:31:50		splitting the data into Dependent and Independent Set
+2021-11-01	17:31:50		Data Splitted into Dependent & Independent Set
+2021-11-01	17:32:45		Accessing the data
+2021-11-01	17:32:45		splitting the data into Dependent and Independent Set
+2021-11-01	17:32:45		Data Splitted into Dependent & Independent Set
+2021-11-01	17:32:45		Accessing the data
+2021-11-01	17:32:45		splitting the data into Dependent and Independent Set
+2021-11-01	17:32:45		Data Splitted into Dependent & Independent Set
+2021-11-01	17:34:59		Accessing the data
+2021-11-01	17:34:59		splitting the data into Dependent and Independent Set
+2021-11-01	17:34:59		Data Splitted into Dependent & Independent Set
+2021-11-01	17:34:59		Accessing the data
+2021-11-01	17:34:59		splitting the data into Dependent and Independent Set
+2021-11-01	17:34:59		Data Splitted into Dependent & Independent Set
+2021-11-03	09:00:14		Accessing the data
+2021-11-03	09:00:14		splitting the data into Dependent and Independent Set
+2021-11-03	09:00:14		Data Splitted into Dependent & Independent Set
+2021-11-03	09:00:14		Accessing the data
+2021-11-03	09:00:14		splitting the data into Dependent and Independent Set
+2021-11-03	09:00:14		Data Splitted into Dependent & Independent Set
+2021-11-03	09:00:14		Accessing the data
+2021-11-03	09:00:14		splitting the data into Dependent and Independent Set
+2021-11-03	09:00:14		Data Splitted into Dependent & Independent Set
+2021-11-03	09:00:14		Accessing the data
+2021-11-03	09:00:14		splitting the data into Dependent and Independent Set
+2021-11-03	09:00:14		Data Splitted into Dependent & Independent Set
+2021-11-03	09:06:18		Accessing the data
+2021-11-03	09:06:18		splitting the data into Dependent and Independent Set
+2021-11-03	09:06:18		Data Splitted into Dependent & Independent Set
+2021-11-03	09:06:18		Accessing the data
+2021-11-03	09:06:18		splitting the data into Dependent and Independent Set
+2021-11-03	09:06:18		Data Splitted into Dependent & Independent Set
+2021-11-03	09:07:08		Accessing the data
+2021-11-03	09:07:08		splitting the data into Dependent and Independent Set
+2021-11-03	09:07:08		Data Splitted into Dependent & Independent Set
+2021-11-03	09:07:08		Accessing the data
+2021-11-03	09:07:08		splitting the data into Dependent and Independent Set
+2021-11-03	09:07:08		Data Splitted into Dependent & Independent Set
+2021-11-03	09:09:28		Accessing the data
+2021-11-03	09:09:28		splitting the data into Dependent and Independent Set
+2021-11-03	09:09:28		Data Splitted into Dependent & Independent Set
+2021-11-03	09:09:28		Accessing the data
+2021-11-03	09:09:28		splitting the data into Dependent and Independent Set
+2021-11-03	09:09:28		Data Splitted into Dependent & Independent Set
+2021-11-03	09:16:52		Accessing the data
+2021-11-03	09:16:52		splitting the data into Dependent and Independent Set
+2021-11-03	09:16:52		Data Splitted into Dependent & Independent Set
+2021-11-03	09:16:52		Accessing the data
+2021-11-03	09:16:52		splitting the data into Dependent and Independent Set
+2021-11-03	09:16:52		Data Splitted into Dependent & Independent Set
+2021-11-03	09:16:52		Accessing the data
+2021-11-03	09:16:52		splitting the data into Dependent and Independent Set
+2021-11-03	09:16:52		Data Splitted into Dependent & Independent Set
+2021-11-03	09:16:52		Accessing the data
+2021-11-03	09:16:52		splitting the data into Dependent and Independent Set
+2021-11-03	09:16:52		Data Splitted into Dependent & Independent Set
+2021-11-03	09:26:05		Accessing the data
+2021-11-03	09:26:05		splitting the data into Dependent and Independent Set
+2021-11-03	09:26:05		Data Splitted into Dependent & Independent Set
+2021-11-03	09:26:05		Accessing the data
+2021-11-03	09:26:05		splitting the data into Dependent and Independent Set
+2021-11-03	09:26:05		Data Splitted into Dependent & Independent Set
+2021-11-03	09:30:15		Accessing the data
+2021-11-03	09:30:15		splitting the data into Dependent and Independent Set
+2021-11-03	09:30:15		Data Splitted into Dependent & Independent Set
+2021-11-03	09:30:15		Accessing the data
+2021-11-03	09:30:15		splitting the data into Dependent and Independent Set
+2021-11-03	09:30:15		Data Splitted into Dependent & Independent Set
+2021-11-03	09:33:56		Accessing the data
+2021-11-03	09:33:56		splitting the data into Dependent and Independent Set
+2021-11-03	09:33:56		Data Splitted into Dependent & Independent Set
+2021-11-03	09:33:56		Accessing the data
+2021-11-03	09:33:56		splitting the data into Dependent and Independent Set
+2021-11-03	09:33:56		Data Splitted into Dependent & Independent Set
+2021-11-03	09:43:24		Accessing the data
+2021-11-03	09:43:24		splitting the data into Dependent and Independent Set
+2021-11-03	09:43:24		Data Splitted into Dependent & Independent Set
+2021-11-03	09:43:29		Accessing the data
+2021-11-03	09:43:29		splitting the data into Dependent and Independent Set
+2021-11-03	09:43:29		Data Splitted into Dependent & Independent Set
+2021-11-03	09:43:29		Accessing the data
+2021-11-03	09:43:29		splitting the data into Dependent and Independent Set
+2021-11-03	09:43:29		Data Splitted into Dependent & Independent Set
+2021-11-03	09:43:29		Accessing the data
+2021-11-03	09:43:29		splitting the data into Dependent and Independent Set
+2021-11-03	09:43:29		Data Splitted into Dependent & Independent Set
+2021-11-03	09:43:29		Accessing the data
+2021-11-03	09:43:29		splitting the data into Dependent and Independent Set
+2021-11-03	09:43:29		Data Splitted into Dependent & Independent Set
+2021-11-03	09:52:19		Accessing the data
+2021-11-03	09:52:19		splitting the data into Dependent and Independent Set
+2021-11-03	09:52:19		Data Splitted into Dependent & Independent Set
+2021-11-03	09:52:19		Accessing the data
+2021-11-03	09:52:19		splitting the data into Dependent and Independent Set
+2021-11-03	09:52:19		Data Splitted into Dependent & Independent Set
+2021-11-03	10:06:42		Accessing the data
+2021-11-03	10:06:42		splitting the data into Dependent and Independent Set
+2021-11-03	10:06:42		Data Splitted into Dependent & Independent Set
+2021-11-03	10:06:42		Accessing the data
+2021-11-03	10:06:42		splitting the data into Dependent and Independent Set
+2021-11-03	10:06:42		Data Splitted into Dependent & Independent Set
+2021-11-03	10:08:33		Accessing the data
+2021-11-03	10:08:33		splitting the data into Dependent and Independent Set
+2021-11-03	10:08:33		Data Splitted into Dependent & Independent Set
+2021-11-03	10:08:33		Accessing the data
+2021-11-03	10:08:33		splitting the data into Dependent and Independent Set
+2021-11-03	10:08:33		Data Splitted into Dependent & Independent Set
+2021-11-03	10:23:24		Accessing the data
+2021-11-03	10:23:24		splitting the data into Dependent and Independent Set
+2021-11-03	10:23:24		Data Splitted into Dependent & Independent Set
+2021-11-03	10:26:31		Accessing the data
+2021-11-03	10:26:31		splitting the data into Dependent and Independent Set
+2021-11-03	10:26:31		Data Splitted into Dependent & Independent Set
+2021-11-03	10:26:35		Accessing the data
+2021-11-03	10:26:35		splitting the data into Dependent and Independent Set
+2021-11-03	10:26:35		Data Splitted into Dependent & Independent Set
+2021-11-03	10:26:35		Accessing the data
+2021-11-03	10:26:35		splitting the data into Dependent and Independent Set
+2021-11-03	10:26:35		Data Splitted into Dependent & Independent Set
+2021-11-03	10:26:35		Accessing the data
+2021-11-03	10:26:35		splitting the data into Dependent and Independent Set
+2021-11-03	10:26:35		Data Splitted into Dependent & Independent Set
+2021-11-03	10:26:35		Accessing the data
+2021-11-03	10:26:35		splitting the data into Dependent and Independent Set
+2021-11-03	10:26:35		Data Splitted into Dependent & Independent Set
+2021-11-03	10:35:11		Accessing the data
+2021-11-03	10:35:11		splitting the data into Dependent and Independent Set
+2021-11-03	10:35:11		Data Splitted into Dependent & Independent Set
+2021-11-03	10:35:11		Accessing the data
+2021-11-03	10:35:11		splitting the data into Dependent and Independent Set
+2021-11-03	10:35:11		Data Splitted into Dependent & Independent Set
+2021-11-03	10:49:06		Accessing the data
+2021-11-03	10:49:06		splitting the data into Dependent and Independent Set
+2021-11-03	10:49:06		Data Splitted into Dependent & Independent Set
+2021-11-03	10:49:06		Accessing the data
+2021-11-03	10:49:06		splitting the data into Dependent and Independent Set
+2021-11-03	10:49:06		Data Splitted into Dependent & Independent Set
+2021-11-03	10:50:47		Accessing the data
+2021-11-03	10:50:47		splitting the data into Dependent and Independent Set
+2021-11-03	10:50:47		Data Splitted into Dependent & Independent Set
+2021-11-03	10:50:47		Accessing the data
+2021-11-03	10:50:47		splitting the data into Dependent and Independent Set
+2021-11-03	10:50:47		Data Splitted into Dependent & Independent Set
+2021-11-03	10:55:02		Accessing the data
+2021-11-03	10:55:02		splitting the data into Dependent and Independent Set
+2021-11-03	10:55:02		Data Splitted into Dependent & Independent Set
+2021-11-03	10:55:09		Accessing the data
+2021-11-03	10:55:09		splitting the data into Dependent and Independent Set
+2021-11-03	10:55:09		Data Splitted into Dependent & Independent Set
+2021-11-03	10:56:01		Accessing the data
+2021-11-03	10:56:01		splitting the data into Dependent and Independent Set
+2021-11-03	10:56:01		Data Splitted into Dependent & Independent Set
+2021-11-03	10:56:01		Accessing the data
+2021-11-03	10:56:01		splitting the data into Dependent and Independent Set
+2021-11-03	10:56:01		Data Splitted into Dependent & Independent Set
+2021-11-03	10:56:01		Accessing the data
+2021-11-03	10:56:01		splitting the data into Dependent and Independent Set
+2021-11-03	10:56:01		Data Splitted into Dependent & Independent Set
+2021-11-03	10:56:01		Accessing the data
+2021-11-03	10:56:01		splitting the data into Dependent and Independent Set
+2021-11-03	10:56:01		Data Splitted into Dependent & Independent Set
+2021-11-03	11:04:35		Accessing the data
+2021-11-03	11:04:35		splitting the data into Dependent and Independent Set
+2021-11-03	11:04:35		Data Splitted into Dependent & Independent Set
+2021-11-03	11:04:35		Accessing the data
+2021-11-03	11:04:35		splitting the data into Dependent and Independent Set
+2021-11-03	11:04:35		Data Splitted into Dependent & Independent Set
+2021-11-03	11:17:57		Accessing the data
+2021-11-03	11:17:57		splitting the data into Dependent and Independent Set
+2021-11-03	11:17:57		Data Splitted into Dependent & Independent Set
+2021-11-03	11:17:57		Accessing the data
+2021-11-03	11:17:57		splitting the data into Dependent and Independent Set
+2021-11-03	11:17:57		Data Splitted into Dependent & Independent Set
+2021-11-03	11:19:52		Accessing the data
+2021-11-03	11:19:52		splitting the data into Dependent and Independent Set
+2021-11-03	11:19:52		Data Splitted into Dependent & Independent Set
+2021-11-03	11:19:52		Accessing the data
+2021-11-03	11:19:52		splitting the data into Dependent and Independent Set
+2021-11-03	11:19:52		Data Splitted into Dependent & Independent Set
+2021-11-03	11:34:55		Accessing the data
+2021-11-03	11:34:55		splitting the data into Dependent and Independent Set
+2021-11-03	11:34:55		Data Splitted into Dependent & Independent Set
+2021-11-03	11:34:58		Accessing the data
+2021-11-03	11:34:58		splitting the data into Dependent and Independent Set
+2021-11-03	11:34:58		Data Splitted into Dependent & Independent Set
+2021-11-03	11:34:58		Accessing the data
+2021-11-03	11:34:58		splitting the data into Dependent and Independent Set
+2021-11-03	11:34:58		Data Splitted into Dependent & Independent Set
+2021-11-03	11:34:58		Accessing the data
+2021-11-03	11:34:58		splitting the data into Dependent and Independent Set
+2021-11-03	11:34:58		Data Splitted into Dependent & Independent Set
+2021-11-03	11:34:58		Accessing the data
+2021-11-03	11:34:58		splitting the data into Dependent and Independent Set
+2021-11-03	11:34:58		Data Splitted into Dependent & Independent Set
+2021-11-03	11:43:31		Accessing the data
+2021-11-03	11:43:31		splitting the data into Dependent and Independent Set
+2021-11-03	11:43:31		Data Splitted into Dependent & Independent Set
+2021-11-03	11:43:31		Accessing the data
+2021-11-03	11:43:31		splitting the data into Dependent and Independent Set
+2021-11-03	11:43:31		Data Splitted into Dependent & Independent Set
+2021-11-03	11:58:52		Accessing the data
+2021-11-03	11:58:52		splitting the data into Dependent and Independent Set
+2021-11-03	11:58:52		Data Splitted into Dependent & Independent Set
+2021-11-03	11:58:52		Accessing the data
+2021-11-03	11:58:52		splitting the data into Dependent and Independent Set
+2021-11-03	11:58:52		Data Splitted into Dependent & Independent Set
+2021-11-03	12:00:46		Accessing the data
+2021-11-03	12:00:46		splitting the data into Dependent and Independent Set
+2021-11-03	12:00:46		Data Splitted into Dependent & Independent Set
+2021-11-03	12:00:46		Accessing the data
+2021-11-03	12:00:46		splitting the data into Dependent and Independent Set
+2021-11-03	12:00:46		Data Splitted into Dependent & Independent Set
+2021-11-03	12:14:29		Accessing the data
+2021-11-03	12:14:29		splitting the data into Dependent and Independent Set
+2021-11-03	12:14:29		Data Splitted into Dependent & Independent Set
+2021-11-03	12:14:37		Accessing the data
+2021-11-03	12:14:37		splitting the data into Dependent and Independent Set
+2021-11-03	12:14:37		Data Splitted into Dependent & Independent Set
+2021-11-03	12:14:37		Accessing the data
+2021-11-03	12:14:37		splitting the data into Dependent and Independent Set
+2021-11-03	12:14:37		Data Splitted into Dependent & Independent Set
+2021-11-03	12:14:37		Accessing the data
+2021-11-03	12:14:37		splitting the data into Dependent and Independent Set
+2021-11-03	12:14:37		Data Splitted into Dependent & Independent Set
+2021-11-03	12:14:37		Accessing the data
+2021-11-03	12:14:37		splitting the data into Dependent and Independent Set
+2021-11-03	12:14:37		Data Splitted into Dependent & Independent Set
+2021-11-03	12:23:14		Accessing the data
+2021-11-03	12:23:14		splitting the data into Dependent and Independent Set
+2021-11-03	12:23:14		Data Splitted into Dependent & Independent Set
+2021-11-03	12:23:14		Accessing the data
+2021-11-03	12:23:14		splitting the data into Dependent and Independent Set
+2021-11-03	12:23:14		Data Splitted into Dependent & Independent Set
+2021-11-03	12:37:27		Accessing the data
+2021-11-03	12:37:27		splitting the data into Dependent and Independent Set
+2021-11-03	12:37:27		Data Splitted into Dependent & Independent Set
+2021-11-03	12:37:27		Accessing the data
+2021-11-03	12:37:27		splitting the data into Dependent and Independent Set
+2021-11-03	12:37:27		Data Splitted into Dependent & Independent Set
+2021-11-03	12:39:07		Accessing the data
+2021-11-03	12:39:07		splitting the data into Dependent and Independent Set
+2021-11-03	12:39:07		Data Splitted into Dependent & Independent Set
+2021-11-03	12:39:07		Accessing the data
+2021-11-03	12:39:07		splitting the data into Dependent and Independent Set
+2021-11-03	12:39:07		Data Splitted into Dependent & Independent Set
+2021-11-03	12:45:14		Accessing the data
+2021-11-03	12:45:14		splitting the data into Dependent and Independent Set
+2021-11-03	12:45:14		Data Splitted into Dependent & Independent Set
+2021-11-03	12:45:17		Accessing the data
+2021-11-03	12:45:17		splitting the data into Dependent and Independent Set
+2021-11-03	12:45:17		Data Splitted into Dependent & Independent Set
+2021-11-03	12:45:17		Accessing the data
+2021-11-03	12:45:17		splitting the data into Dependent and Independent Set
+2021-11-03	12:45:17		Data Splitted into Dependent & Independent Set
+2021-11-03	12:45:17		Accessing the data
+2021-11-03	12:45:17		splitting the data into Dependent and Independent Set
+2021-11-03	12:45:17		Data Splitted into Dependent & Independent Set
+2021-11-03	12:45:17		Accessing the data
+2021-11-03	12:45:17		splitting the data into Dependent and Independent Set
+2021-11-03	12:45:17		Data Splitted into Dependent & Independent Set
+2021-11-03	12:53:47		Accessing the data
+2021-11-03	12:53:47		splitting the data into Dependent and Independent Set
+2021-11-03	12:53:47		Data Splitted into Dependent & Independent Set
+2021-11-03	12:53:47		Accessing the data
+2021-11-03	12:53:47		splitting the data into Dependent and Independent Set
+2021-11-03	12:53:47		Data Splitted into Dependent & Independent Set
+2021-11-03	12:57:25		Accessing the data
+2021-11-03	12:57:25		splitting the data into Dependent and Independent Set
+2021-11-03	12:57:25		Data Splitted into Dependent & Independent Set
+2021-11-03	12:57:30		Accessing the data
+2021-11-03	12:57:30		splitting the data into Dependent and Independent Set
+2021-11-03	12:57:30		Data Splitted into Dependent & Independent Set
+2021-11-03	12:57:34		Accessing the data
+2021-11-03	12:57:34		splitting the data into Dependent and Independent Set
+2021-11-03	12:57:34		Data Splitted into Dependent & Independent Set
+2021-11-03	12:57:38		Accessing the data
+2021-11-03	12:57:38		splitting the data into Dependent and Independent Set
+2021-11-03	12:57:38		Data Splitted into Dependent & Independent Set
+2021-11-03	12:57:38		Accessing the data
+2021-11-03	12:57:38		splitting the data into Dependent and Independent Set
+2021-11-03	12:57:38		Data Splitted into Dependent & Independent Set
+2021-11-03	12:57:38		Accessing the data
+2021-11-03	12:57:38		splitting the data into Dependent and Independent Set
+2021-11-03	12:57:38		Data Splitted into Dependent & Independent Set
+2021-11-03	12:57:38		Accessing the data
+2021-11-03	12:57:38		splitting the data into Dependent and Independent Set
+2021-11-03	12:57:38		Data Splitted into Dependent & Independent Set
+2021-11-03	13:06:12		Accessing the data
+2021-11-03	13:06:12		splitting the data into Dependent and Independent Set
+2021-11-03	13:06:12		Data Splitted into Dependent & Independent Set
+2021-11-03	13:06:12		Accessing the data
+2021-11-03	13:06:12		splitting the data into Dependent and Independent Set
+2021-11-03	13:06:12		Data Splitted into Dependent & Independent Set
+2021-11-03	13:18:29		Accessing the data
+2021-11-03	13:18:29		splitting the data into Dependent and Independent Set
+2021-11-03	13:18:29		Data Splitted into Dependent & Independent Set
+2021-11-03	13:18:29		Accessing the data
+2021-11-03	13:18:29		splitting the data into Dependent and Independent Set
+2021-11-03	13:18:29		Data Splitted into Dependent & Independent Set
+2021-11-03	13:20:20		Accessing the data
+2021-11-03	13:20:20		splitting the data into Dependent and Independent Set
+2021-11-03	13:20:20		Data Splitted into Dependent & Independent Set
+2021-11-03	13:20:20		Accessing the data
+2021-11-03	13:20:20		splitting the data into Dependent and Independent Set
+2021-11-03	13:20:20		Data Splitted into Dependent & Independent Set
+2021-11-03	13:25:23		Accessing the data
+2021-11-03	13:25:23		splitting the data into Dependent and Independent Set
+2021-11-03	13:25:23		Data Splitted into Dependent & Independent Set
+2021-11-03	13:25:28		Accessing the data
+2021-11-03	13:25:28		splitting the data into Dependent and Independent Set
+2021-11-03	13:25:28		Data Splitted into Dependent & Independent Set
+2021-11-03	13:25:33		Accessing the data
+2021-11-03	13:25:33		splitting the data into Dependent and Independent Set
+2021-11-03	13:25:33		Data Splitted into Dependent & Independent Set
+2021-11-03	13:25:37		Accessing the data
+2021-11-03	13:25:37		splitting the data into Dependent and Independent Set
+2021-11-03	13:25:37		Data Splitted into Dependent & Independent Set
+2021-11-03	13:25:37		Accessing the data
+2021-11-03	13:25:37		splitting the data into Dependent and Independent Set
+2021-11-03	13:25:37		Data Splitted into Dependent & Independent Set
+2021-11-03	13:25:37		Accessing the data
+2021-11-03	13:25:37		splitting the data into Dependent and Independent Set
+2021-11-03	13:25:37		Data Splitted into Dependent & Independent Set
+2021-11-03	13:25:37		Accessing the data
+2021-11-03	13:25:37		splitting the data into Dependent and Independent Set
+2021-11-03	13:25:37		Data Splitted into Dependent & Independent Set
+2021-11-03	13:34:20		Accessing the data
+2021-11-03	13:34:20		splitting the data into Dependent and Independent Set
+2021-11-03	13:34:20		Data Splitted into Dependent & Independent Set
+2021-11-03	13:34:20		Accessing the data
+2021-11-03	13:34:20		splitting the data into Dependent and Independent Set
+2021-11-03	13:34:20		Data Splitted into Dependent & Independent Set
+2021-11-03	13:48:46		Accessing the data
+2021-11-03	13:48:46		splitting the data into Dependent and Independent Set
+2021-11-03	13:48:46		Data Splitted into Dependent & Independent Set
+2021-11-03	13:48:46		Accessing the data
+2021-11-03	13:48:46		splitting the data into Dependent and Independent Set
+2021-11-03	13:48:46		Data Splitted into Dependent & Independent Set
+2021-11-03	13:50:47		Accessing the data
+2021-11-03	13:50:47		splitting the data into Dependent and Independent Set
+2021-11-03	13:50:47		Data Splitted into Dependent & Independent Set
+2021-11-03	13:50:47		Accessing the data
+2021-11-03	13:50:47		splitting the data into Dependent and Independent Set
+2021-11-03	13:50:47		Data Splitted into Dependent & Independent Set
+2021-11-03	13:58:52		Accessing the data
+2021-11-03	13:58:52		splitting the data into Dependent and Independent Set
+2021-11-03	13:58:52		Data Splitted into Dependent & Independent Set
+2021-11-03	13:58:56		Accessing the data
+2021-11-03	13:58:56		splitting the data into Dependent and Independent Set
+2021-11-03	13:58:56		Data Splitted into Dependent & Independent Set
+2021-11-03	13:59:00		Accessing the data
+2021-11-03	13:59:00		splitting the data into Dependent and Independent Set
+2021-11-03	13:59:00		Data Splitted into Dependent & Independent Set
+2021-11-03	13:59:03		Accessing the data
+2021-11-03	13:59:03		splitting the data into Dependent and Independent Set
+2021-11-03	13:59:03		Data Splitted into Dependent & Independent Set
+2021-11-03	13:59:03		Accessing the data
+2021-11-03	13:59:03		splitting the data into Dependent and Independent Set
+2021-11-03	13:59:03		Data Splitted into Dependent & Independent Set
+2021-11-03	13:59:03		Accessing the data
+2021-11-03	13:59:03		splitting the data into Dependent and Independent Set
+2021-11-03	13:59:03		Data Splitted into Dependent & Independent Set
+2021-11-03	13:59:03		Accessing the data
+2021-11-03	13:59:03		splitting the data into Dependent and Independent Set
+2021-11-03	13:59:03		Data Splitted into Dependent & Independent Set
+2021-11-03	14:08:01		Accessing the data
+2021-11-03	14:08:01		splitting the data into Dependent and Independent Set
+2021-11-03	14:08:01		Data Splitted into Dependent & Independent Set
+2021-11-03	14:08:01		Accessing the data
+2021-11-03	14:08:01		splitting the data into Dependent and Independent Set
+2021-11-03	14:08:01		Data Splitted into Dependent & Independent Set
+2021-11-03	14:22:35		Accessing the data
+2021-11-03	14:22:35		splitting the data into Dependent and Independent Set
+2021-11-03	14:22:35		Data Splitted into Dependent & Independent Set
+2021-11-03	14:22:35		Accessing the data
+2021-11-03	14:22:35		splitting the data into Dependent and Independent Set
+2021-11-03	14:22:35		Data Splitted into Dependent & Independent Set
+2021-11-03	14:24:31		Accessing the data
+2021-11-03	14:24:31		splitting the data into Dependent and Independent Set
+2021-11-03	14:24:31		Data Splitted into Dependent & Independent Set
+2021-11-03	14:24:31		Accessing the data
+2021-11-03	14:24:31		splitting the data into Dependent and Independent Set
+2021-11-03	14:24:31		Data Splitted into Dependent & Independent Set
+2021-11-06	11:47:04		Accessing the data
+2021-11-06	11:47:04		splitting the data into Dependent and Independent Set
+2021-11-06	11:47:04		Data Splitted into Dependent & Independent Set
+2021-11-06	11:48:39		Accessing the data
+2021-11-06	11:48:39		splitting the data into Dependent and Independent Set
+2021-11-06	11:48:39		Data Splitted into Dependent & Independent Set
+2021-11-06	11:49:00		Accessing the data
+2021-11-06	11:49:00		splitting the data into Dependent and Independent Set
+2021-11-06	11:49:00		Data Splitted into Dependent & Independent Set
+2021-11-06	11:49:08		Accessing the data
+2021-11-06	11:49:08		splitting the data into Dependent and Independent Set
+2021-11-06	11:49:08		Data Splitted into Dependent & Independent Set
+2021-11-06	11:49:15		Accessing the data
+2021-11-06	11:49:15		splitting the data into Dependent and Independent Set
+2021-11-06	11:49:15		Data Splitted into Dependent & Independent Set
+2021-11-06	11:49:15		Accessing the data
+2021-11-06	11:49:15		splitting the data into Dependent and Independent Set
+2021-11-06	11:49:15		Data Splitted into Dependent & Independent Set
+2021-11-06	11:49:15		Accessing the data
+2021-11-06	11:49:15		splitting the data into Dependent and Independent Set
+2021-11-06	11:49:15		Data Splitted into Dependent & Independent Set
+2021-11-06	11:49:15		Accessing the data
+2021-11-06	11:49:15		splitting the data into Dependent and Independent Set
+2021-11-06	11:49:15		Data Splitted into Dependent & Independent Set
+2021-11-06	11:50:45		Accessing the data
+2021-11-06	11:50:45		splitting the data into Dependent and Independent Set
+2021-11-06	11:50:45		Data Splitted into Dependent & Independent Set
+2021-11-06	11:50:45		Accessing the data
+2021-11-06	11:50:45		splitting the data into Dependent and Independent Set
+2021-11-06	11:50:45		Data Splitted into Dependent & Independent Set
+2021-11-06	11:50:45		Accessing the data
+2021-11-06	11:50:45		splitting the data into Dependent and Independent Set
+2021-11-06	11:50:45		Data Splitted into Dependent & Independent Set
+2021-11-06	11:52:52		Accessing the data
+2021-11-06	11:52:52		splitting the data into Dependent and Independent Set
+2021-11-06	11:52:52		Data Splitted into Dependent & Independent Set
+2021-11-06	11:52:56		Accessing the data
+2021-11-06	11:52:56		splitting the data into Dependent and Independent Set
+2021-11-06	11:52:56		Data Splitted into Dependent & Independent Set
+2021-11-06	11:53:01		Accessing the data
+2021-11-06	11:53:01		splitting the data into Dependent and Independent Set
+2021-11-06	11:53:01		Data Splitted into Dependent & Independent Set
+2021-11-06	11:53:01		Accessing the data
+2021-11-06	11:53:01		splitting the data into Dependent and Independent Set
+2021-11-06	11:53:01		Data Splitted into Dependent & Independent Set
+2021-11-06	11:53:01		Accessing the data
+2021-11-06	11:53:01		splitting the data into Dependent and Independent Set
+2021-11-06	11:53:01		Data Splitted into Dependent & Independent Set
+2021-11-06	11:55:01		Accessing the data
+2021-11-06	11:55:01		splitting the data into Dependent and Independent Set
+2021-11-06	11:55:01		Data Splitted into Dependent & Independent Set
+2021-11-06	11:55:05		Accessing the data
+2021-11-06	11:55:05		splitting the data into Dependent and Independent Set
+2021-11-06	11:55:05		Data Splitted into Dependent & Independent Set
+2021-11-06	11:55:08		Accessing the data
+2021-11-06	11:55:08		splitting the data into Dependent and Independent Set
+2021-11-06	11:55:08		Data Splitted into Dependent & Independent Set
+2021-11-06	11:55:08		Accessing the data
+2021-11-06	11:55:08		splitting the data into Dependent and Independent Set
+2021-11-06	11:55:08		Data Splitted into Dependent & Independent Set
+2021-11-06	11:55:08		Accessing the data
+2021-11-06	11:55:08		splitting the data into Dependent and Independent Set
+2021-11-06	11:55:08		Data Splitted into Dependent & Independent Set
+2021-11-06	11:57:50		Accessing the data
+2021-11-06	11:57:50		splitting the data into Dependent and Independent Set
+2021-11-06	11:57:50		Data Splitted into Dependent & Independent Set
+2021-11-06	11:57:53		Accessing the data
+2021-11-06	11:57:53		splitting the data into Dependent and Independent Set
+2021-11-06	11:57:53		Data Splitted into Dependent & Independent Set
+2021-11-06	11:57:55		Accessing the data
+2021-11-06	11:57:55		splitting the data into Dependent and Independent Set
+2021-11-06	11:57:55		Data Splitted into Dependent & Independent Set
+2021-11-06	11:57:55		Accessing the data
+2021-11-06	11:57:55		splitting the data into Dependent and Independent Set
+2021-11-06	11:57:55		Data Splitted into Dependent & Independent Set
+2021-11-06	11:57:55		Accessing the data
+2021-11-06	11:57:55		splitting the data into Dependent and Independent Set
+2021-11-06	11:57:55		Data Splitted into Dependent & Independent Set
+2021-11-06	12:02:36		Accessing the data
+2021-11-06	12:02:36		splitting the data into Dependent and Independent Set
+2021-11-06	12:02:36		Data Splitted into Dependent & Independent Set
+2021-11-06	12:02:39		Accessing the data
+2021-11-06	12:02:39		splitting the data into Dependent and Independent Set
+2021-11-06	12:02:39		Data Splitted into Dependent & Independent Set
+2021-11-06	12:02:43		Accessing the data
+2021-11-06	12:02:43		splitting the data into Dependent and Independent Set
+2021-11-06	12:02:43		Data Splitted into Dependent & Independent Set
+2021-11-06	12:02:43		Accessing the data
+2021-11-06	12:02:43		splitting the data into Dependent and Independent Set
+2021-11-06	12:02:43		Data Splitted into Dependent & Independent Set
+2021-11-06	12:02:43		Accessing the data
+2021-11-06	12:02:43		splitting the data into Dependent and Independent Set
+2021-11-06	12:02:43		Data Splitted into Dependent & Independent Set
+2021-11-06	12:04:47		Accessing the data
+2021-11-06	12:04:47		splitting the data into Dependent and Independent Set
+2021-11-06	12:04:47		Data Splitted into Dependent & Independent Set
+2021-11-06	12:04:49		Accessing the data
+2021-11-06	12:04:49		splitting the data into Dependent and Independent Set
+2021-11-06	12:04:49		Data Splitted into Dependent & Independent Set
+2021-11-06	12:04:52		Accessing the data
+2021-11-06	12:04:52		splitting the data into Dependent and Independent Set
+2021-11-06	12:04:52		Data Splitted into Dependent & Independent Set
+2021-11-06	12:04:52		Accessing the data
+2021-11-06	12:04:52		splitting the data into Dependent and Independent Set
+2021-11-06	12:04:52		Data Splitted into Dependent & Independent Set
+2021-11-06	12:04:52		Accessing the data
+2021-11-06	12:04:52		splitting the data into Dependent and Independent Set
+2021-11-06	12:04:52		Data Splitted into Dependent & Independent Set
+2021-11-06	12:07:10		Accessing the data
+2021-11-06	12:07:10		splitting the data into Dependent and Independent Set
+2021-11-06	12:07:10		Data Splitted into Dependent & Independent Set
+2021-11-06	12:07:15		Accessing the data
+2021-11-06	12:07:15		splitting the data into Dependent and Independent Set
+2021-11-06	12:07:15		Data Splitted into Dependent & Independent Set
+2021-11-06	12:07:19		Accessing the data
+2021-11-06	12:07:19		splitting the data into Dependent and Independent Set
+2021-11-06	12:07:19		Data Splitted into Dependent & Independent Set
+2021-11-06	12:07:19		Accessing the data
+2021-11-06	12:07:19		splitting the data into Dependent and Independent Set
+2021-11-06	12:07:19		Data Splitted into Dependent & Independent Set
+2021-11-06	12:07:19		Accessing the data
+2021-11-06	12:07:19		splitting the data into Dependent and Independent Set
+2021-11-06	12:07:19		Data Splitted into Dependent & Independent Set
+2021-11-06	12:12:05		Accessing the data
+2021-11-06	12:12:05		splitting the data into Dependent and Independent Set
+2021-11-06	12:12:05		Data Splitted into Dependent & Independent Set
+2021-11-06	12:12:05		Accessing the data
+2021-11-06	12:12:05		splitting the data into Dependent and Independent Set
+2021-11-06	12:12:05		Data Splitted into Dependent & Independent Set
+2021-11-06	12:12:05		Accessing the data
+2021-11-06	12:12:05		splitting the data into Dependent and Independent Set
+2021-11-06	12:12:05		Data Splitted into Dependent & Independent Set
+2021-11-06	12:12:36		Accessing the data
+2021-11-06	12:12:36		splitting the data into Dependent and Independent Set
+2021-11-06	12:12:36		Data Splitted into Dependent & Independent Set
+2021-11-06	12:12:36		Accessing the data
+2021-11-06	12:12:36		splitting the data into Dependent and Independent Set
+2021-11-06	12:12:36		Data Splitted into Dependent & Independent Set
+2021-11-06	12:12:36		Accessing the data
+2021-11-06	12:12:36		splitting the data into Dependent and Independent Set
+2021-11-06	12:12:36		Data Splitted into Dependent & Independent Set
+2021-11-06	12:13:30		Accessing the data
+2021-11-06	12:13:30		splitting the data into Dependent and Independent Set
+2021-11-06	12:13:30		Data Splitted into Dependent & Independent Set
+2021-11-06	12:13:30		Accessing the data
+2021-11-06	12:13:30		splitting the data into Dependent and Independent Set
+2021-11-06	12:13:30		Data Splitted into Dependent & Independent Set
+2021-11-06	12:13:30		Accessing the data
+2021-11-06	12:13:30		splitting the data into Dependent and Independent Set
+2021-11-06	12:13:30		Data Splitted into Dependent & Independent Set
+2021-11-06	12:13:54		Accessing the data
+2021-11-06	12:13:54		splitting the data into Dependent and Independent Set
+2021-11-06	12:13:54		Data Splitted into Dependent & Independent Set
+2021-11-06	12:13:54		Accessing the data
+2021-11-06	12:13:54		splitting the data into Dependent and Independent Set
+2021-11-06	12:13:54		Data Splitted into Dependent & Independent Set
+2021-11-06	12:13:54		Accessing the data
+2021-11-06	12:13:54		splitting the data into Dependent and Independent Set
+2021-11-06	12:13:54		Data Splitted into Dependent & Independent Set
+2021-11-06	12:15:46		Accessing the data
+2021-11-06	12:15:46		splitting the data into Dependent and Independent Set
+2021-11-06	12:15:46		Data Splitted into Dependent & Independent Set
+2021-11-06	12:15:46		Accessing the data
+2021-11-06	12:15:46		splitting the data into Dependent and Independent Set
+2021-11-06	12:15:46		Data Splitted into Dependent & Independent Set
+2021-11-06	12:15:46		Accessing the data
+2021-11-06	12:15:46		splitting the data into Dependent and Independent Set
+2021-11-06	12:15:46		Data Splitted into Dependent & Independent Set
+2021-11-06	12:15:46		Accessing the data
+2021-11-06	12:15:46		splitting the data into Dependent and Independent Set
+2021-11-06	12:15:46		Data Splitted into Dependent & Independent Set
+2021-11-06	12:18:15		Accessing the data
+2021-11-06	12:18:15		splitting the data into Dependent and Independent Set
+2021-11-06	12:18:15		Data Splitted into Dependent & Independent Set
+2021-11-06	12:18:15		Accessing the data
+2021-11-06	12:18:15		splitting the data into Dependent and Independent Set
+2021-11-06	12:18:15		Data Splitted into Dependent & Independent Set
+2021-11-06	12:19:01		Accessing the data
+2021-11-06	12:19:01		splitting the data into Dependent and Independent Set
+2021-11-06	12:19:01		Data Splitted into Dependent & Independent Set
+2021-11-06	12:19:01		Accessing the data
+2021-11-06	12:19:01		splitting the data into Dependent and Independent Set
+2021-11-06	12:19:01		Data Splitted into Dependent & Independent Set
+2021-11-06	12:21:15		Accessing the data
+2021-11-06	12:21:15		splitting the data into Dependent and Independent Set
+2021-11-06	12:21:15		Data Splitted into Dependent & Independent Set
+2021-11-06	12:21:15		Accessing the data
+2021-11-06	12:21:15		splitting the data into Dependent and Independent Set
+2021-11-06	12:21:15		Data Splitted into Dependent & Independent Set
+2021-11-06	12:23:31		Accessing the data
+2021-11-06	12:23:31		splitting the data into Dependent and Independent Set
+2021-11-06	12:23:31		Data Splitted into Dependent & Independent Set
+2021-11-06	12:23:31		Accessing the data
+2021-11-06	12:23:31		splitting the data into Dependent and Independent Set
+2021-11-06	12:23:31		Data Splitted into Dependent & Independent Set
+2021-11-06	12:23:31		Accessing the data
+2021-11-06	12:23:31		splitting the data into Dependent and Independent Set
+2021-11-06	12:23:31		Data Splitted into Dependent & Independent Set
+2021-11-06	12:23:31		Accessing the data
+2021-11-06	12:23:31		splitting the data into Dependent and Independent Set
+2021-11-06	12:23:31		Data Splitted into Dependent & Independent Set
+2021-11-06	12:26:03		Accessing the data
+2021-11-06	12:26:03		splitting the data into Dependent and Independent Set
+2021-11-06	12:26:03		Data Splitted into Dependent & Independent Set
+2021-11-06	12:26:03		Accessing the data
+2021-11-06	12:26:03		splitting the data into Dependent and Independent Set
+2021-11-06	12:26:03		Data Splitted into Dependent & Independent Set
+2021-11-06	12:27:07		Accessing the data
+2021-11-06	12:27:07		splitting the data into Dependent and Independent Set
+2021-11-06	12:27:07		Data Splitted into Dependent & Independent Set
+2021-11-06	12:27:07		Accessing the data
+2021-11-06	12:27:07		splitting the data into Dependent and Independent Set
+2021-11-06	12:27:07		Data Splitted into Dependent & Independent Set
+2021-11-06	12:30:25		Accessing the data
+2021-11-06	12:30:25		splitting the data into Dependent and Independent Set
+2021-11-06	12:30:25		Data Splitted into Dependent & Independent Set
+2021-11-06	12:30:29		Accessing the data
+2021-11-06	12:30:29		splitting the data into Dependent and Independent Set
+2021-11-06	12:30:29		Data Splitted into Dependent & Independent Set
+2021-11-06	12:30:32		Accessing the data
+2021-11-06	12:30:32		splitting the data into Dependent and Independent Set
+2021-11-06	12:30:32		Data Splitted into Dependent & Independent Set
+2021-11-06	12:30:32		Accessing the data
+2021-11-06	12:30:32		splitting the data into Dependent and Independent Set
+2021-11-06	12:30:32		Data Splitted into Dependent & Independent Set
+2021-11-06	12:30:32		Accessing the data
+2021-11-06	12:30:32		splitting the data into Dependent and Independent Set
+2021-11-06	12:30:32		Data Splitted into Dependent & Independent Set
+2021-11-06	12:30:32		Accessing the data
+2021-11-06	12:30:32		splitting the data into Dependent and Independent Set
+2021-11-06	12:30:32		Data Splitted into Dependent & Independent Set
+2021-11-06	12:33:06		Accessing the data
+2021-11-06	12:33:06		splitting the data into Dependent and Independent Set
+2021-11-06	12:33:06		Data Splitted into Dependent & Independent Set
+2021-11-06	12:33:06		Accessing the data
+2021-11-06	12:33:06		splitting the data into Dependent and Independent Set
+2021-11-06	12:33:06		Data Splitted into Dependent & Independent Set
+2021-11-06	12:33:50		Accessing the data
+2021-11-06	12:33:50		splitting the data into Dependent and Independent Set
+2021-11-06	12:33:50		Data Splitted into Dependent & Independent Set
+2021-11-06	12:33:50		Accessing the data
+2021-11-06	12:33:50		splitting the data into Dependent and Independent Set
+2021-11-06	12:33:50		Data Splitted into Dependent & Independent Set
+2021-11-06	12:39:34		Accessing the data
+2021-11-06	12:39:34		splitting the data into Dependent and Independent Set
+2021-11-06	12:39:34		Data Splitted into Dependent & Independent Set
+2021-11-06	12:39:34		Accessing the data
+2021-11-06	12:39:34		splitting the data into Dependent and Independent Set
+2021-11-06	12:39:34		Data Splitted into Dependent & Independent Set
+2021-11-06	12:39:34		Accessing the data
+2021-11-06	12:39:34		splitting the data into Dependent and Independent Set
+2021-11-06	12:39:34		Data Splitted into Dependent & Independent Set
+2021-11-06	12:39:34		Accessing the data
+2021-11-06	12:39:34		splitting the data into Dependent and Independent Set
+2021-11-06	12:39:34		Data Splitted into Dependent & Independent Set
+2021-11-06	12:41:59		Accessing the data
+2021-11-06	12:41:59		splitting the data into Dependent and Independent Set
+2021-11-06	12:41:59		Data Splitted into Dependent & Independent Set
+2021-11-06	12:41:59		Accessing the data
+2021-11-06	12:41:59		splitting the data into Dependent and Independent Set
+2021-11-06	12:41:59		Data Splitted into Dependent & Independent Set
+2021-11-06	12:42:44		Accessing the data
+2021-11-06	12:42:44		splitting the data into Dependent and Independent Set
+2021-11-06	12:42:44		Data Splitted into Dependent & Independent Set
+2021-11-06	12:42:44		Accessing the data
+2021-11-06	12:42:44		splitting the data into Dependent and Independent Set
+2021-11-06	12:42:44		Data Splitted into Dependent & Independent Set
+2021-11-06	12:45:59		Accessing the data
+2021-11-06	12:45:59		splitting the data into Dependent and Independent Set
+2021-11-06	12:45:59		Data Splitted into Dependent & Independent Set
+2021-11-06	12:45:59		Accessing the data
+2021-11-06	12:45:59		splitting the data into Dependent and Independent Set
+2021-11-06	12:45:59		Data Splitted into Dependent & Independent Set
+2021-11-06	12:45:59		Accessing the data
+2021-11-06	12:45:59		splitting the data into Dependent and Independent Set
+2021-11-06	12:45:59		Data Splitted into Dependent & Independent Set
+2021-11-06	12:45:59		Accessing the data
+2021-11-06	12:45:59		splitting the data into Dependent and Independent Set
+2021-11-06	12:45:59		Data Splitted into Dependent & Independent Set
+2021-11-06	12:48:16		Accessing the data
+2021-11-06	12:48:16		splitting the data into Dependent and Independent Set
+2021-11-06	12:48:16		Data Splitted into Dependent & Independent Set
+2021-11-06	12:48:16		Accessing the data
+2021-11-06	12:48:16		splitting the data into Dependent and Independent Set
+2021-11-06	12:48:16		Data Splitted into Dependent & Independent Set
+2021-11-06	12:49:06		Accessing the data
+2021-11-06	12:49:06		splitting the data into Dependent and Independent Set
+2021-11-06	12:49:06		Data Splitted into Dependent & Independent Set
+2021-11-06	12:49:06		Accessing the data
+2021-11-06	12:49:06		splitting the data into Dependent and Independent Set
+2021-11-06	12:49:06		Data Splitted into Dependent & Independent Set
+2021-11-06	12:51:33		Accessing the data
+2021-11-06	12:51:33		splitting the data into Dependent and Independent Set
+2021-11-06	12:51:33		Data Splitted into Dependent & Independent Set
+2021-11-06	12:51:33		Accessing the data
+2021-11-06	12:51:33		splitting the data into Dependent and Independent Set
+2021-11-06	12:51:33		Data Splitted into Dependent & Independent Set
+2021-11-06	12:51:33		Accessing the data
+2021-11-06	12:51:33		splitting the data into Dependent and Independent Set
+2021-11-06	12:51:33		Data Splitted into Dependent & Independent Set
+2021-11-06	12:51:33		Accessing the data
+2021-11-06	12:51:33		splitting the data into Dependent and Independent Set
+2021-11-06	12:51:33		Data Splitted into Dependent & Independent Set
+2021-11-06	12:53:51		Accessing the data
+2021-11-06	12:53:51		splitting the data into Dependent and Independent Set
+2021-11-06	12:53:51		Data Splitted into Dependent & Independent Set
+2021-11-06	12:53:51		Accessing the data
+2021-11-06	12:53:51		splitting the data into Dependent and Independent Set
+2021-11-06	12:53:51		Data Splitted into Dependent & Independent Set
+2021-11-06	12:54:43		Accessing the data
+2021-11-06	12:54:43		splitting the data into Dependent and Independent Set
+2021-11-06	12:54:43		Data Splitted into Dependent & Independent Set
+2021-11-06	12:54:43		Accessing the data
+2021-11-06	12:54:43		splitting the data into Dependent and Independent Set
+2021-11-06	12:54:43		Data Splitted into Dependent & Independent Set
